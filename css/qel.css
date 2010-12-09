@@ -1,0 +1,31 @@
+/* This is a simple CSS1 style sheet for displaying a raw QEL file 
+   in a fairly readable, though not particularly attractive, way.
+   Improvements to this style sheet would be welcome.
+*/
+
+title {display:block; font-size:large}
+editor {display:block}
+description {display:none}
+copyright {display:block; font-size: small}
+license {display:none}
+
+quotation {display:block; padding: 0.5em}
+p {display:block; padding: 0.1em; white-space:normal}
+author {display:block ; white-space:normal ; 
+        font-weight:bold; margin-left: 5em}
+source {display:block ; white-space:normal ; 
+        margin-left: 5em}
+note {font-size: smaller; white-space:normal ; 
+      display:block ; margin-left: 5em}
+
+/* Horizontal-mode elements */
+
+br {display:block}
+cite {display:inline; font-style:italic}
+code {display:block; font: Courier,monospace}
+em {display:inline; font-style:italic}
+foreign {display:inline; font-style:italic}
+pre {display:block; white-space: pre; font: monospace}
+
+
+

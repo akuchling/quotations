@@ -5,20 +5,15 @@ initial_dir = os.getcwd()
 file = sys.argv[1]
 os.chdir(file)
 
-titles = {'cryptography':'Cryptography Quotes',
-          'doctor-who': 'Doctor Who Quotes',
+titles = {'doctor-who': 'Doctor Who Quotes',
           'comics': 'Comic Book Quotes',
           'hp-lovecraft':'H.P. Lovecraft Quotes',
           'housing-bubble':'Housing Bubble Quotes',
           'neil-gaiman':'Neil Gaiman Quotes',
-          'peter-greenaway':'Peter Greenaway Quotes',
           'python-quotes':'Python Quotes',
           'quotations':'Commonplace Book',
-          'robertson-davies': 'Quotes from Robertson Davies',
           'shakespeare': 'Quotes from William Shakespeare',
           'sherlock-holmes': 'Quotes from Conan Doyle\'s Sherlock Holmes',
-          'tom-baker': 'Quotes from Tom Baker',
-	  'wedding': 'Wedding readings'
           }
 
 keywords = {'doctor-who':'DW, Doctor Who, drwho, rec.arts.drwho,'
@@ -36,11 +31,9 @@ keywords = {'doctor-who':'DW, Doctor Who, drwho, rec.arts.drwho,'
                           '',
             'sherlock-holmes': 'Sherlock Holmes, Sir Arthur Conan Doyle, '
                                'Watson',
-            'robertson-davies':'Robertson Davies',
             'python-quotes': ('open source, free software, python, '
                               'software engineering, software development'),
             'quotations':'commonplace book, collection',
-	    'wedding':'love, marriage, wedding'
             }
 
 related_links = {
@@ -103,7 +96,7 @@ while 1:
         output = open(output_filename(page)+'.ht', 'w')
         title = titles[file]
         output.write("Title: %s, page %i of %i\n" % (title, page, total))
-        output.write('stylesheet: /quotations/quotations.css\n')
+        output.write('stylesheet: /css/quotations.css\n')
         if page == 1 and keywords.has_key(file):
             output.write('Keywords: quotations, quotes, %s, %s\n'
                          % (title, keywords[file]) )
@@ -150,15 +143,14 @@ link.write("""<li><a href="../%s.txt">ASCII</a>
 link.write("""<H3>Other&nbsp;Collections</H3>
 <LI><A HREF="../">Index</a>
 <LI><A HREF="../comics/">Comics</A>
-<LI><A HREF="../cryptography/">Cryptography</A>
 <LI><A HREF="../quotations/">Commonplace&nbsp;book</A>
 <LI><A HREF="../doctor-who/">Doctor&nbsp;Who</A>
 <LI><A HREF="../neil-gaiman/">Neil&nbsp;Gaiman</A>
 <LI><A HREF="../peter-greenaway/">Peter&nbsp;Greenaway</A>
+<LI><A HREF="../hp-lovecraft/">H.P.&nbsp;Lovecraft</A>
 <LI><A HREF="../python-quotes/">Python</A>
-<LI><A HREF="../robertson-davies/">Robertson&nbsp;Davies</A>
+<LI><A HREF="../shakespeare/">Shakespeare</A>
 <LI><A HREF="../sherlock-holmes/">Sherlock&nbsp;Holmes</A>
-<LI><A HREF="../tom-baker/">Tom&nbsp;Baker</A>
 """)
 
 link.close()
@@ -167,7 +159,7 @@ if os.path.islink('index.html'):
     os.unlink('index.html')
 
 f=open('.htaccess', 'w')
-f.write("""RedirectPermanent /quotations/%s/page-1.html http://www.amk.ca/quotations/%s/\n""" % (file, file))
-f.write("""RedirectPermanent /quotations/%s/page-1 http://www.amk.ca/quotations/%s/\n""" % (file, file))
+f.write("""RedirectPermanent /%s/page-1.html http://quotations.amk.ca/%s/\n""" % (file, file))
+f.write("""RedirectPermanent /%s/page-1 http://quotations.amk.ca/%s/\n""" % (file, file))
 f.close()
 
