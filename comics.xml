@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<!DOCTYPE quotations [
+  <!ENTITY ccedil "&#231;"> <!-- latin small letter c with cedilla -->
+  <!ENTITY eacute "&#233;"> <!-- latin small letter e with acute -->
+]>
+<?xml-stylesheet href="http://www.amk.ca/qel/qel.css"?>
+
+<quotations xmlns="http://www.amk.ca/qel/"
+            xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+  <title>Comic Book Quotations</title>
+  <description>Quotations from various comic book titles.</description>
+  <editor>A.M. Kuchling</editor>
+  <!-- Creative Commons Attribution-ShareAlike license -->
+  <rdf:RDF xmlns="http://web.resource.org/cc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+       <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+       <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+    </Work>
+
+    <License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+       <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+       <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+       <requires rdf:resource="http://web.resource.org/cc/Notice" />
+       <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+       <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+       <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+    </License>
+
+    </rdf:RDF>
+
+  <quotation id="q1">
+    <p>
+      You're a good guy, Doc. You're sensitive and caring and compassionate.
+      And if I could, I'd spew in your face.
+    </p>
+    <source>Cliff Steele in DOOM PATROL #19</source>
+  </quotation>
+
+  <quotation id="q2">
+    <p>
+      "Hello, Kay. Isn't it a bit wet to be painting?"
+    </p>
+    <p>
+      "Kay's down in the underground, where there's no rain. You're talking
+      to the hangman's beautiful daughter."
+    </p>
+    <source>Magnus and Kay Challis ("Crazy Jane") in DOOM PATROL #19.</source>
+  </quotation>
+
+  <quotation id="q3">
+    <p>
+      I've tried to be like them, I really have. But what happens when you
+      just can't be strong anymore? What happens if you're weak? My
+      painting's ruined. Everything's gone wrong.
+    </p>
+    <source>Crazy Jane in DOOM PATROL #19</source>
+  </quotation>
+
+  <quotation id="q4">
+    <p>
+      Guy was a human torch, you know? Literally. His hair... everything...
+      but he kept on walking. Real slow, like in a bad dream. Before he
+      died, he said something weird. I... I got it written down right here.
+      "...scissormen... The scissormen!"
+    </p>
+    <source>A stunned cop in DOOM PATROL #19</source>
+  </quotation>
+
+  <quotation id="q5">
+    <p>
+      It begins to rain fish. Mackerel. Herring. Sea bass. Pike. Sturgeon.
+      Tench. Plaice. Salmon. From a clear sky. Trout. No cod.
+    </p>
+    <source>Father McGarry's last sight, in DOOM PATROL #20.</source>
+  </quotation>
+
+  <quotation id="q6">
+    <p>
+      "Rain Brain says your voice is like an old black telephone and Black
+      Annis told me to tell you that you're the first man she hasn't wanted
+      to castrate."
+    </p>
+    <p>
+      "Tell her she'd be too late anyway."
+    </p>
+    <source>Crazy Jane and Cliff Steele in DOOM PATROL #20.</source>
+  </quotation>
+
+  <quotation id="q7">
+    <p>
+      "Thirdly be grimmer as fond brevities."
+    </p>
+    <p>
+      "Eider with alders."
+    </p>
+    <p>
+      "And erethism safer."
+    </p>
+    <source>Three Scissormen introduce themselves in DOOM PATROL #20</source>
+  </quotation>
+
+  <quotation id="q8">
+    <p>
+      In Rome, in Leningrad, in Darwin. "The door flew open, in he ran, the
+      great, long, red-legged scissorman."
+    </p>
+    <source>From DOOM PATROL #20</source>
+  </quotation>
+
+  <quotation id="q9">
+    <p>
+      I couldn't think of one clever way to stop this guy, so I just trusted
+      to mindless violence.
+    </p>
+    <source>Cliff Steele in DOOM PATROL #21</source>
+  </quotation>
+
+  <quotation id="q10">
+    <p>
+      "Jane? Jane, are you... Oh my God."
+    </p>
+    <p>
+      "There is no God. I killed him."
+    </p>
+    <source>Cliff Steele meets Black Annis in DOOM PATROL #21.</source>
+  </quotation>
+
+  <quotation id="q11">
+    <p>
+      All I want is the answer to one simple question before I run screaming
+      back to the bughouse. Is this real or isn't it?
+    </p>
+    <source>Cliff Steele in DOOM PATROL #21</source>
+  </quotation>
+
+  <quotation id="q12">
+    <p>
+      "It might help to consider the Zen koan, 'First there is a mountain,
+      then there is no mountain, then there is.'"
+    </p>
+    <p>
+      "Sure. That's really helped to clear things up."
+    </p>
+    <source>Niles Caulder and Cliff Steele in DOOM PATROL #21</source>
+  </quotation>
+
+  <quotation id="q13">
+    <p>
+      Here the skull of a consumptive child becomes part of a great machine
+      for calculating the motions of the stars. Here, a yellow bird frets
+      within the ribcage of an unjust man.
+    </p>
+    <source>Welcome to Orqwith, in DOOM PATROL #22</source>
+  </quotation>
+
+  <quotation id="q14">
+    <p>
+      You know, all of a sudden I can't think of anything even remotely
+      funny to say.
+    </p>
+    <source>Cliff Steele sees Orqwith, in DOOM PATROL #22</source>
+  </quotation>
+
+  <quotation id="q15">
+    <p>
+      Sorry about the writing. Robot fingers, you know?
+    </p>
+    <source>Cliff Steele in DOOM PATROL #23</source>
+  </quotation>
+
+  <quotation id="q16">
+    <p>
+      "You shot your imaginary friends? With what?"
+    </p>
+    <p>
+      "An imaginary gun! What else?"
+    </p>
+    <source>Josh and Dorothy in DOOM PATROL #25</source>
+  </quotation>
+
+  <quotation id="q17">
+    <p>
+      I wish I were an angry shoe, a bodiless balloon. Cut off my covenant
+      with God the pain of orthopedic glue.
+    </p>
+    <source>Darling-Come-Home's song in DOOM PATROL #25</source>
+  </quotation>
+
+  <quotation id="q18">
+    <p>
+      "Shouldn't we put Cliff's brain back into the body?"
+    </p>
+    <p>
+      "Later, Joshua. I refuse to perform a delicate operation without
+      chocolate."
+    </p>
+    <source>Josh and Niles Caulder, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q19">
+    <p>
+      "Where is my gum? I must try to look as normal as possible."
+    </p>
+    <p>
+      "I believe you stuck it onto the side of my head."
+    </p>
+    <source>Monsieur Mallah and the Brain, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q20">
+    <p>
+      Chess! I'm tormented by thoughts of strip chess. Pure mind just isn't
+      enough, Mallah. I long for a body.
+    </p>
+    <source>The Brain, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q21">
+    <p>
+      Instead, you and I became the cornerstones of the Brotherhood of Evil!
+      An empire of crime such as I'd dreamed of back in the old school, when
+      the other children used to laugh at me because I was a brain in a
+      tank.
+    </p>
+    <source>The Brain, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q22">
+    <p>
+      I don't think. I just act. You brains are the ones who do all the
+      thinking. You ruin it for us bodies.
+    </p>
+    <source>Cliff's body, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q23">
+    <p>
+      Kiss me, Mallah! But first... please.. take that gum out of your
+      mouth.
+    </p>
+    <source>The Brain, in DOOM PATROL #34</source>
+  </quotation>
+
+  <quotation id="q24">
+    <p>
+      Oh, Venice, Venice, what have you allowed yourself to become? Crushed
+      by the weight of your own past, stinking slowly into the waves.
+      They've taken away your function, removed you from the present and
+      from the future, and turned you into a drug mainlined into the veins
+      of history junkies.
+    </p>
+    <source>??? in DOOM PATROL #50</source>
+  </quotation>
+
+  <quotation id="q25">
+    <p>
+      I'm warning you--I have a boiled egg and I know how to use it!
+    </p>
+    <source>??? in DOOM PATROL #50</source>
+  </quotation>
+
+  <quotation id="q26">
+    <p>
+      Now. Take this street to New Mexico.
+    </p>
+    <source>??? in DOOM PATROL #50</source>
+  </quotation>
+
+  <quotation id="q27">
+    <p>
+      The Living Guru! Hip-hop bishop of beat! The cool, gone Daddio of the
+      Deva Dimensions!
+    </p>
+    <source>Grant Morrison goes completely insane in DOOM PATROL #53</source>
+  </quotation>
+
+  <quotation id="q28">
+    <p>
+      You could say it all started in Arizona. Twenty-five years ago. On a
+      farm.
+    </p>
+    <source>The narrator, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q29">
+    <p>
+      It was an ordinary sort of farm in Arizona. The kind of place where
+      you'd have sexual relations with your parents and end up shooting
+      someone.
+    </p>
+    <source>The narrator, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q30">
+    <p>
+      The well was like an old man who'd lost the desire to get dressed in
+      the mornings. The well would sit around all day in its pajamas waiting
+      for something to happen... Twenty-five years ago something did happen.
+    </p>
+    <source>The narrator, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q31">
+    <p>
+      On Tuesdays he also wears the blue socks and the grey underwear and
+      counts his bath towels. He has twenty-five bath towels. But how could
+      anyone survive with less?
+    </p>
+    <source>The narrator introduces us to Michael Smith, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q32">
+    <p>
+      Michael is a tree ape who lost most of his hairs and now has
+      nightmares about black horses and cancer. Sometimes he feels like a
+      rumor drifting through a world of hard facts. What's the
+      <em>point</em> of you, Michael?
+    </p>
+    <source>The narrator asks a rhetorical question, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q33">
+    <p>
+      The little mind games he plays, like reciting the dictionary backwards
+      from memory, fail to amuse him for long. The walls of the world have
+      been torn down and the wind that blows through is cold and
+      preposterous.
+    </p>
+    <source>The Enigma waits in his room, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q34">
+    <p>
+      He creates a new language, a new grammar, eight cases and five
+      genders. This passes twenty minutes. Then it's boredom again...
+    </p>
+    <source>The Enigma kills time, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q35">
+    <p>
+      Boredom, ennui, absurdity. His closest, his only friends... It looks
+      like there's nothing for him to do but get dressed.
+    </p>
+    <source>Getting ready, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q36">
+    <p>
+      He couldn't face Sandra this morning. Crept out without saying
+      goodbye. There's a dent on the hood of his car. There's a green lizard
+      floating across the road.
+    </p>
+    <source>Michael's commute is interrupted, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q37">
+    <p>
+      You see, you're all wrong. My name isn't Brain Eater. I am the Head.
+      And I don't simply eat brains. It's something deeper than that.
+      Something magical. Something transubstantiational. Excuse me one
+      moment while I ... &lt;shlurppp&gt;
+    </p>
+    <source>The first villain, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q38">
+    <p>
+      Many primitive [*] peoples believe that if you eat a person's brains,
+      you acquire his knowledge.
+    </p>
+    <p>
+      [*] Footnote: A primitive person is one who doesn't drive a car. Cars
+      are among the greatest causes of premature deaths of lizards in
+      Arizona.
+    </p>
+    <source>Digressing, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q39">
+    <p>
+      When the honey of another's life touches my nervous system I could
+      almost be sucking on God's little finger.
+    </p>
+    <source>The Head, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q40">
+    <p>
+      As soon as Roger saw the costume, his mind assumed the proportions of
+      an industrial revolution unaware of the ecological damage it was
+      causing.
+    </p>
+    <source>The origin of the Head, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q41">
+    <p>
+      His first victim was a priest. Roger's senses were blessed with
+      furtive longings and sweet altar wine.
+    </p>
+    <source>The Head's backstory, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q42">
+    <p>
+      I am the Head and I demand your shrunken experiences now!
+    </p>
+    <source>In ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q43">
+    <p>
+      What do you think? Which has a better, a more sublimely developed,
+      sense of the ridiculous? Life? Or death? Or me? Or Michael Smith?
+    </p>
+    <source>A rhetorical question, in ENIGMA #1: "The Lizard, The Head, The Enigma"</source>
+  </quotation>
+
+  <quotation id="q44">
+    <p>
+      If it wasn't for the fact that a monster called the Head was plunging
+      a metal pipe up his nose preparatory to sucking his brains out,
+      Michael Smith could almost laugh.
+    </p>
+    <source>Opening sentence of ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q45">
+    <p>
+      At last he's got it. He's got the joke. The joke is life. The
+      punchline is that there are so many things he'd like to do with his
+      life, now that his life is over. Not much of a joke. Not much of a
+      life.
+    </p>
+    <source>Michael Smith makes his peace, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q46">
+    <p>
+      I know who you are, he thinks. You're my old secret pal... You're the
+      Enigma, he thinks... And then dies.
+    </p>
+    <source>The protagonist dies, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q47">
+    <p>
+      "But as the papers say, he's caught the public's imagination."
+    </p>
+    <p>
+      "Didn't know they had any."
+    </p>
+    <source>Cops, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q48">
+    <p>
+      He sits quite still for two days, forgetting to move. Remembering the
+      previous two days with such precision that it takes fully two days to
+      remember them... remembering with such clarity that he forgets for a
+      while that this is a memory and not the thing remembered.
+    </p>
+    <source>The Enigma kills more time, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q49">
+    <p>
+      Is this enough? Does this make it worthwhile? Does this make it less
+      absurd? With these actions can I recreate the dark and sensible walls
+      of an abandoned well?
+    </p>
+    <source>The Enigma wonders, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q50">
+    <p>
+      He took the Head in his arms and looked into the eyes, looking for
+      recognition, meaning, something, and seeing only madness and death,
+      bashed his head open.
+    </p>
+    <source>The Enigma recollects, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q51">
+    <p>
+      ... lies and half-truths and deceits. Our society is built on them.
+      Our churches and schools and politicians deal in them. Your entire
+      lives are awash with them.
+    </p>
+    <source>The Truth, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q52">
+    <p>
+      "Who among you can claim to be honest? Who does not lie? You? Do you
+      claim to be honest?"
+    </p>
+    <p>
+      "Ahhh, I just work here, sir."
+    </p>
+    <source>The Truth and a security guard, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q53">
+    <p>
+      "If you could step outside..."
+    </p>
+    <p>
+      "There is no outside. There is no inside or outside, no up or down,
+      when it comes to the truth."
+    </p>
+    <source>A security guard and the Truth, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q54">
+    <p>
+      For a moment he hesitates, memories stirring. Another life, another
+      person. Suntans, lies and half-truths, a wife, a mistress, the
+      clandestine clinic for cocaine dependency... A package arriving one
+      morning containing a see-through, a brutually honest see-through body
+      stocking...
+    </p>
+    <source>The Truth falters, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q55">
+    <p>
+      The Truth fixes the unlucky man with a stare of such dismal honesty
+      that the complex layers of lies and illusions on which the man's life
+      is based fall away, one by one, leaving in their place all that is
+      left once the lies have gone... nothing.
+    </p>
+    <source>The Truth's modus operandi, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q56">
+    <p>
+      Should we say any words? We can't just turn him off like he was a
+      microwave or something.
+    </p>
+    <source>Sandra watches Michael's life support being turned off, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q57">
+    <p>
+      Look at me. Look into my eyes. See the bitter truth of your life
+      reflected in them. All those lonely nights. All those nasty thoughts.
+      You're the actor. <em>You're</em> the one playing a character who is a
+      lie!
+    </p>
+    <source>The Truth kills again, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q58">
+    <p>
+      For a second he feels almost solid. Almost as though he were a real
+      person in a real world.
+    </p>
+    <source>The Enigma pauses a moment, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q59">
+    <p>
+      The ants scurrying about, busily feeding, fighting, collecting,
+      building, dying. The lizards watching the world as though they're
+      wise, but they're not wise, just ugly enough to be wise.
+    </p>
+    <source>Further reflections, in ENIGMA #2: "The Truth"</source>
+  </quotation>
+
+  <quotation id="q60">
+    <p>
+      It's like the book of Revelations, but funnier. It's like the Last
+      Trumpet, but hopelessly out of tune. It's like the perennial battle
+      between good and evil but no one can quite work out which is which
+      anymore, and most people don't even know what perennial means.
+    </p>
+    <source>Opening lines of ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q61">
+    <p>
+      The Truth has entered the church. He broke in a few hours ago and gave
+      a sermon on the kind of truths you won't find in any book. Good, bad,
+      or indifferent. Thirty-five believers, ten agnostics and two closet
+      Satanists kicked the Eucharist.
+    </p>
+    <source>The Truth strikes again, in ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q62">
+    <p>
+      But look at these others. The Enigmatics, they call themselves. Did
+      these apes lose most of their brains when they lost most of their
+      hair? They can't wait to leave their parents, then once they've left
+      them, can't wait to find new and bigger parents to obey.
+    </p>
+    <source>The Enigma spawns a cult, in ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q63">
+    <p>
+      My own characters have come to life to get me, I thought. I should
+      have been nicer to them.
+    </p>
+    <source>Titus Bird, in ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q64">
+    <p>
+      Dad died in the last big earthquake to hit Pacific. It was like, after
+      that, Mom was scared of anything chaotic in our lives. Like everything
+      was on the edge of collapsing, getting sucked into an earthquake of
+      chaos.
+    </p>
+    <source>Michael talks about his parents, in ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q65">
+    <p>
+      "Someone, I think John Cage, said that life without order was chaos,
+      but order without life was death."
+    </p>
+    <p>
+      "Who's John Cage?"
+    </p>
+    <p>
+      "It doesn't matter."
+    </p>
+    <source>Titus and Michael, in ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q66">
+    <p>
+      Hey, Michael, you really don't want to go in there. No, really you
+      don't. The Truth hurts, you know...
+    </p>
+    <source>Closing lines of ENIGMA #3: "The Good Boy"</source>
+  </quotation>
+
+  <quotation id="q67">
+    <p>
+      "Are you ready for me? Are you ready for my indifference? For my
+      abysmal disinterest? Are you ready to have the lies and conceits of
+      your life peeled away like so many layers of skin? Are you ready for
+      the truth?"
+    </p>
+    <p>
+      "Ahhh... No, I... I don't really think I am..."
+    </p>
+    <source>The Truth and Michael Smith, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q68">
+    <p>
+      Too bad. The truth is a rude guest. The truth doesn't knock on the
+      door and wait to be asked in.
+    </p>
+    <source>The Truth, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q69">
+    <p>
+      Look into my eyes. You will see the dull horror of your childhood and
+      we will begin to dissect this pointless obsession of yours.
+    </p>
+    <source>The Truth, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q70">
+    <p>
+      When he opens his eyes he finds himself in a nightmare world
+      surrounded by nightmare creatures with grotesque ovoid heads and
+      wildly flapping limbs. Michael tells the policemen he remembers
+      nothing.
+    </p>
+    <source>Aftermath, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q71">
+    <p>
+      Exactly the Truth is being carted out, to the cheers of the crowd, who
+      obviously fail to see the irony of the Truth dying in a church.
+      Actually, I fail to see the irony in that too, but who cares what I
+      think? I mean, do I really care what you think? Who are you anyway? I
+      mean, are you following any of this?
+    </p>
+    <source>The narrator gets tetchy, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q72">
+    <p>
+      Someone has broken into his house and completely rearranged the
+      furniture. And as he looks at the room, now so grotesquely unfamiliar,
+      it's as though something breaks into John's head, and completely
+      rearranges the furniture there.
+    </p>
+    <source>John Cade's doom, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q73">
+    <p>
+      "TV and papers are full of it. They creep into homes and rearrange the
+      furniture."
+    </p>
+    <p>
+      "My God! The monsters!"
+    </p>
+    <source>Titus and Michael discuss the Interior League, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q74">
+    <p>
+      It seems they rearrange the furniture in such a way that somehow, God
+      knows how, it drives at least one member of the household crazy. Like
+      the furniture arranged in this pattern is a key that unlocks the
+      mind...
+    </p>
+    <source>Titus explains the Interior League, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q75">
+    <p>
+      Like so many others who have abandoned jobs, families, commitments;
+      who chucked in the whole caboodle, torn up their past lives and all
+      they'd thought important to seek out Envelope Girl. All captivated by
+      her strong manila arms, her lovely gumminess, the heady allure of her
+      zip code.
+    </p>
+    <source>An aging judge's description, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q76">
+    <p>
+      Returned to his place, he sits quite still, pretending he doesn't
+      exist, which is a harder game than you might imagine.
+    </p>
+    <source>The Enigma kills yet more time, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q77">
+    <p>
+      Oh great. Charlie Manson is on my side. Things are really looking up.
+    </p>
+    <source>Titus Bird, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q78">
+    <p>
+      You know what impresses me about you? Your ability to be as pathetic
+      as you are and not want to kill yourself. If I were you, I'd
+      <em>have</em> to kill myself.
+    </p>
+    <source>The Enigma talks to the rich cat, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q79">
+    <p>
+      What does it mean, huh? What does it mean when those kids die so...
+      pointlessly? It doesn't mean anything, does it? That's the scary part.
+      If it meant something, you could handle it, but it doesn't.
+    </p>
+    <source>Titus Bird, in ENIGMA #4: "And Then What?"</source>
+  </quotation>
+
+  <quotation id="q80">
+    <p>
+      Look, they're carrying the corpses away, ho hum.
+    </p>
+    <source>Opening line of ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q81">
+    <p>
+      Do I sound detached? Indifferent? I'm not, believe me. I'll tell you a
+      secret: I'm not a distant narrator, aloof from the action of this
+      story... I'm a part of this story.
+    </p>
+    <source>The narrator drops a hint, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q82">
+    <p>
+      It's the following day and two more houses have been redecorated by
+      the Interior League. Five people dead.
+    </p>
+    <source>Events continue to flow, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q83">
+    <p>
+      But somehow lizards are connected to all this. They're a constant
+      theme.
+    </p>
+    <source>Michael Smith, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q84">
+    <p>
+      What are we doing in this suburban living room? And look at that
+      furniture, for God's sake!
+    </p>
+    <source>The narrator comments on decor, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q85">
+    <p>
+      The eyes burn with all the wet violence of the young and all the dry
+      malevolence of the old. ... This creature will play a big part in our
+      story, you wait.
+    </p>
+    <source>Foreshadowing, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q86">
+    <p>
+      Molesters and foul abusers of comfy chairs and imitation Edwardian
+      sideboards, deflowerers of teak coffee tables and meek landscape
+      paintings and ...
+    </p>
+    <source>The Interior League described, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q87">
+    <p>
+      This of course is nothing like the comic book Enigma. This is real
+      life, or as real as your life gets, anyway.
+    </p>
+    <source>Violence, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q88">
+    <p>
+      Of course I'm here. I've always been here, there, and everywhere.
+    </p>
+    <source>Envelope Girl sounds rather Kosh-like, in ENIGMA #5: "Lizards and Ghosts"</source>
+  </quotation>
+
+  <quotation id="q89">
+    <p>
+      My mother laid flowers on the ground above here. Seagulls flew off
+      with them, before the crappy little makeshift service was even
+      finished. Everything was against us. My poor old dad. The ground
+      swallowed him and then the sky stole his flowers. Poor old dad.
+    </p>
+    <source>Michael Smith in the tomb, in ENIGMA #6: "The End of The World"</source>
+  </quotation>
+
+  <quotation id="q90">
+    <p>
+      I lost my Enigma comics too. They were buried with him and I used to
+      imagine him like an Egyptian pharaoh, buried with what he needed for
+      the afterlife, reading <cite>The Enigma</cite> for all eternity.
+    </p>
+    <source>Michael Smith, in ENIGMA #6: "The End of The World"</source>
+  </quotation>
+
+  <quotation id="q91">
+    <p>
+      "I'm whoever you want me to be."
+    </p>
+    <p>
+      "No, sorry. That's the kind of tacky, bogus line that Titus used to
+      come up with. It works okay on the page but just doesn't sound real
+      when it's spoken."
+    </p>
+    <source>The Enigma and Michael, in ENIGMA #6: "The End of The World"</source>
+  </quotation>
+
+  <quotation id="q92">
+    <p>
+      People move in and out of other people's lives, and no one ever knows
+      exactly what other people are thinking. In this way we are all alone.
+      But I am more alone than most.
+    </p>
+    <source>The narrator, in ENIGMA #7: "Sex in Arizona"</source>
+  </quotation>
+
+  <quotation id="q93">
+    <p>
+      He had a charming lightness of touch as he transfixed the young
+      doctor, neatly stripped him, and prepared to devour him, smelly toes
+      first. Of course they hadn't told him that he wasn't allowed to eat
+      the doctors: they'd just arrogantly presumed he wouldn't.
+    </p>
+    <source>Opening lines of ENIGMA #8: "Queer"</source>
+  </quotation>
+
+  <quotation id="q94">
+    <p>
+      I think we should just be silent for one moment here, and contemplate
+      this waste of reptilian life. Excuse me, are you still there? I
+      haven't lost you yet, have I?
+    </p>
+    <source>The narrator is uncharacteristically moved, in ENIGMA #8: "Queer"</source>
+  </quotation>
+
+  <quotation id="q95">
+    <p>
+      It's my belief that if you cut into a thing deeply enough; if your
+      incisions are precise and persistent and conducted methodically, then
+      you may reveal not only that thing's inner workings, but also the
+      <em>meaning</em> behind those workings. This conviction was shared by
+      the historical personage whose life is central to <cite>From
+      Hell</cite>, although perhaps his beliefs were expressed in a somewhat
+      broader sense than my own. For my part, the thing that I am concerned
+      with cutting into and examining is the stillwarm corpse of history
+      itself. In my chilliest moments, I sometimes suspect that this was
+      <em>his</em> foremost preoccupation also, albeit in pursuit of
+      different ends.
+    </p>
+    <author>Alan Moore</author>
+    <source>In the Appendix of <cite>From Hell:The Compleat Scripts</cite></source>
+  </quotation>
+
+  <quotation id="q96">
+    <p>
+      This book is dedicated to Polly Nichols, Annie Chapman, Liz Stride,
+      Kate Eddowes, and Marie Jeanette Kelly. You and your demise: of these
+      things alone are we certain. Goodnight, ladies.
+    </p>
+    <source>Dedication in the TPB of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q97">
+    <p>
+      "The working class don't <em>want</em> a revolution, Mr Lees: they
+      just want more money."
+    </p>
+    <source>Abberline, in the prologue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q98">
+    <p>
+      "Don't you ever feel guilty? We could have said something. We could
+      have done something. <em>Why</em>, Fred? Why did we just let them bury
+      it?"
+    </p>
+    <p>
+      "Because we didn't want our throats cut. Because we didn't want our
+      lights hung over our shoulders."
+    </p>
+    <source>Lees and Abberline, in the prologue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q99">
+    <p>
+      "Well, if I may not work the ocean I should like to work with
+      something of a kind to it... something that flows like the ocean...
+      something salt and old."
+    </p>
+    <source>Gull, as a child, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q100">
+    <p>
+      "Though concerning the objects of your pity I fear there's little
+      hope."
+    </p>
+    <p>
+      "There <em>must</em> be... even for such unfortunates. Is not all base
+      matter gradually ascending; refining itself into pure spirit?"
+    </p>
+    <p>
+      "Assuredly... but some wretches have a downward momentum in their
+      lives almost impossible to reverse."
+    </p>
+    <source>Gull and Hinton, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q101">
+    <p>
+      "Consider it: water will of necessity flow downhill, thwarting all our
+      best efforts that it should do otherwise. In order that water might
+      rise despite itself it must first be transmuted into steam. It must
+      first be touched by the purifying spirit of fire."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q102">
+    <p>
+      "Dorset Street -- the most evil in London, I'm told."
+    </p>
+    <source>Hinton, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q103">
+    <p>
+      "Such minds, Hinton, shaping infinity itself."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q104">
+    <p>
+      "Fourth dimensional patterns within Eternity's monolith would, he
+      suggests, seem merely random events to third-dimensional percipients."
+    </p>
+    <source>Hinton, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q105">
+    <p>
+      "Let us say something peculiar happens in 1788... a century later,
+      related events take place. Then again, 50 years later. Then 25 years.
+      Then 12. An invisible curve, rising through the centuries."
+    </p>
+    <source>Hinton, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q106">
+    <p>
+      "Can history then be said to have an architecture, Hinton? The notion
+      is most glorious and most horrible."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q107">
+    <p>
+      "Such purpose. I am fifty, my own purpose unrevealed despite
+      meaningless laurels."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q108">
+    <p>
+      "Our son is a wastrel and a halfwit. We shudder to think of the throne
+      in his hands. But he is none the less of our flesh and our obligation
+      is most severe..."
+    </p>
+    <source>Queen Victoria, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q109">
+    <p>
+      "These times, they are a worry to us, and it has been too long since
+      we had men about us who were strong and dependable. Since dear, dear
+      Albert... Go. Go now, Dr Gull. We would be alone."
+    </p>
+    <source>Queen Victoria, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q110">
+    <p>
+      "There is a wrong, an intense wrong, in our society running all
+      through our life... And it will be made righter some day. I dashed
+      myself against it but it is no one man's strength can move it. It was
+      too much for my brain, but it is by the failure of some that others
+      succeed, and through my very foolishness shall come better success to
+      others... perhaps more than any cleverness of mine could have
+      wrought."
+    </p>
+    <source>James Hinton, quoted in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q111">
+    <p>
+      "Fear not, though thoughts and memories most unendurable beset your
+      mind... for I shall take them all away and quite relieve your
+      suffering."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q112">
+    <p>
+      "Less then a thimble-full of iodine divides the intellectual from the
+      imbecile. Of which phenomenon I shall forthwith attempt a
+      demonstration."
+    </p>
+    <source>Gull, in FROM HELL #2</source>
+  </quotation>
+
+  <quotation id="q113">
+    <p>
+      "I dreamed about Stamford Street, where I lived with my Billy before
+      'e ran off..."
+    </p>
+    <p>
+      "Dreams! It's wakin' life's the trouble!"
+    </p>
+    <source>Polly Nichols and Annie Chapman, in FROM HELL #3</source>
+  </quotation>
+
+  <quotation id="q114">
+    <p>
+      "<em>No</em>, sir! Not "Done away with" for that is common murder,
+      only fit for common footpads. I spoke of grand work, Netley. Grand
+      work. A great work must have many sides from which we may consider
+      it."
+    </p>
+    <source>Gull, in FROM HELL #4</source>
+  </quotation>
+
+  <quotation id="q115">
+    <p>
+      "Do you begin to grasp how truly great a work is London? A veritable
+      textbook we may draw upon in formulating great works of our own!"
+    </p>
+    <source>Gull, in FROM HELL #4</source>
+  </quotation>
+
+  <quotation id="q116">
+    <p>
+      "The greater part of London's story is not writ in words. It is
+      instead a literature of stone, of place-names and assocations."
+    </p>
+    <source>Gull, in FROM HELL #4</source>
+  </quotation>
+
+  <quotation id="q117">
+    <p>
+      "Symbols have <em>power</em>, Netley... Power enough to turn even a
+      stomach such as yours, or to deliver half this planet's population
+      into slavery."
+    </p>
+    <source>Gull, in FROM HELL #4</source>
+  </quotation>
+
+  <quotation id="q118">
+    <p>
+      "Do whatever needs to be done. You make your cuts, Sir Charles. I'll
+      make mine."
+    </p>
+    <source>Gull, in FROM HELL #5</source>
+  </quotation>
+
+  <quotation id="q119">
+    <p>
+      "What a life you have endured, awaiting nothing but deliverance."
+    </p>
+    <p>
+      "Mm. I... Sir? I feel so queer. Does everything look sparkly to you?"
+    </p>
+    <p>
+      "Why, child, that's just the stars. This is a rare and special night,
+      I think. For both of us."
+    </p>
+    <source>Gull and Polly Nichols, in FROM HELL #5</source>
+  </quotation>
+
+  <quotation id="q120">
+    <p>
+      "You're forging a letter from a killer? But that's ..."
+    </p>
+    <p>
+      "It's a whole new style of journalism, Mr Gibbs, and we're inventin'
+      it right 'ere in Wapping."
+    </p>
+    <source>Mr Best and Mr Gibbs, in FROM HELL #7</source>
+  </quotation>
+
+  <quotation id="q121">
+    <p>
+      "Oh God. I've been tryin' not to think about it. I had such a lovely
+      fuck with Joe last night. I thought "Is this it? Is this the last of
+      it?"
+    </p>
+    <source>Mary Kelly, in FROM HELL #8</source>
+  </quotation>
+
+  <quotation id="q122">
+    <p>
+      "Gull, please, in the name of reason..."
+    </p>
+    <p>
+      "Invoke not reason. In the end it is too small a deity."
+    </p>
+    <source>Sir Charles Warren and Gull, in FROM HELL #8</source>
+  </quotation>
+
+  <quotation id="q123">
+    <p>
+      "It... ughh... it is these grapes. They have something on them, I
+      think."
+    </p>
+    <p>
+      "'tis laudanum. A little, nothing more. They are the grapes of mercy,
+      child, not lightly spat away."
+    </p>
+    <source>Elizabeth Stride and Gull, in FROM HELL #8</source>
+  </quotation>
+
+  <quotation id="q124">
+    <p>
+      "If you'll forgive me, Sir, I am Robert Lees, psychic adviser to Her
+      Majesty. I am familiar with your work, Sir, and have long anticipated
+      this meeting."
+    </p>
+    <p>
+      "Indeed? I am similarly familiar with <em>your</em> work , Sir,
+      profiting from delusions born of bereavement. Consequently, I have
+      relished this meeting not at all. Good day."
+    </p>
+    <source>Robert Lees and Gull, in FROM HELL #9</source>
+  </quotation>
+
+  <quotation id="q125">
+    <p>
+      "Say what you will, Sir. You are welcome to remain ensconced in lore
+      and ritual. For my part I am happy to entertain a questioning spirit."
+    </p>
+    <p>
+      "Ha ha ha! Then mark my words, Mr Yeats, your bones shall never rest
+      easy. Good day to you, Sir."
+    </p>
+    <source>W.B. Yeats and Gull, in FROM HELL #9</source>
+  </quotation>
+
+  <quotation id="q126">
+    <p>
+      "Oh, an' I see Anderson's back from 'is Swiss 'olidays, ayin' we
+      should arrest every tart for 'er own protection!"
+    </p>
+    <p>
+      "Well, he's one of them Second-Coming Christians, ain't he? Perhaps
+      he'll put some of them up at his house."
+    </p>
+    <source>Abberline and Godley, in FROM HELL #9</source>
+  </quotation>
+
+  <quotation id="q127">
+    <p>
+      "There, there, Netley. There, there. I shall tell you where we are.
+      We're in the most extreme and utter region of the human mind, a dim
+      sub-conscious underworld. A radiant abyss where men meet themselves...
+      Hell, Netley. We're in Hell."
+    </p>
+    <source>Gull, in FROM HELL #9</source>
+  </quotation>
+
+  <quotation id="q128">
+    <p>
+      "You're mad."
+    </p>
+    <p>
+      "Oh, undoubtedly. But you're helpless."
+    </p>
+    <source>Sir Charles Warren and Gull, in FROM HELL #9</source>
+  </quotation>
+
+  <quotation id="q129">
+    <p>
+      "Dear God, what is this Aethyr I am come upon? What spirits are these,
+      labouring in what heavenly light? No... No, this is dazzle, but not
+      yet divinity."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q130">
+    <p>
+      "It would seem we are to suffer an apocalypse of cockatoos... Morose,
+      barbaric children, playing joylessly with their unfathomable toys."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q131">
+    <p>
+      "Where comes this dullness in your eyes? How has your century numbed
+      you so? Shall man be given marvels only when he is beyond all wonder?
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q132">
+    <p>
+      "You are the sum of all preceding you, yet seem indifferent to
+      yourselves. A culture grown disinterested, even in its own abysmal
+      wounds."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q133">
+    <p>
+      "Ah, Mary, how time's levelled us. We are made equal, both mere curios
+      of our vanished epoch in this lustless world. This world, where in
+      comparison I am made ignorant, while you... you are made virtuous."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q134">
+    <p>
+      "Do you understand how I have loved you? You'd have all been dead in a
+      year or two from liver failure, men, or childbirth. Dead. Forgotten. I
+      have saved you. Do you understand that? I have made you safe from
+      time, and we are wed in legend, inextricable within eternity."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q135">
+    <p>
+      "Have you done, Sir? Is it finished with?"
+    </p>
+    <p>
+      "It is beginning, Netley. Only just beginning. For better or worse,
+      the twentieth century."
+    </p>
+    <source>Netley and Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q136">
+    <p>
+      "I have been climbing, Netley, all my life, toward a single peak. Now
+      I have reached it. I have stood and felt the wind. I have seen all the
+      world beneath me. Now there is only descent. Only the valley. Would
+      that I had died there, Netley, in that light above the cloud line. I'm
+      cold. Take me home."
+    </p>
+    <source>Gull, in FROM HELL #10</source>
+  </quotation>
+
+  <quotation id="q137">
+    <p>
+      "I remember my first Fenian bombin', year afore I were first married.
+      Makes you think there's naught to us but shit and mincemeat."
+    </p>
+    <source>Abberline, in FROM HELL #11</source>
+  </quotation>
+
+  <quotation id="q138">
+    <p>
+      "To be honest, I felt worse than sick. I came out that room and I felt
+      somethin' <em>bad</em> 'ad 'appened. Not just to 'er, to everythin'. I
+      felt as if everythin' were lost."
+    </p>
+    <source>Abberline, in FROM HELL #11</source>
+  </quotation>
+
+  <quotation id="q139">
+    <p>
+      "Come on, Godley. Cheer up, for fuck's sake. There's good things
+      happen in life as well, y'know."
+    </p>
+    <p>
+      "But... I mean, after that ... that thing in Miller's Court."
+    </p>
+    <p>
+      "I said in <em>life</em>, Godley. I didn't say in the East End."
+    </p>
+    <source>Abberline and Godley, in FROM HELL #11</source>
+  </quotation>
+
+  <quotation id="q140">
+    <p>
+      "Ah, yes. Dear Frank. I'm afraid he's had to retire early with a mild
+      touch of insanity."
+    </p>
+    <source>Oscar Wilde, in FROM HELL #11</source>
+  </quotation>
+
+  <quotation id="q141">
+    <p>
+      "Oscar <em>Wilde</em>? Oscar Wilde, the <em>writer</em>?"
+    </p>
+    <p>
+      "Oh, good heavens, no! <em>Awful</em> fellow. Wouldn't give him house-
+      room. No, I'm Oscar Wilde the florist. While over <em>here</em> we
+      have Mr Walter Sickert, the turf accountant... and Mr James McNeil
+      Whistler, who I believe keeps a tripe stall in Mile End."
+    </p>
+    <source>Montague Druitt and Oscar Wilde, in FROM HELL #11</source>
+  </quotation>
+
+  <quotation id="q142">
+    <p>
+      "It's all just stories when all's said and done."
+    </p>
+    <p>
+      "But that's just the thing, it isn't just stories. Those women really
+      died. And poor Druitt, caught up in something he could never
+      understand."
+    </p>
+    <p>
+      "That's all done with though. That's all gone."
+    </p>
+    <source>Abberline and Robert Lees, in the epilogue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q143">
+    <p>
+      "Take my advice and don't get old. It's bloody rubbish."
+    </p>
+    <source>Abberline, in the epilogue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q144">
+    <p>
+      "Now there's just us, knowin' what we know, both washed up 'ere. Can't
+      send a message; can't tell anybody. I expect there's been a lot of
+      chaps in our position down across the years with one thing and
+      another. Makes you wonder, sometimes, doesn't it? Make you wonder 'ow
+      much of the world is true."
+    </p>
+    <source>Abberline, in the epilogue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q145">
+    <p>
+      "I think there's going to be another war."
+    </p>
+    <source>Robert Lees, in the epilogue to FROM HELL</source>
+  </quotation>
+
+  <quotation id="q146">
+    <p>
+      The problem we face here is that neither Knight nor the assembled
+      ranks of Freemasonry are necessarily telling the truth, at which point
+      a Victorian fog starts to engulf the facts of our narrative. Given
+      that the tortuous story of the Whitechapel murders is filled with
+      liars, tricksters, and unreliable witnesses, it is a fog we shall
+      encounter often.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q147">
+    <p>
+      The character and temperament of Victoria here is entirely my own
+      interpretation, and has indeed been the source of debate between
+      myself and the otherwise genial and agreeable Mr Campbell of Brisbane,
+      Australia.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q148">
+    <p>
+      One almost suspects that the bereaved Victoria, who spent the later
+      decades of her reign in mourning for her departed consort, would have
+      changed her own name to Albert and the name of the country to Alberta
+      if she had thought for a moment she could get away with it.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q149">
+    <p>
+      The phrase, Hairy-Ford-Shire, a rather dim pun upon the pronunciation
+      of "Hertfordshire", is one of an extensive array of Victorian slang
+      expressions relating to the female genitalia. The expression, in this
+      instance, was passed on to me by Mr Neil Gaiman, who has a dirty mouth
+      in at least seven centuries.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q150">
+    <p>
+      As with so much of <cite>From Hell</cite>, when we know the details of
+      a person's life but not how he or she felt, then we must resort to
+      fiction unless we are to exclude feelings altogether, which I don't
+      feel inclined to do.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q151">
+    <p>
+      In the case of the fraudulent and press-generated "Ripper" letters, we
+      see a clear prototype of the current British tabloid press in action,
+      and for this reason it seemed poetically apposite that the letter be
+      composed in Wapping, currently the home of Mr Rupert Murdoch's highly
+      popular right-wing tabloid, which, unsurprisingly in this tale of
+      obelisks and other arcane solar symbols, is called <cite>The
+      Sun</cite>.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q152">
+    <p>
+      On the 29th September, the Central News Agency forwarded the letter to
+      Scotland Yard that we see Abberline reading aloud here to Thick and
+      Godley (and if there were ever two names more emblematic of the police
+      force of that period, I should certainly like to hear them).
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q153">
+    <p>
+      Abberline's eerily precognitive comments on page two are my own
+      invention. They are also, in their way, a form of shamefaced apology
+      from one currently making part of his living wrapping up miserable
+      little killings in supernatural twaddle. Sometimes, after all you've
+      done for them, your characters just turn on you.
+    </p>
+    <author>Alan Moore</author>
+    <source>In Appendix I of FROM HELL</source>
+  </quotation>
+
+  <quotation id="q154">
+    <p>
+      Everyone seems agreed that Kelly was the real target. She'd infected
+      Dr Stanley's son, corrupted Olga Tchkersoff's sister. The underlying
+      assumption remains unstated: she must have done <em>something</em> to
+      deserve <em>that</em>.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q155">
+    <p>
+      By Autumn 1988 I'm thinking of seriously about writing something
+      lengthy on a murder. The Whitechapel killings aren't even considered.
+      Too played-out. Too obvious. Publicity around the crimes' centennial,
+      however, leads me to Knight's book. Ideas coalesce. Deciding on a
+      serial in Steve Bissette's <cite>Taboo</cite>, I contact Eddie
+      Campbell. The rest is dodgy pseudo-history.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q156">
+    <p>
+      Be vewy, vewy quiet. We're hunting Wippers.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q157">
+    <p>
+      Slowly it dawns on me that despite the Gull theory's obvious
+      attractions, the idea of a solution, any solution, is inane. Murder
+      isn't like books. Murder, a human event located in both space and
+      time, has an imaginary field completely unrestrained by either. It
+      holds meaning, and shape, but no solution.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q158">
+    <p>
+      The grounds of the enquiry are a forensic sucking-bog; treacherous,
+      obsessional. Fall in this stuff and you won't come out again.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q159">
+    <p>
+      Reputedly, many prominent Ripperologists never set foot in Whitechapel
+      for fear of being mugged. Mugging's not the danger here. This place is
+      authentically dreadful.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q160">
+    <p>
+      It isn't getting drawn into Masonic Death Conspiracy that troubles me,
+      you understand. It's getting drawn into the vortex of a fiction.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q161">
+    <p>
+      Some stories just don't have what it takes. The yarn that eventually
+      survives to be accepted as history will do so by brute Darwinian
+      mechanics. We'll lock all the suspects in a room together. They can
+      fight it out.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q162">
+    <p>
+      Our detective fictions tell us otherwise: everything's just meat and
+      cold ballistics. Provide a murderer, a motive, and a means, you've
+      solved the crime. Using this method, the solution to the Second World
+      War is as follows: Hitler. The German economy. Tanks. Thus, for
+      convenience, we reduce the complex events.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q163">
+    <p>
+      The greater part of any murder is the field of theory, fascination and
+      hysteria that it engenders. A black diaspora. Our tireless, sinister
+      enthusiasm.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q164">
+    <p>
+      Soon, somebody will notice the disturbing similarities between the
+      Ripper crimes and recent cattle mutilations, from which they will draw
+      the only sensible conclusion.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q165">
+    <p>
+      Likewise, each new book provides fresh details, finer crennelations of
+      the subject's edge. Its area, however, can't extend past the initial
+      circle: Autumn, 1888, Whitechapel. ... Koch's Snowflake: gaze upon it,
+      Ripperologists, and shiver.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q166">
+    <p>
+      The complex phantom we project. That alone, we know is real. The
+      actual killer's gone, unglimpsed. Might as well not have been there at
+      all. There never was a Jack the Ripper. Mary Kelly was just an
+      unusually determined suicide. Why don't we leave it there?
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q167">
+    <p>
+      It's going. It's all going. Will anybody bother with a bicentennial in
+      2088? Might our pursuit, our quarry, already endangered, be by then
+      extinct?
+    </p>
+    <p>
+      We were looking at the naked woman dancing when it flew away.
+    </p>
+    <author>Alan Moore</author>
+    <source>In "Dance of the Gull-Catchers" in FROM HELL</source>
+  </quotation>
+
+  <quotation id="q168">
+    <p>
+      Childbirth is <em>not</em> a miracle. Life is <em>not</em> sacred.
+      When you have twenty thousand nomads huddled between two rivers in the
+      Middle East and that's it for Homo sapiens, when one in five children
+      is a live birth, one in ten living past the age of ten, <em>then</em>
+      childbirth <em>is</em> a miracle and life <em>is</em> sacred. When the
+      average age of a grandmother in Philadelphia's housing projects is
+      twenty-five, to call childbirth a miracle is at least a tasteless joke
+      and at worst a true obscenity.
+    </p>
+    <author>Dave Sim</author>
+    <source>In the lettercol of Cerebus #142</source>
+  </quotation>
+
+  <quotation id="q169">
+    <p>
+      <em>Do not wander off without me.</em> That's how we lost Amelia
+      Earhart in here. Every day, about two in the afternoon, the thermals
+      are right, and we hear her somewhere in here, screaming for peanut
+      buttter and jelly sandwiches.
+    </p>
+    <source>Harlan's our genial guide through HARLAN ELLISON'S DREAM CORRIDOR Special.</source>
+  </quotation>
+
+  <quotation id="q170">
+    <p>
+      You'd have liked my father. He was a sweet guy. He died when I was
+      fourteen, but when I was a little kid we used to sit together and I'd
+      read my comic books to him. I don't think he cared much about the
+      silly stuff in comics -- that was the '40s -- but he loved me and took
+      pleasure in my reading aloud to him. I miss my dad.
+    </p>
+    <source>Harlan remembers his childhood, in HARLAN ELLISON'S DREAM CORRIDOR #2</source>
+  </quotation>
+
+  <quotation id="q171">
+    <p>
+      But, if you have a moment, if your heart is big enough to spare a
+      moment, give a nod and a smile for all the good ones who spent their
+      lives making great art and small art and even entertainment. When
+      they're gone, there's only one way to tell them you miss them... Send
+      them a moment of kind thought right now. The beam will pick it up and
+      carry it across the stars to them where they wait. I've been sending
+      good wishes to the ones I miss all evening. Now it's your turn.
+    </p>
+    <source>Harlan's soliloquy in HARLAN ELLISON'S DREAM CORRIDOR #5</source>
+  </quotation>
+
+  <quotation id="q172">
+    <p>
+      When I say that Seth will have his testicles torn off, I do not mean
+      that his sac will always be a ragged void. If the gods are not exactly
+      a law unto themselves, they can at least bend the rules. In other
+      words, some balls bounce back.
+    </p>
+    <source>Peter Milligan's opening sentences in EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q173">
+    <p>
+      I had it in me to be the Pierce Brosnan of my generation.
+    </p>
+    <source>Vincent Me's past career plans in EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q174">
+    <p>
+      Vincent, you are a damaged person who uses sexual gratification as a
+      displacement activity. Now get your hand off my behind.
+    </p>
+    <source>Ooh, good putdown! in EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q175">
+    <p>
+      I simply reject the capitalist credo. I reject anything that ends in
+      'ist' or 'ism'. In fact, I reject anything that ends in 's'.
+    </p>
+    <source>Is Vincent for real? In EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q176">
+    <p>
+      Years later I was regaining consciousness in America, which is no mean
+      feat.
+    </p>
+    <source>Waking from memories of a sister, in EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q177">
+    <p>
+      "The Order of Osiris, the Order of the Listless One, oh God of
+      Yesterday, He-Who-Is-Awakened, Lord of the Chennet, the suffering god
+      from whose inert body..."
+    </p>
+    <p>
+      "I've got Latin in four hours, Josh. Let's get on with it."
+    </p>
+    <p>
+      "Oh, sorry, of course. Got a little carried away..."
+    </p>
+    <source>My college years weren't like this! In EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q178">
+    <p>
+      "We got to thinking: how did the priests know exactly how long to
+      suffocate the new pharaoh for?"
+    </p>
+    <p>
+      "Ah, ah, preposition at the end of a sentence, Kim. You owe me a
+      dollar."
+    </p>
+    <source>Kim and Bobby in EGYPT #1</source>
+  </quotation>
+
+  <quotation id="q179">
+    <p>
+      Three hundred years of tears have soured the very stones of this
+      house. Drink deep, gentle reader: you have come too far to turn back
+      now.
+    </p>
+    <source>Bethlehem Hospital, or Bedlam, in SEBASTIAN O #1</source>
+  </quotation>
+
+  <quotation id="q180">
+    <p>
+      But we cannot disguise our abhorrence of modern communication devices.
+    </p>
+    <source>Queen Victoria on teleconferencing, in SEBASTIAN O #1</source>
+  </quotation>
+
+  <quotation id="q181">
+    <p>
+      The dandy has one unique advantage over the common herd. No matter
+      what the situation, he will always be more exquisitely dressed than
+      his enemies. Therefore, he has already triumphed.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #1</source>
+  </quotation>
+
+  <quotation id="q182">
+    <p>
+      One must commit acts of the highest treason only when dressed in the
+      most resplendent finery.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #1</source>
+  </quotation>
+
+  <quotation id="q183">
+    <p>
+      We may be in the sewer, but there's absolutely no need for that kind
+      of gutter profanity.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #2</source>
+  </quotation>
+
+  <quotation id="q184">
+    <p>
+      If I know Sebastian, he'll find it impossible to continue his mission
+      in soiled clothing.
+    </p>
+    <source>Lord Lavender, in SEBASTIAN O #2</source>
+  </quotation>
+
+  <quotation id="q185">
+    <p>
+      And now let us hasten to the station. I have commanded the rain to
+      fall at exactly one-fifteen and I would hate to get my shoes wet.
+    </p>
+    <source>Lord Lavender, in SEBASTIAN O #2</source>
+  </quotation>
+
+  <quotation id="q186">
+    <p>
+      I do so loathe nature, don't you? All that dreadful rot and decay and
+      procreation. Here, everything is so much more tidy. I simply wind the
+      trees once a day and reset the flowers.
+    </p>
+    <source>The Abbé does love his clockwork garden, in SEBASTIAN O #2</source>
+  </quotation>
+
+  <quotation id="q187">
+    <p>
+      It would take days to catalog your sins, Abbé. I simply don't have the
+      time.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #2</source>
+  </quotation>
+
+  <quotation id="q188">
+    <p>
+      The Abbé, I'm afraid, has gone to meet his maker. Hard to decide which
+      of the two will receive the greater shock.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #3</source>
+  </quotation>
+
+  <quotation id="q189">
+    <p>
+      "Don't fret, Theo. The lad's simply stunned. He'll wake up in an hour,
+      none the wiser."
+    </p>
+    <p>
+      "But his throat has been cut."
+    </p>
+    <p>
+      "Oh, dear, my mistake. My diagnosis regarding his recovery would
+      appear to have been somewhat premature."
+    </p>
+    <source>Sebastian and Lord Lavender, in SEBASTIAN O #3</source>
+  </quotation>
+
+  <quotation id="q190">
+    <p>
+      First... a pardon. I should hate to be hounded further for acts which
+      some might consider crimes, but which I prefer to think of as
+      aesthetic statements. I have, after all, killed only the <em>very</em>
+      dull.
+    </p>
+    <source>Sebastian, in SEBASTIAN O #3</source>
+  </quotation>
+
+  <quotation id="q191">
+    <p>
+      One hardly requires the abilities of a Tiresias to predict fog in
+      London. What other revelations have you to offer, Theo? That the Grand
+      National will be won by a <em>horse</em> this year, perhaps?
+    </p>
+    <source>Sebastian, in SEBASTIAN O #3</source>
+  </quotation>
+
+  <quotation id="q192">
+    <p>
+      We're beginning to think it may be a neurological disorder, similar to
+      Tourette's Syndrome. It's quite possible we may be looking at some
+      kind of super-sanity here. A brilliant new modification of human
+      perception, more suited to urban life at the end of the twentieth
+      century.
+    </p>
+    <source>Ruth Adams describes the Joker in ARKHAM ASYLUM</source>
+  </quotation>
+
+  <quotation id="q193">
+    <p>
+      You must be feeling quite <em>fragile</em> by now, I expect. This
+      house, it... <em>does</em> things to the mind.
+    </p>
+    <source>The Mad Hatter in ARKHAM ASYLUM</source>
+  </quotation>
+
+  <quotation id="q194">
+    <p>
+      I pity the poor shades confined to the Euclidean prison that is
+      sanity.
+    </p>
+    <source>From Amadeus Arkham's journal in ARKHAM ASYLUM</source>
+  </quotation>
+
+  <quotation id="q195">
+    <p>
+      I should say I'm very much cleverer than any of the people who put me
+      here. As a matter of fact, I could leave any time I wanted. It's only
+      a doll's house after all. Anyway, I don't mind. I like dolls.
+      Particularly the live ones.
+    </p>
+    <source>Mad Hatter's thoughts in ARKHAM ASYLUM</source>
+  </quotation>
+
+  <quotation id="q196">
+    <p>
+      "And if you want something hotter, you know where to find me."
+    </p>
+    <p>
+      "In the gutter on a Friday night, Tony."
+    </p>
+    <source>Tony and Annie in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q197">
+    <p>
+      Not every day one has God on the slab, eh?
+    </p>
+    <source>The coroner in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q198">
+    <p>
+      "God is in the details," after all. Or in this case, perhaps, the
+      details are in God.
+    </p>
+    <source>The coroner in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q199">
+    <p>
+      I think everything that happens in the vicinity of a murder has some
+      significance: the flight of birds, the shape of the clouds, the
+      positions of the stars, items discarded by passersby. Nothing can be
+      overlooked. If I find a match, I have to know where it was made and
+      from what tree its wood was taken.
+    </p>
+    <source>The detective in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q200">
+    <p>
+      I'm not a metaphysical man. I'm a minister. That's my job.
+    </p>
+    <source>The minister in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q201">
+    <p>
+      I was somebody else once. I... I... don't think I was a very good
+      person.
+    </p>
+    <source>The detective in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q202">
+    <p>
+      "The killer's still out there, Mr Purves. I hope Christ has taken out
+      life insurance."
+    </p>
+    <p>
+      "Oh, I'm sure any firm would jump at the chance to ensure a man who
+      has eternal life, don't you?"
+    </p>
+    <source>The detective and the mayor in THE MYSTERY PLAY</source>
+  </quotation>
+
+  <quotation id="q203">
+    <p>
+      Well, me whole family's musical, Jeffo... even the sewing machine's a
+      Singer.
+    </p>
+    <source>John Constantine in HELLBLAZER #90</source>
+  </quotation>
+
+  <quotation id="q204">
+    <p>
+      It's a little-known legend is Abaton -- the town of changing
+      locations. Philosophers, mystics and clever-bastards-in-general have
+      known of its existence for centuries.
+    </p>
+    <source>In HELLBLAZER #93</source>
+  </quotation>
+
+  <quotation id="q205">
+    <p>
+      As I follow the green man up the narrow path, visions of electric
+      hedge trimmers go swimming through my brain.
+    </p>
+    <source>John Constantine in HELLBLAZER #93</source>
+  </quotation>
+
+  <quotation id="q206">
+    <p>
+      You are in a beautifully wooded area covered with flowers, blah-blah-
+      blah...
+    </p>
+    <source>John Constantine in HELLBLAZER #93</source>
+  </quotation>
+
+  <quotation id="q207">
+    <p>
+      If Abaton's the unearthly reflection of all that we are, Britain's in
+      far worse shape than I thought.
+    </p>
+    <source>John Constantine in HELLBLAZER #93</source>
+  </quotation>
+
+  <quotation id="q208">
+    <p>
+      I've always believed that guilt was an emotion for weaker men -- so
+      where does that leave me?
+    </p>
+    <source>Wesley Dodds, in SANDMAN MYSTERY THEATRE: "The Cannon", act I</source>
+  </quotation>
+
+  <quotation id="q209">
+    <p>
+      Ah, love... so much better than the alternative.
+    </p>
+    <source>Rev. Hawsley, in SANDMAN MYSTERY THEATRE: "The Cannon", act I</source>
+  </quotation>
+
+  <quotation id="q210">
+    <p>
+      He's clouds or fires now.
+    </p>
+    <source>The Cannon finds Donald Eversoll's body, in SANDMAN MYSTERY THEATRE: "The Cannon", act II</source>
+  </quotation>
+
+  <quotation id="q211">
+    <p>
+      Good news is he don't have to go to work tomorrow. Bad news is the
+      same.
+    </p>
+    <source>Lt. Burke finds Donald Eversoll's body, in SANDMAN MYSTERY THEATRE: "The Cannon", act II</source>
+  </quotation>
+
+  <quotation id="q212">
+    <p>
+      "I'm surprised you don't think justice is best left to higher powers,
+      Bagsy?"
+    </p>
+    <p>
+      "I do, Dian -- I just want to make sure He knows where to look."
+    </p>
+    <source>Dian and Rev. Hawsley, in SANDMAN MYSTERY THEATRE: "The Cannon", act IV</source>
+  </quotation>
+
+  <quotation id="q213">
+    <p>
+      "And are your Lord's lessons learned in <em>you</em>, Cannon?"
+    </p>
+    <p>
+      "I am confident that I will pass through St. Peter's gates with only
+      minor negotiations."
+    </p>
+    <source>The Sandman and the Cannon, in SANDMAN MYSTERY THEATRE: "The Cannon", act IV</source>
+  </quotation>
+
+  <quotation id="q214">
+    <p>
+      Good job, there, O'Grady. Always kick 'em when they're down. You might
+      just make a detective yet.
+    </p>
+    <source>Lt. Burke, in SANDMAN MYSTERY THEATRE: "The Cannon", act IV</source>
+  </quotation>
+
+  <quotation id="q215">
+    <p>
+      There are very few people who directly touch my daily life -- and I
+      can't imagine how much poorer I'd be without any of them.
+    </p>
+    <source>Wesley Dodds, in SANDMAN MYSTERY THEATRE: "The City", act I</source>
+  </quotation>
+
+  <quotation><p>
+    I was happy in that field. I could have stayed there forever.  
+    I liked life in those days.  I thought life was my best friend.
+    </p><p>
+    I was a happy little idiot, really.
+    </p><source>Kathy, in SHADE #1: "Execution Day"</source>
+  </quotation>
+
+  <quotation><p>
+    I read a pamphlet on alcohol abuse once.  It said alcohol turns
+    you into a different person.  I thought, "Great!  That's for me!"
+    But it was no good.  You always wake up or sober up the same
+    person.  With a headache.
+    </p><source>Kathy, in SHADE #1: "Execution Day"</source>
+  </quotation>
+
+  <quotation><p>
+    Shade said all the madness inside people's heads will be released,
+    made real.  The sky looks really weird today.  The colors look
+    wrong.  The clouds look wrong.  Everything looks wrong.  Welcome
+    to the madhouse.
+    </p><source>Kathy, in SHADE #1: "Execution Day"</source>
+  </quotation>
+
+  <quotation><p>
+    "I'm your liberated dreams, baby.  Your liberated dreams and your
+    unfettered screams..."
+   </p><p>
+   "No!  I don't want my dreams to be liberated.  Our dreams are too
+   terrible to be liberated!"
+    </p>
+    <source>The American Scream and Duane, in SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p>
+    His teeth will always be perfect, his smile the smile of a sun
+    god, his wife beside him and perfect.  Texan sun on the limo's
+    perfect polished bonnet...
+    </p><source>From SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p> 
+    And out it comes, out it grows.  From the womb of Dallas,
+    impregnated by seeds of blood and brain and bone, of conspiracy
+    and deceit, of cowardice and corruption and greed, planted here on
+    a hot bad Friday.  Fifteen seconds past 12:30 PM, November 22,
+    1963...
+    </p><p>
+    The Kennedy sphinx... And who shall answer his riddle?
+    </p><source>From SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p>
+    So the person chosen to be the leader of your country was
+    murdered, and you had something called the Warren Commission to
+    cover it all up.  And the people really responsible were never
+    even named.  And the people you employ to protect you, the CIA,
+    the FBI, they actually helped the people responsible to get away
+    with it?  And this was a popular president?  What happens with an
+    unpopular president?  Do you just leave him in the gutter to rot
+    or what?
+    </p><source>Shade, in SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p>This sphinx doesn't strangle.  This sphinx is the
+  Kennedy sphinx.  This sphinx is American.  It consumes.  It eats.
+    </p><source>From SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p>
+    Cancer is rather interesting.  I believe it's a kind of wearing
+    out of information.  Runaway cells who've forgotten who they are
+    or where they're going.  But it mightn't be restricted to
+    creatures or cells.  Why not cancer of civilization?  Why not
+    cancer of the imagination?  Imagine a cancer of reality.
+    </p><source>Stringer, in SHADE #2: "Who Shot JFK?"</source>
+  </quotation>
+
+  <quotation><p>"Bobby?  Jesus... And what about Teddy?  They get Teddy, too?"
+    </p><p>
+    "Ahhh, no.  They didn't need to wipe Teddy out.  Teddy was doing a 
+    fine job of that himself."
+    </p><source>JFK and Duane, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>I must be plastic.  I must transpose myself into a new
+   and mad view of reality.
+    </p><source>Shade, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>The past is a branch, forking through and out from
+  Dallas.  There's more than one truth, more than one assassin.  But
+  behind them all is the same hand, the shadow of the same
+  creature... let's go deeper still...
+    </p><source>Mary Ann, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>Oh, the Mob and the CIA are just the high priests, the
+  guardians of America's divinity... which is usually green and comes
+  with a picture of Mr. Washington on one side and the words "In God
+  We Trust" on the other...
+    </p><source>Mary Ann, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>"I say we fly in the choppers, drop a few dozen
+  grenades and swamp the whole area with napalm.   See how the big
+  bastard copes with that..."
+    </p><p>
+    "You sentimental old liberal, Hopgood.  Don't you think we should
+    try the direct approach?"
+    </p><source>Hopgood and Stringer, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>You know, I've a horrible feeling that if we get much
+  deeper into this madness we're gonna end up having a religious
+  experience.  And I vowed long ago never to have one of those.
+    </p><source>Kathy, in SHADE #3: "All the President's Assassins"</source>
+  </quotation>
+
+  <quotation><p>And I am the American Scream, <foreign>e pluribus
+  unum</foreign>,  out of many, one...  Giver of voice and flesh to
+  the quiet screams of unquiet minds.
+    </p><source>The Scream, in SHADE #4: "Mad, Bad, and Dangerous to Know"</source>
+  </quotation>
+
+  <quotation><p>I used to stare at flowers, rage at death, cry at
+  sunsets.  After my confirmation, I was too sensible for that.  I
+  enrolled at college, took my occupational personality test, cried at
+  no more sunsets.   I was a dull little bastard, like all the others.
+    </p><source>Shade, in SHADE #4: "Mad, Bad, and Dangerous to Know"</source>
+  </quotation>
+
+  <quotation><p>And I smile, as a man might smile looking round the
+  ruins of his house, and finding something he thought he'd lost long,
+  long ago.
+    </p><source>Shade, in SHADE #4: "Mad, Bad, and Dangerous to Know"</source>
+  </quotation>
+
+  <quotation><p>How I enjoy people who refer to themselves in the
+  third person!  It's as though they were reciting from their own
+  biography.
+  And a biography of a person is always so much more interesting than
+  the person himself.
+    </p><source>Crispin Keen, in SHADE #5: "Hollywood Babble On"</source>
+  </quotation>
+
+  <quotation><p>"Yeah, I heard she'd screw a horse if it meant acting
+  with Brando."
+  </p><p>
+  "If it'd help her career she'd screw Brando if it meant acting with
+  a horse."
+    </p><source>Edward and William, in SHADE #5: "Hollywood Babble On"</source>
+  </quotation>
+
+  <quotation><p>"What do you do in America once the money's run out."
+    </p><p>"Starve."
+    </p><source>Shade and Kathy, in SHADE #5: "Hollywood Babble On"</source>
+  </quotation>
+
+  <quotation><p>You can't escape it.  Everywhere there are screens,
+  pictures, images, sounds.  They won't let you be alone.  America is
+  scared of being alone.
+    </p><source>From SHADE #5: "Hollywood Babble On"</source>
+  </quotation>
+
+  <quotation id="q216">
+    <p>
+      "But a camera's just a machine. It can't have the madness. That
+      doesn't make sense."
+    </p>
+    <p>
+      "If it made sense it wouldn't be the madness, would it?"
+    </p>
+    <source>Kathy and Shade, in SHADE #6: "Hollywood Babble On II"</source>
+  </quotation>
+
+  <quotation id="q217">
+    <p>
+      I <em>must</em> keep a clear head. If I'm to survive with my mind
+      intact, I must put my queer shoulder firmly to the wheel of
+      objectivity.
+    </p>
+    <source>Crispen Keen, in SHADE #6: "Hollywood Babble On II"</source>
+  </quotation>
+
+  <quotation id="q218">
+    <p>
+      All the years the public lived vicariously through film, now they're
+      living it. But life isn't like film. Life's got too many plot defects.
+      Whom to blame? Who's the director, the <foreign>auteur</foreign> of
+      life? Who writes these utterly absurd screenplays? God? But God
+      doesn't exist. And if he does he's more Godard than Spielberg.
+    </p>
+    <source>Crispen Keen, in SHADE #6: "Hollywood Babble On II"</source>
+  </quotation>
+
+  <quotation id="q219">
+    <p>
+      Guess this changes things, though. If inanimate objects can get the
+      madness... an insane coffee cup. A schizophrenic shirt...
+    </p>
+    <source>Shade, in SHADE #6: "Hollywood Babble On II"</source>
+  </quotation>
+
+  <quotation id="q220">
+    <p>
+      "Nice tits, by the way."
+    </p>
+    <p>
+      "Jesus, we got a date with Oscar Wilde..."
+    </p>
+    <source>Shade and a post-modern prostitute, in SHADE #64</source>
+  </quotation>
+
+  <quotation id="q221">
+    <p>
+      "I think she looks the type that will see through the whole charade."
+    </p>
+    <p>
+      "Yeah. We're just visible signs of his inner trepidation coupled with
+      a fear of commitment..."
+    </p>
+    <p>
+      "Excuse me! I said, excuse me! Prostitutes! Ladies of the night!
+      Streetwalkers! I'm talking to you!"
+    </p>
+    <source>Two post-modern prostitutes and Shade, in SHADE #64</source>
+  </quotation>
+
+  <quotation id="q222">
+    <p>
+      So that's two bottles of bourbon, twenty beers and four clubs to room
+      one oh one... and if it isn't here in fifteen minutes we'll set fire
+      to the hotel.
+    </p>
+    <source>Andrea Merdoch ordering from room service in SHADE #64</source>
+  </quotation>
+
+  <quotation id="q223">
+    <p>
+      "You mean you want to help the people who've been hurt?"
+    </p>
+    <p>
+      "Actually, I was thinking more about me and my quality of life. But if
+      people get helped as a byproduct I can live with it."
+    </p>
+    <source>Sinita and Shade in SHADE #64</source>
+  </quotation>
+
+  <quotation id="q224">
+    <p>
+      Hell... the most awful place you can imagine. Currently under new
+      management, now guaranteed to be even worse.
+    </p>
+    <source>STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q225">
+    <p>
+      "Zzzxxynax (Spit/Drool) Bite-your-dog's-head-off Zznoq?"
+    </p>
+    <p>
+      "Here."
+    </p>
+    <source>Remiel calling attendance in Hell, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q226">
+    <p>
+      Earth... the most awful place you can imagine, if you live in Los
+      Angeles. Other than that, it's pretty neat.
+    </p>
+    <source>STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q227">
+    <p>
+      "Hey, here's some more stuff from the Bicentennial! (ahem) 'My
+      friends, taxes are too high and the government treats us like idiots,
+      so I'm revolting.'"
+    </p>
+    <p>
+      "At least you had an excuse."
+    </p>
+    <source>Stanley and his monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q228">
+    <p>
+      "Look, here's a book."
+    </p>
+    <p>
+      "Not another copy of <cite>Jonathan Livingston Seagull</cite>, is it?"
+    </p>
+    <source>Stanley and his monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q229">
+    <p>
+      Yum, genuine polyester!
+    </p>
+    <source>The monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q230">
+    <p>
+      Better get going; your parents still think me imaginary, and I'd hate
+      to shatter an illusion like that before dinner.
+    </p>
+    <source>The monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q231">
+    <p>
+      "Take this book back to my room, and <em>don't eat it</em>!"
+    </p>
+    <p>
+      "Stanley, you wound me. I already have this delicious stack of
+      <cite>National Geographics</cite>, thank you."
+    </p>
+    <source>Stanley and his monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q232">
+    <p>
+      "Great! Tomorrow we find the right tree!"
+    </p>
+    <p>
+      "What're our criteria?"
+    </p>
+    <p>
+      "One you won't break."
+    </p>
+    <source>Stanley and his monster, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q233">
+    <p>
+      "Hell sounds like a very silly place. Don't you miss it?"
+    </p>
+    <p>
+      "No. Not even a little, Stanley. You see, we'd... play tricks on each
+      other all the time... but nobody was your friend. Not really. Nobody
+      was <em>anybody's</em> friend."
+    </p>
+    <source>The monster reminiscing, in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q234">
+    <p>
+      That is <em>quite</em> enough. I mean really, Stanley, I'm afraid
+      you've exceeded your special effects budget for this entire month. Not
+      to mention the casting calls I've had to sit through. I'm afraid that
+      you'll be dreaming about the ocean for the next several weeks. I
+      happen to have a lot of it in stock. Perhaps it will calm you down.
+      Good night.
+    </p>
+    <source>Morpheus, Lord of Dreams, makes a nicely characterized guest appearance in STANLEY AND HIS MONSTER #1</source>
+  </quotation>
+
+  <quotation id="q235">
+    <p>
+      "So what's so bad about her?"
+    </p>
+    <p>
+      "To answer that, Stanley, I'd have to tell you about the birds and the
+      bees... and the chainsaws, and the weasels, and the icepicks, and the
+      acid, and the..."
+    </p>
+    <source>The monster's introduction to his lady-love Nyx, on the cover of STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q236">
+    <p>
+      "Aha! I knew I'd find you here!"
+    </p>
+    <p>
+      "Huh? Well, good for you. Now it's your turn to hide."
+    </p>
+    <source>Weevil Dendrite and Ambrose Bierce in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q237">
+    <p>
+      "'Disreputable Urban Magicians and Sorcerors Union' Oh...sorry."
+    </p>
+    <p>
+      "Ah, s'not your fault. You learn the basics, have a hideous experience
+      in a graveyard, they give you a trenchcoat and steal your razor. Like
+      an assembly line, really."
+    </p>
+    <source>Weevil Dendrite and Ambrose Bierce in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q238">
+    <p>
+      I've created my own form of divination. One that allows me to capture
+      the currents of chaos in mid-motion and study the fluxes themselves. I
+      call it-- JELLOMANCY!
+    </p>
+    <source>Weevil Dendrite explains his magic, in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q239">
+    <p>
+      "And you're a rhymer now. How... nice."
+    </p>
+    <p>
+      "Like it? Actually I'm still just apprenticing. They've been starting
+      me off slow. Enchantments, prophecies of doom, greeting cards, stuff
+      like that."
+    </p>
+    <source>The monster and Nyx, in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q240">
+    <p>
+      You'll die gloriously, I promise you. Well, actually, you're going to
+      die slowly and painfully, but it's nothing a little editing won't fix.
+    </p>
+    <source>A battle-enraged Nyx, in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q241">
+    <p>
+      Luckily, every good story is allowed one astounding coincidence. The
+      writer has decided to cash his in now.
+    </p>
+    <source>In Phil Foglio's STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q242">
+    <p>
+      That does it! I cannot understand why everybody speaks so well of
+      'subtlety.' It never works, I don't know why I even try anymore!!
+      Now!! Tell me, mortal scum, where is he?!
+    </p>
+    <source>Nyx throws in the towel, in STANLEY AND HIS MONSTER #2</source>
+  </quotation>
+
+  <quotation id="q243">
+    <p>
+      "Yes, that hideous thing that looked like my wife!"
+    </p>
+    <p>
+      "<em>I beg your pardon?!</em>"
+    </p>
+    <p>
+      "But Sheila, I didn't... I mean, she really was lovely--"
+    </p>
+    <p>
+      "<em>Is</em> <em>that</em> <em>so</em>?"
+    </p>
+    <p>
+      "But it was a hideous evil sort of lovely!"
+    </p>
+    <source>Wedded bliss, in STANLEY AND HIS MONSTER #3</source>
+  </quotation>
+
+  <quotation id="q244">
+    <p>
+      "But what did they call you?"
+    </p>
+    <p>
+      "'Big-shaggy-red-spirit-dog-who-protects-village.' It's not like there
+      were a lot of us around."
+    </p>
+    <source>Stanley's mother and the monster in STANLEY AND HIS MONSTER #3</source>
+  </quotation>
+
+  <quotation id="q245">
+    <p>
+      "I don't think you can fit under the bed."
+    </p>
+    <p>
+      "Oh, there are some ladies who'd tell you otherwise."
+    </p>
+    <source>Stanley and Ambrose Bierce in STANLEY AND HIS MONSTER #3</source>
+  </quotation>
+
+  <quotation id="q246">
+    <p>
+      "Do you happen to know that consciousness is the creature of rhythm?"
+    </p>
+    <p>
+      "No, but if you hum a few bars..."
+    </p>
+    <p>
+      "Humf. You are not him."
+    </p>
+    <p>
+      "(Boy, and I thought the the Church of the Sub-Genius was weird.)"
+    </p>
+    <source>Stanley's father and a servant of Moxon in STANLEY AND HIS MONSTER #3</source>
+  </quotation>
+
+  <quotation id="q247">
+    <p>
+      "Okay, we've got all the ingredients for 'spaghetti'. You know, I
+      think this would be pretty good if you threw in some turpentine and a
+      few centipedes."
+    </p>
+    <p>
+      "I think the first time out we should just stick to the recipe."
+    </p>
+    <source>The monster and Stanley in STANLEY AND HIS MONSTER #3</source>
+  </quotation>
+
+  <quotation id="q248">
+    <p>
+      "Where are we, Mr Bierce?"
+    </p>
+    <p>
+      "There are many realms between the spheres of life and death, Stanley.
+      No magician can explore them all."
+    </p>
+    <p>
+      "You don't know."
+    </p>
+    <source>Ambrose Bierce and Stanley in STANLEY AND HIS MONSTER #4</source>
+  </quotation>
+
+  <quotation id="q249">
+    <p>
+      "I'll be curious to see what he thinks Hell is."
+    </p>
+    <p>
+      "Garn, I hope he ain't British. Some of that stuff them people dream
+      up... it's enough to gag a maggot."
+    </p>
+    <source>Demons awaiting Stanley's arrival in Hell in STANLEY AND HIS MONSTER #4</source>
+  </quotation>
+
+  <quotation id="q250">
+    <p>
+      What kind of theological education are kids getting today?!
+    </p>
+    <source>An highly-annoyed goofy-looking orange demon in STANLEY AND HIS MONSTER #4</source>
+  </quotation>
+
+  <quotation id="q251">
+    <p>
+      Bar-B-Q sauce? Damnit, Nyx, what do you think that will do, you
+      ignorant-- Uh-oh. Oh no! Cerberus? Buddy? Good dog?
+    </p>
+    <source>Glyfford gets a sinking feeling in STANLEY AND HIS MONSTER #4</source>
+  </quotation>
+
+  <quotation id="q252">
+    <p>
+      I'm here for the FBI, not the <cite>Weekly World News</cite>.
+    </p>
+    <source>Scully in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q253">
+    <p>
+      "That isn't the real Shroud of Turin, is it?"
+    </p>
+    <p>
+      "No, Agent Mulder. Just a replica. I keep the original in the
+      basement, next to the Holy Grail."
+    </p>
+    <source>Mulder and Mr. Newton in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q254">
+    <p>
+      "You're off the case! Go chase Bigfoot!
+    </p>
+    <p>
+      "I'd love to, Sir, but with all due respect, the season is wrong.
+      Bigfoot sightings taper off in the winter. Unless you were suggesting
+      I go to China, where reports of a beast-man are..."
+    </p>
+    <source>The Smoking Man and Mulder in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q255">
+    <p>
+      Mulder! We are not alone!
+    </p>
+    <source>Scully in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q256">
+    <p>
+      "Everyone else got to read the Fatima prophecy... and all I got was
+      this lousy T-shirt." Thanks. I'll treasure it always.
+    </p>
+    <source>Mulder gets a Christmas gift from Scully in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q257">
+    <p>
+      It would be such a relief to think my sister's happy, but when I look
+      up at the heavens, all I see are the stars.
+    </p>
+    <source>Mulder in X-FILES #1</source>
+  </quotation>
+
+  <quotation id="q258">
+    <p>
+      "Hey, Mulder... how was therapy?"
+    </p>
+    <p>
+      "Pretty good. Today I remembered getting my first library card.
+      Unfortunately, the name on it was Hans Holzer."
+    </p>
+    <source>Scully and Mulder reassemble their memories in X-FILES #2</source>
+  </quotation>
+
+  <quotation id="q259">
+    <p>
+      "Ah, you remember our names, Mulder. Recovering?"
+    </p>
+    <p>
+      "Still some gaps, Byers. The phrase 'Rosebud' rings a bell, but I
+      can't place it."
+    </p>
+    <source>Mulder and Byers, in X-FILES #3</source>
+  </quotation>
+
+  <quotation id="q260">
+    <p>
+      "You know, when we heard you'd debunked Neola, we were afraid you'd
+      gone over to the other side."
+    </p>
+    <p>
+      "Nah -- the hours stink but the pay's good."
+    </p>
+    <source>Frohike and Mulder, in X-FILES #3</source>
+  </quotation>
+
+  <quotation id="q261">
+    <p>
+      "Congratulations. You're finally meeting one of those magical
+      creatures you've spent so much time looking for. "
+    </p>
+    <p>
+      "Funny... you don't look like a leprechaun, Lieutenant Colonel Dunne."
+    </p>
+    <source>Dunne and Mulder in X-FILES #3</source>
+  </quotation>
+
+  <quotation id="q262">
+    <p>
+      "Mulder... this disk wouldn't contain Pentagon access codes, would
+      it?"
+    </p>
+    <p>
+      "Actually it's Doom II. You know how the Bureau frowns on computer
+      games."
+    </p>
+    <source>Scully and Mulder in X-FILES #3</source>
+  </quotation>
+
+  <quotation id="q263">
+    <p>
+      Now that you're dead, Mulder and Scully and Drake, as dead as the
+      trees in December, maybe you can understand what it is that I am.
+    </p>
+    <source>The narrator, in X-FILES #7</source>
+  </quotation>
+
+  <quotation id="q264">
+    <p>
+      Our friend believes that, unlike us working stiffs, he lives backwards
+      and forwards in time.
+    </p>
+    <source>Mulder, in X-FILES #7</source>
+  </quotation>
+
+  <quotation id="q265">
+    <p>
+      And all the while, the computers dreamed of zeroes and ones -- unable
+      to imagine a two.
+    </p>
+    <source>The narrator, in X-FILES #7</source>
+  </quotation>
+
+  <quotation id="q266">
+    <p>
+      "Who are you?"
+    </p>
+    <p>
+      "Oh, pardon me ... Zachary T. Paleozogt, at your service. But you can
+      call me Zot!"
+    </p>
+    <source>Jenny and Zot, in ZOT! #1</source>
+  </quotation>
+
+  <quotation id="q267">
+    <p>
+      Welcome, one and all, to the far-flung future of -- 1965!
+    </p>
+    <source>Zot, in ZOT! #1</source>
+  </quotation>
+
+  <quotation id="q268">
+    <p>
+      "Aww, c'mon! Where's your sense of fun?"
+    </p>
+    <p>
+      "I'm the standard model, Zachary. 'Fun' was optional."
+    </p>
+    <source>Zot and Peabody, in ZOT! #1</source>
+  </quotation>
+
+  <quotation id="q269">
+    <p>
+      Guards! Guards! Stop this madman! He's turning everyone into monkeys!
+    </p>
+    <source>A sudden intrusion, in ZOT! #1</source>
+  </quotation>
+
+  <quotation id="q270">
+    <p>
+      "My, how you've grown!"
+    </p>
+    <p>
+      "C'mon, it's only been a week and a half!"
+    </p>
+    <source>Uncle Max and Zot, in ZOT! #2</source>
+  </quotation>
+
+  <quotation id="q271">
+    <p>
+      "How about you -- what're you up to?"
+    </p>
+    <p>
+      "Issue #3."
+    </p>
+    <source>Vic and Zot, in ZOT! #3</source>
+  </quotation>
+
+  <quotation id="q272">
+    <p>
+      Y'see, I figure I've got two choices at my stage. I can try to make my
+      world grow bigger, or I can let it get smaller -- and if I don't do
+      the one then the other's gonna happen in time...
+    </p>
+    <source>Uncle Max, in ZOT! #3</source>
+  </quotation>
+
+  <quotation id="q273">
+    <p>
+      I'm sorry I became abusive just now ... calling you worms... I was
+      just speaking relatively, you understand.
+    </p>
+    <source>Dekko, in ZOT! #3</source>
+  </quotation>
+
+  <quotation id="q274">
+    <p>
+      "Ah, the stench of evil is about this place!"
+    </p>
+    <p>
+      "Actually, I think that's air-freshener."
+    </p>
+    <source>Prince Drufus and Vic, in ZOT! #4</source>
+  </quotation>
+
+</quotations>

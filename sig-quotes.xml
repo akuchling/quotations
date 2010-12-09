@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<quotations xmlns="http://www.amk.ca/qel/"
+            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <!-- Creative Commons Attribution-ShareAlike license -->
+  <rdf:RDF xmlns="http://web.resource.org/cc/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+       <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+       <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+    </Work>
+
+    <License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+       <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+       <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+       <requires rdf:resource="http://web.resource.org/cc/Notice" />
+       <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+       <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+       <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+    </License>
+
+    </rdf:RDF>
+  <quotation id="q1">
+    <p>
+      We have privative words of every sort: / Aphonia. Aphemia. Aphasia. /
+      Alexia. Apraxia. Agnosia. / Amnesia. Ataxia.
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q2">
+    <p>
+      Calm before the storm. Form is emptiness. Emptiness form.
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q3">
+    <p>
+      But what of the parietal regions, / The fibres, nerves, neurons, / The
+      synapses of occipital zones? / What of the cytoarchitectonic, / The
+      structure of visual processing?
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q4">
+    <p>
+      Does he see people / Or simply schematic / Cued memories?
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q5">
+    <p>
+      He dwells within schema; / He's lost touch with the concrete world.
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q6">
+    <p>
+      Olfactory algebra. / Mathematical odours. / Whiffs of the infinite
+      rose. / Heaven in a wild flower.
+    </p>
+    <source><cite>The Man Who Mistook His Wife for a Hat</cite>, music Michael Nyman, libretto Christopher Rawlence</source>
+  </quotation>
+
+  <quotation id="q7">
+    <p>
+      "Please. Where is the butter, that I might spread it lavishly and feel
+      its oily smoothness?"
+    </p>
+    <p>
+      "Ain't got none, there's a plague on."
+    </p>
+    <source><cite>Greek</cite>, music Mark-Anthony Turnage, libretto Steven Berkoff</source>
+  </quotation>
+
+  <quotation id="q8">
+    <p>
+      Open are the double doors of the horizon / Unlocked are its bolts /
+      Clouds darken the sky / The stars rain down / The constellations
+      stagger / The bones of the hell hounds tremble.
+    </p>
+    <source><cite>Akhnaten</cite>, music Philip Glass, libretto Shalom Goldman</source>
+  </quotation>
+
+  <quotation id="q9">
+    <p>
+      Immediately I know that I've been sucked into hell and I can't get
+      out. So anything that Adam Sandler is in, I just can't help it.
+    </p>
+    <source>Kevin Murphy of MST3K</source>
+  </quotation>
+
+  <quotation id="q10">
+    <p>
+      When he stood up, his face white and dirty and the silk of his
+      breeches opened from waist to knee, it was the dirtiness of the rented
+      breeches, the dirtiness of his slit underwear, and the clean, clean,
+      unbearably clean whiteness of the thigh bone that I had seen, and it
+      was that which was important.
+    </p>
+    <author>Ernest Hemingway</author>
+    <source>"Bullfighting", from <cite>Death in the Afternoon</cite></source>
+  </quotation>
+
+  <quotation id="q11">
+    <p>
+      "Oh, God, Mulder. It smells like... I think it's bile."
+    </p>
+    <p>
+      "Is there any way I can get it off my fingers quickly without
+      betraying my cool exterior?"
+    </p>
+    <source>Scully and Mulder, in the X-Files episode "Squeeze"</source>
+  </quotation>
+
+  <quotation id="q12">
+    <p>
+      I confidently expect it to be a fairly resounding failure.
+    </p>
+    <source>John Cleese, on the Monty Python reunion planned for 1999</source>
+  </quotation>
+
+  <quotation id="q13">
+    <p>
+      My nose shall never be touched while heaven give me strength.
+    </p>
+    <author>Sterne</author>
+    <source><cite>Tristram Shandy</cite></source>
+  </quotation>
+
+  <quotation id="q14">
+    <p>
+      All right. Have it your own way. Road to hell paved with unbought
+      stuffed dogs. Not my fault.
+    </p>
+    <author>Ernest Hemingway</author>
+    <source><cite>The Sun Also Rises</cite></source>
+  </quotation>
+
+  <quotation id="q15">
+    <p>
+      Thank you for letting me borrow your objects.
+    </p>
+    <source>Ute Lemper in concert, March 13, 1997</source>
+  </quotation>
+
+  <quotation id="q16">
+    <p>
+      Apparently, to implement this ominous mess, <em>two</em> committees
+      have been "impaneled". At first glance, I read this as "impaled"
+      (wishful thinking).
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q17">
+    <p>
+      What on earth is less likely than <em>two</em> committees to produce a
+      seamless web of anything but intrigue and deficit? Who said "three
+      committees"?
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q18">
+    <p>
+      run-time. n. (QA testing) the moment when the programmer shouts "Must
+      run!" and disappears.
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q19">
+    <p>
+      prompt. n. (Unix) A symbol on the screen indicating which shell is
+      attacking you.
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q20">
+    <p>
+      mnemonic. n. I had a wildly funny definition of this, but...oh, it may
+      come back...
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q21">
+    <p>
+      BLOB. n. Acronym for Binary Large Object. Codd'n'Date's sci-fi
+      nightmare in which huge unstructured thingies attack the relational
+      integrity of all we love.
+    </p>
+    <author>Stan Kelly-Bootle</author>
+    <source><cite>The Computer Contradictionary</cite></source>
+  </quotation>
+
+  <quotation id="q22">
+    <p>
+      As to why the outer planets wobble, it's 'cause they're so far away
+      that nobody loves them, and they've been drinking.
+    </p>
+    <source>Kibo, in sci.astro</source>
+  </quotation>
+
+  <quotation id="q23">
+    <p>
+      The Answers to these Frequently Asked Questions have been verified by
+      Encyclopedia Britannica. They have not, however, been verified to be
+      <em>correct</em>.
+    </p>
+    <source>The alt.religion.kibology FAQ</source>
+  </quotation>
+
+  <quotation id="q24">
+    <p>
+      Q. Does Kibo believe in furniture?
+    </p>
+    <p>
+      A. No. Go away, furniture!
+    </p>
+    <source>The alt.religion.kibology FAQ</source>
+  </quotation>
+
+  <quotation id="q25">
+    <p>
+      Q. How did Kibo acquire this much power?
+    </p>
+    <p>
+      A. He invented the smiley.
+    </p>
+    <source>The alt.religion.kibology FAQ</source>
+  </quotation>
+
+  <quotation id="q26">
+    <p>
+      Q. What does Kibo think of television?
+    </p>
+    <p>
+      A. TV is evil and must be destroyed. A good way to do this is to watch
+      your set until it burns out.
+    </p>
+    <source>The alt.religion.kibology FAQ</source>
+  </quotation>
+
+  <quotation id="q27">
+    <p>
+      Q. Don't you care?
+    </p>
+    <p>
+      A. Of course Kibo cares. Just not very much.
+    </p>
+    <source>The alt.religion.kibology FAQ</source>
+  </quotation>
+
+  <quotation id="q28">
+    <p>
+      "Of course, just because we've heard a spine-chilling, blood-curdling
+      scream of the sort to make your very marrow freeze in your bones
+      doesn't automatically mean there's anything wrong."
+    </p>
+    <source>Terry Pratchett, <cite>Soul Music</cite></source>
+  </quotation>
+
+  <quotation id="q29">
+    <p>
+      This isn't life in the fast lane, it's life in the oncoming traffic.
+    </p>
+    <source>Terry Pratchett, in alt.fan.pratchett</source>
+  </quotation>
+
+  <quotation id="q30">
+    <p>
+      It looked like the sort of book described in library catalogues as
+      "slightly foxed", although it would be more honest to admit that it
+      looked as though it had been badgered, wolved and possibly beared as
+      well.
+    </p>
+    <source>Terry Pratchett, <cite>The Light Fantastic</cite></source>
+  </quotation>
+
+  <quotation id="q31">
+    <p>
+      Tourist, Rincewind decided, meant "idiot".
+    </p>
+    <source>Terry Pratchett, <cite>The Colour of Magic</cite></source>
+  </quotation>
+
+  <quotation id="q32">
+    <p>
+      There comes a time when you look into the mirror and realize that what
+      you see is all that you will ever be. Then you accept it, or you kill
+      yourself. Or you stop looking into mirrors.
+    </p>
+    <source>Londo, in Babylon 5: "Chrysalis"</source>
+  </quotation>
+
+  <quotation id="q33">
+    <p>
+      We are dreamers, shapers, singers, and makers. We study the mysteries
+      of laser and circuit, crystal and scanner, holographic demons and
+      invocations of equations. These are the tools we employ...
+    </p>
+    <source>Elric, in Babylon 5: "The Geometry of Shadows"</source>
+  </quotation>
+
+  <quotation id="q34">
+    <p>
+      So much has been lost, so much forgotten. So much pain, so much blood.
+      And for what, I wonder? The past tempts us, the present confuses us,
+      and the future frightens us. And our lives slip away, moment by
+      moment, lost in that vast terrible inbetween. But there is still time
+      to cease that one last fragile moment. To choose something better, to
+      make a difference, as you say. And I intend to do just that.
+    </p>
+    <source>The Centauri emperor, in Babylon 5: "The Coming of Shadows"</source>
+  </quotation>
+
+  <quotation id="q35">
+    <p>
+      The war we fight is not against powers and principalities, it is
+      against chaos and despair. Greater than the death of flesh is the
+      death of hope. The death of dreams. Against this peril we can never
+      surrender.
+    </p>
+    <source>G'Kar, Season 3 ending in Babylon 5: "Z'ha'dum"</source>
+  </quotation>
+
+  <quotation id="q36">
+    <p>
+      The future is all around us, waiting in moments of transition, to be
+      born in moments of revelation. No one knows the shape of that future,
+      or where it will take us.
+    </p>
+    <source>G'Kar, Season 3 ending in Babylon 5: "Z'ha'dum"</source>
+  </quotation>
+
+  <quotation id="q37">
+    <p>
+      UN-altered REPRODUCTION and DISSEMINATION of this IMPORTANT
+      Information is ENCOURAGED.
+    </p>
+    <source>Robert E. McElwaine</source>
+  </quotation>
+
+  <quotation id="q38">
+    <p>
+      For quite some time now, I've been an advocate of a sort of IQ test
+      for people prior to allowing them onto the Internet. Apparently a
+      similar test doesn't exist to become an attorney.
+    </p>
+    <source>Seen on slashdot.org</source>
+  </quotation>
+
+  <quotation id="q39">
+    <p>
+      There are two kinds of large software systems: those that evolved from
+      small systems and those that don't work.
+    </p>
+    <source>Seen on slashdot.org</source>
+  </quotation>
+
+  <quotation id="q40">
+    <p>
+      
+<pre>Traceback (innermost last):
+  File "/home/akuchlin/fortune.py", line 78, in ?
+    print get(sys.argv[1])
+ValueError: No relevant quotation found</pre>
+      
+    </p>
+  </quotation>
+
+  <quotation id="q41">
+    <p>
+      ... a man and two smart-aleck robots wisecrack their way through some
+      of the most awful movies ever committed to celluloid. ... This show
+      must be the work of genius, because garden-variety stupidity would
+      never come up with anything like this.
+    </p>
+    <source><cite>Mystery Science Theatre 3000</cite>, described in the April 1999 issue of <cite>Sci-Fi Universe</cite></source>
+  </quotation>
+
+  <quotation id="q42">
+    <p>
+      It is estimated that the statistical breakdown of HappyNet will be
+      thus: 1.0000% nonbozo.*, 90.0000% bozo.*, 9.0000% megabozo.*.
+      (Computations courtesy of Bell Labs)
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q43">
+    <p>
+      You are being given your own HappyNet group. Its placement will depend
+      on your answer to this simple question: ARE YOU A BOZO? (CHECK EXACTLY
+      ONE) [] YES [] NO
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q44">
+    <p>
+      ..signature has giant ASCII graphic: Forced to read "War And Peace" at
+      110 baud on a Braille terminal after having fingers rubbed with
+      sandpaper.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q45">
+    <p>
+      Spelling "too" as "to", "it's" as "its", "lose" as "loose", "you're"
+      as "your", or any of the following--"wierd", "Anti-Semetic",
+      "senerio", or "masterbation": Forced to write out Webster's Ninth ten
+      times.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q46">
+    <p>
+      Sending a newgroup message without permission of Leader Kibo: Poster
+      is forced to adopt twelve wacky sitcom children.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q47">
+    <p>
+      Posting "Please send e-mail, since I don't read this group": Poster is
+      rendered illiterate by a simple trepanation.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q48">
+    <p>
+      Posting to aus.* from the USA: Poster is deported to Australia after
+      having a "Kick Me, Mate" sign glued to their forehead.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q49">
+    <p>
+      Posting an article with a malformed address so that mail bounces when
+      people reply: Poster and/or their admin are sent back to kindergarten.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q50">
+    <p>
+      Saying "Imminent death of the net predicted!": Imminent execution of
+      poster predicted.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q51">
+    <p>
+      Mentioning Star Trek outside of the Star Trek groups: "Star Trek: Deep
+      Space Nine" is cancelled, and all tapes of the original series are
+      burned. William Shatner will direct all future movies.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q52">
+    <p>
+      The Sony Walkman will become obsolete thanks to the Sony rnman. The
+      instructions will be on a separate device, the Sony manman.
+    </p>
+    <author>Kibo</author>
+    <source>In the Happynet Manifesto</source>
+  </quotation>
+
+  <quotation id="q53">
+    <p>
+      This looks likes the sort of thing which will get vectored by the
+      Libertarian and the gullible (by no means disjoint sets!).
+    </p>
+    <author>Seth Finkelstein</author>
+    <source>On Cyberia-L</source>
+  </quotation>
+
+  <quotation id="q54">
+    <p>
+      And I'd be a Libertarian, if they weren't all a bunch of tax-dodging
+      professional whiners.
+    </p>
+    <author>Berke Breathed</author>
+    <source>In an interview by <cite>The Onion</cite></source>
+  </quotation>
+
+  <quotation id="q55">
+    <p>
+      Hanging on to the silly as I sail toward my mid-40s is my current
+      project. The middle-age temptation to get serious about everything is
+      Satan's handiwork.
+    </p>
+    <author>Berke Breathed</author>
+    <source>In an interview by <cite>The Onion</cite></source>
+  </quotation>
+
+  <quotation id="q56">
+    <p>
+      The Internet uses a form of time-sharing. It may not be as fast as you
+      would like, but it's time sharing. Demons may work the same way.
+    </p>
+    <source>From the Demon Possession Handbook (http://www.gelservices.com/part1.html)</source>
+  </quotation>
+
+  <quotation id="q57">
+    <p>
+      Assuming that their minimum speed of travel is the speed of
+      electricity, 186,000 miles per second, a single demon can trouble a
+      large number of people in the course of a few minutes.
+    </p>
+    <source>From the Demon Possession Handbook (http://www.gelservices.com/part1.html)</source>
+  </quotation>
+
+  <quotation id="q58">
+    <p>
+      I'm willing to accept that someone might just have all the answers.
+      However, I'm pretty sure he won't be posting them on a GeoCities page.
+    </p>
+    <source>From mathew's October 1999 web.scan</source>
+  </quotation>
+
+  <quotation id="q59">
+    <p>
+      Let's face it, if you can take seriously the idea that porcine pasty-
+      white American redneck bigots are God's chosen people, you obviously
+      can't have much of a sense of humor.
+    </p>
+    <source>From mathew's September 1999 web.scan</source>
+  </quotation>
+
+  <quotation id="q60" date="1993">
+    <p>
+      Missy and Beethoven are first smitten with each other while Dolly
+      Parton and James Ingram sing "The Day I Fall in Love", and I'm telling
+      you, there wasn't a dry face on the screen, mostly because the dogs
+      were licking each other.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Beethoven's 2nd</cite></source>
+  </quotation>
+
+  <quotation id="q61" date="1998">
+    <p>
+      I guess you could laugh at this. You would have to be seriously
+      alienated from normal human values and be nursing a deep-seated anger
+      against movies that make you think even a little, but you could laugh.
+    </p>
+    <source>Roger Ebert, reviewing <cite>The Big Hit</cite></source>
+  </quotation>
+
+  <quotation id="q62" date="1997">
+    <p>
+      Not one single event in the entire plot can possibly take place unless
+      every character in the cast has brains made of Bac-O-Bits.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Jungle 2 Jungle</cite></source>
+  </quotation>
+
+  <quotation id="q63" date="1996">
+    <p>
+      There is a movie called <cite>Fargo</cite>. It is a masterpiece. Go
+      see it. If you under any circumstances see <cite>Little Indian, Big
+      City</cite>, I will never let you read one of my reviews again.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Little Indian, Big City</cite></source>
+  </quotation>
+
+  <quotation id="q64" date="1996">
+    <p>
+      <cite>Mad Dog Time</cite> is the first movie I have seen that does not
+      improve on the sight of a blank screen viewed for the same length of
+      time.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Mad Dog Time</cite></source>
+  </quotation>
+
+  <quotation id="q65" date="1998">
+    <p>
+      Giocante has been billed as "the new Bardot", and she's off to a good
+      start: Bardot didn't make many good films, either.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Marie Baie Des Anges</cite></source>
+  </quotation>
+
+  <quotation id="q66" date="1969">
+    <p>
+      One goes to this movie in the same spirit one visits an ancient town
+      buried by lava centuries ago. To try to determine by examining the
+      ruins what made the gods punish man so.
+    </p>
+    <source>Roger Ebert, reviewing <cite>A Place for Lovers</cite></source>
+  </quotation>
+
+  <quotation id="q67" date="1979">
+    <p>
+      Even if I buy the wretched Drum as a Moral Symbol, I'm still stuck
+      with the kid as a pious little bastard.
+    </p>
+    <source>Roger Ebert, reviewing <cite>The Tin Drum</cite></source>
+  </quotation>
+
+  <quotation id="q68" date="1998">
+    <p>
+      Through a tortuous series of contrived misunderstandings, the boy and
+      girl avoid happiness for most of the movie, although not as
+      successfully as we do.
+    </p>
+    <source>Roger Ebert, reviewing <cite>The Wedding Singer</cite></source>
+  </quotation>
+
+  <quotation id="q69" date="1999">
+    <p>
+      I have often asked myself, "What would it look like if the characters
+      in a movie were animatronic puppets created by aliens with an
+      imperfect mastery of human behavior?" Now I know.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Friends &amp; Lovers</cite></source>
+  </quotation>
+
+  <quotation id="q70" date="1992">
+    <p>
+      If I were more of a hero, I would spend the next couple of weeks
+      breaking into theaters where this movie is being shown, and leading
+      the audience to safety.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Frozen Assets</cite></source>
+  </quotation>
+
+  <quotation id="q71" date="1998">
+    <p>
+      Now that I've inspired a character in a Godzilla movie, all I really
+      still desire is for several Ingmar Bergman characters to sit in a
+      circle and read my reviews to one another in hushed tones.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Godzilla</cite></source>
+  </quotation>
+
+  <quotation id="q72" date="2000">
+    <p>
+      It's a movie without a brain in its three pretty little heads, which
+      belong to Cameron Diaz, Drew Barrymore and Lucy Liu. This movie is a
+      dead zone in their lives, and mine.
+    </p>
+    <source>Roger Ebert, reviewing <cite>Charlie's Angels</cite></source>
+  </quotation>
+
+  <quotation id="q73">
+    <p>
+      In all the annals of the movies, few films have been this odd,
+      inexplicable and unpleasant.
+    </p>
+    <author>Roger Ebert</author>
+    <source>In a review of "Death to Smoochy"</source>
+  </quotation>
+
+</quotations>
