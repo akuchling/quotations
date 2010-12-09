@@ -73,8 +73,8 @@ def write_related_links (output):
 
         
 def output_filename(pageno):
-    if pageno == 1: return 'index'
-    else:           return 'page-%i' % pageno
+    if pageno == 1: return 'index.html'
+    else:           return '%i.html' % pageno
 
         
 separator_pat = re.compile('^NEW FILE (\d+)/(\d+)')
@@ -159,7 +159,6 @@ if os.path.islink('index.html'):
     os.unlink('index.html')
 
 f=open('.htaccess', 'w')
-f.write("""RedirectPermanent /%s/page-1.html http://quotations.amk.ca/%s/\n""" % (file, file))
-f.write("""RedirectPermanent /%s/page-1 http://quotations.amk.ca/%s/\n""" % (file, file))
+f.write("""RedirectPermanent /%s/1.html http://quotations.amk.ca/%s/\n""" % (file, file))
 f.close()
 

@@ -27,6 +27,11 @@ all: $(HTML_DIRS) $(FORTUNE_FILES) $(TEXT_FILES)
 clobber: clean
 	rm -f $(HTML_FILES) $(FORTUNE_FILES) $(TEXT_FILES) *~
 
+# Copy files to the live site
+copy:
+	rsync -av  --exclude-from=$$HOME/files/www/scripts/rsync-excludes \
+               $$HOME/files/www/sites/quotations.amk.ca/ akuchling@wasp.dreamhost.com:~/quotations.amk.ca/
+
 comics/links.h : comics.xml
 	qtformat --html --split 8 $< | \
 		$(PYTHON) make-ht.py comics
@@ -54,3 +59,4 @@ shakespeare/links.h : shakespeare.xml
 sherlock-holmes/links.h : sherlock-holmes.xml
 	qtformat --html --split 8 $< | \
 		$(PYTHON) make-ht.py sherlock-holmes
+
