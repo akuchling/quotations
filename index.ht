@@ -1,0 +1,76 @@
+Title: Quotation Collections
+Keywords: Quotations, quotes, comics, Python, Doctor Who, Sherlock Holmes
+
+<p>Commonplace Book: My primary collection: over 275K of quotations.  <br />
+<a href="quotations/">HTML</a> <a href="quotations.xml">XML</a>
+ <a href="quotations.txt">Text</a> <a href="quotations.ft">Fortune</a>
+
+<p>Comic books:
+Various quotations from comic books.<br />
+  <a href="comics/">HTML</a> <a href="comics.xml">XML</a>
+  <a href="comics.txt">Text</a> <a href="comics.ft">Fortune</a>
+
+<p>Neil Gaiman:
+Quotations from the writer of novels and comics. 
+especially from the <cite>Sandman</cite> comic book.
+[<a href="http://www.neilgaiman.com">Neil Gaiman's official site</a>]
+  <br />
+  <a href="neil-gaiman/">HTML</a> <a href="neil-gaiman.xml">XML</a>
+  <a href="neil-gaiman.txt">Text</a> <a href="neil-gaiman.ft">Fortune</a>
+
+<p>H.P. Lovecraft:
+Quotations from the noted author of weird fiction.<br />
+  <a href="hp-lovecraft/">HTML</a> <a href="hp-lovecraft.xml">XML</a>
+  <a href="hp-lovecraft.txt">Text</a> <a href="hp-lovecraft.ft">Fortune</a>
+  <br />
+
+<p>The Python programming language:
+Amusing quotations seen in <code>comp.lang.python</code>, or about Python.
+  <br />
+  <a href="python-quotes/">HTML</a> <a href="python-quotes.xml">XML</a>
+  <a href="python-quotes.txt">Text</a> <a href="python-quotes.ft">Fortune</a>
+
+
+<p>William Shakespeare: Quotations from the plays.<br />
+  <a href="shakespeare/">HTML</a> <a href="shakespeare.xml">XML</a>
+  <a href="shakespeare.txt">Text</a> <a href="shakespeare.ft">Fortune</a>
+
+
+<p><cite>Doctor Who</cite>:
+A collection of quotations from <cite>Doctor Who</cite>.<br />
+  <a href="doctor-who/">HTML</a> <a href="doctor-who.xml">XML</a>
+  <a href="doctor-who.txt">Text</a> <a href="doctor-who.ft">Fortune</a>
+
+<p>Sherlock Holmes:
+Quotations from the Sherlock Holmes stories by Sir Arthur Conan Doyle.    <br />
+  <a href="sherlock-holmes/">HTML</a> <a href="sherlock-holmes.xml">XML</a>
+  <a href="sherlock-holmes.txt">Text</a> <a href="sherlock-holmes.ft">Fortune</a>
+
+<p>Housing bubble:  Noteworthy or amusing quotations from the 2002-2006 housing market.<br />
+  <a href="housing-bubble/">HTML</a> <a href="housing-bubble.xml">XML</a>
+  <a href="housing-bubble.txt">Text</a> <a href="housing-bubble.ft">Fortune</a>
+
+<p>On Unix machines, you can use the Fortune format version of the
+files to start your login session with a randomly selected quotation;
+consult the man page for <code>fortune</code>(6) to learn how.  I
+don't know what programs are used under Windows or MacOS to display
+random quotations, but am willing to convert the file to new formats;
+please let me know what other formats should be supported.
+(Alternatively, you could download a Python interpreter for your
+system, and grab the Python scripts <code>strfile.py</code> and
+<code>fortune.py</code> from my <a href="../python/simple/">Simple
+Scripts page</a>.  They implement a simple version of the Unix
+<code>fortune</code> program.)
+
+<p>The XML versions are in QEL, the Quotation Exchange Language.  For
+technical information and software, consult the <a href="/qel/">QEL
+home page</a>.</p>
+
+<p><!-- Creative Commons License -->
+<a href="http://creativecommons.org/licenses/by-sa/1.0"><img alt="Creative
+Commons License" border="0"
+src="http://creativecommons.org/images/public/somerights.gif" /></a><br />
+These works are licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/1.0">Creative Commons
+License</a>.
+<!-- /Creative Commons License -->
