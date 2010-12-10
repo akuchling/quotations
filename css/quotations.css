@@ -1,9 +1,11 @@
 
-p { }
+div.column { padding: 5px }
 
-p.author { font-weight: bold; 
-           margin-top: 0; margin-left: 15;
+p { margin-top: 2em; font-size: 110%}
+
+p.author { font-variant: small-caps;
+           margin-top: 0.1em; margin-left: 2em;
 	   text-align: left }
-p.source { font-weight: bold; 
-           margin-top: 0; margin-left: 15;
+p.source { 
+           margin-top: 0.1em; margin-left: 2em;
            text-align: left }
