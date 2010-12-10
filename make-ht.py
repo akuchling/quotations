@@ -63,6 +63,7 @@ a detailed and high-quality archive of Lovecraftian information.
     }
 
 def write_related_links (output):
+    return
     if related_links.has_key(file):
         output.write('<hr><h3>Related Links</h3>')
         output.write(related_links[file])
@@ -73,8 +74,8 @@ def write_related_links (output):
 
         
 def output_filename(pageno):
-    if pageno == 1: return 'index.html'
-    else:           return '%i.html' % pageno
+    if pageno == 1: return 'index'
+    else:           return '%i' % pageno
 
         
 separator_pat = re.compile('^NEW FILE (\d+)/(\d+)')
@@ -104,10 +105,10 @@ while 1:
         # Write Meta: header with LINK elements
         links = ""
         if page > 1:
-            links += ('<link rel="Prev" href="%s" />' %
+            links += ('<link rel="Prev" href="%s.html" />' %
                       output_filename(page-1) )
         if page < total:
-            links += ('<link rel="Next" href="%s" />' %
+            links += ('<link rel="Next" href="%s.html" />' %
                       output_filename(page+1) )
             
         output.write("Meta: %s\n" % links)
@@ -132,7 +133,7 @@ total = int(total)
 link = open('links.h', 'w')
 
 for i in range(1, total+1):
-    link.write('<li><a href="%s">%i</a>\n' % (output_filename(i),i) )
+    link.write('<li><a href="%s.html">%i</a>\n' % (output_filename(i),i) )
 
 link.write("<H3>Other&nbsp;Formats</H3>\n")
 link.write("""<li><a href="../%s.txt">ASCII</a>
