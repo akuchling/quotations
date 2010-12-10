@@ -29,7 +29,7 @@ clobber: clean
 
 # Copy files to the live site
 copy:
-	rsync -av  --exclude-from=$$HOME/files/www/scripts/rsync-excludes \
+	rsync -av --delete --exclude-from=$$HOME/files/www/scripts/rsync-excludes \
                $$HOME/files/www/sites/quotations.amk.ca/ akuchling@wasp.dreamhost.com:~/quotations.amk.ca/
 
 comics/links.h : comics.xml
