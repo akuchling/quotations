@@ -142,7 +142,6 @@ link.write("""<li><a href="../%s.txt">ASCII</a>
 """ % ((file,)*3) )
 
 link.write("""<H3>Other&nbsp;Collections</H3>
-<LI><A HREF="../">Index</a>
 <LI><A HREF="../comics/">Comics</A>
 <LI><A HREF="../quotations/">Commonplace&nbsp;book</A>
 <LI><A HREF="../doctor-who/">Doctor&nbsp;Who</A>
