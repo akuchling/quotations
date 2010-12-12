@@ -1,0 +1,42 @@
+# This needs GNU make.  Sigh.
+
+# Make rules for ht->html conversion
+
+#/usr/local/bin necessary for ht2html /bin/env to find python
+HT_SOURCES =	$(shell echo *.ht)
+RST_SOURCES =   $(shell echo *.rst)
+TARGETS =	$(HT_SOURCES:%.ht=%.html) \
+                $(RST_SOURCES:%.rst=%.html) \
+                $(EXTRA_TARGETS)
+
+SITE=           amk.ca
+SCRIPTDIR =	$(HOME)/files/www/scripts
+HT2HTML =	$(SCRIPTDIR)/$(SITE).py
+TEMPLATE =	$(SCRIPTDIR)/$(SITE).html
+
+HTFLAGS =	
+HTRELDIR =	.
+
+.SUFFIXES:	.ht .rst .html
+.ht.html: 
+		$(HT2HTML) $(HTFLAGS) $(HTRELDIR)/$<
+		#-tidy -quiet -latin1 -asxml -modify \
+                #     $@ -f /dev/null  $@ 2>/dev/null
+.rst.html: 
+		$(HT2HTML) $(HTFLAGS) $(HTRELDIR)/$<
+		-tidy -quiet -latin1 -asxml -modify \
+                     $@ -f /dev/null  $@ 2>/dev/null
+# -config ~/.tidy.cfg 
+all: $(TARGETS) 
+
+$(TARGETS): $(TEMPLATE)  $(HT2HTML)
+
+clean:
+	-rm -f *~
+
+recursive: 
+	cwd=`pwd` ; \
+	for makefile in `find . -name Makefile` ; do \
+		dir=`dirname $$makefile` ; \
+		cd $$dir ; make ; cd $$cwd ; \
+	done
