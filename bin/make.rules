@@ -9,8 +9,8 @@ TARGETS =	$(HT_SOURCES:%.ht=%.html) \
                 $(RST_SOURCES:%.rst=%.html) \
                 $(EXTRA_TARGETS)
 
-SITE=           amk.ca
-SCRIPTDIR =	$(HOME)/files/www/scripts
+SITE=           quotations.amk.ca
+SCRIPTDIR =	$(HOME)/files/www/sites/quotations.amk.ca/bin
 HT2HTML =	$(SCRIPTDIR)/$(SITE).py
 TEMPLATE =	$(SCRIPTDIR)/$(SITE).html
 
