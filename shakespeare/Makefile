@@ -1,4 +1,4 @@
-include /www/scripts/make.rules
+include $$HOME/files/www/sites/quotations.amk.ca/bin/make.rules
 
 SITE = quotations.amk.ca
 

@@ -1,7 +1,6 @@
+include $$HOME/files/www/sites/quotations.amk.ca/bin/make.rules
 
 SITE = quotations.amk.ca
-
-include /www/scripts/make.rules
 
 $(SOURCES:%.ht=%.html): links.h 
 
