@@ -125,15 +125,13 @@ while 1:
         
 # end while
     
-if output is not None: output.close()
+if output is not None: 
+    output.close()
 
 total = int(total)
 
 # Write the links.h file
 link = open('links.h', 'w')
-
-for i in range(1, total+1):
-    link.write('<li><a href="%s.html">%i</a>\n' % (output_filename(i),i) )
 
 link.write("<H3>Other&nbsp;Formats</H3>\n")
 link.write("""<li><a href="../%s.txt">ASCII</a>
