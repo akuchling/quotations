@@ -97,7 +97,9 @@ while 1:
         output = open(output_filename(page)+'.ht', 'w')
         title = titles[file]
         output.write("Title: %s, page %i of %i\n" % (title, page, total))
-        output.write('stylesheet: /css/quotations.css\n')
+        output.write("Page: %i\n" % page)
+        output.write("Total-Page: %i\n" % total)
+        output.write('Stylesheet: /css/quotations.css\n')
         if page == 1 and keywords.has_key(file):
             output.write('Keywords: quotations, quotes, %s, %s\n'
                          % (title, keywords[file]) )
@@ -144,7 +146,6 @@ link.write("""<H3>Other&nbsp;Collections</H3>
 <LI><A HREF="../quotations/">Commonplace&nbsp;book</A>
 <LI><A HREF="../doctor-who/">Doctor&nbsp;Who</A>
 <LI><A HREF="../neil-gaiman/">Neil&nbsp;Gaiman</A>
-<LI><A HREF="../peter-greenaway/">Peter&nbsp;Greenaway</A>
 <LI><A HREF="../hp-lovecraft/">H.P.&nbsp;Lovecraft</A>
 <LI><A HREF="../python-quotes/">Python</A>
 <LI><A HREF="../shakespeare/">Shakespeare</A>
