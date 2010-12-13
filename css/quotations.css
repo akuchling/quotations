@@ -1,7 +1,13 @@
 
+h1 {
+  font-size: 2em
+}
+
 div.column { padding: 5px }
 
 div.quotations p { margin-top: 2em; font-size: 120%}
+
+div.quotations p.quotation { margin-top: 1em}
 
 div.quotations p.author { font-variant: small-caps;
            margin-top: 0.1em; margin-left: 2em;
@@ -9,3 +15,18 @@ div.quotations p.author { font-variant: small-caps;
 div.quotations p.source { 
            margin-top: 0.1em; margin-left: 2em;
            text-align: left }
+
+span.pagenumber {
+  font-size: larger
+}
+
+a.pagelink {
+  padding: 3px;
+  border: 1px;
+  font-size: larger;
+}
+
+a.pagelink:link {text-decoration:none}
+a.pagelink:visited {text-decoration:none}
+a.pagelink:active {text-decoration:none}
+a.pagelink:hover {text-decoration: underline}
