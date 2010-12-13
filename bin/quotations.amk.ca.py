@@ -213,22 +213,22 @@ def build_tree_info (filename):
 def format_linklist(L):
     s = ""
     if len(L) == 0: return ""
-    firstHeader = 1
-    firstLink = 1
+    firstHeader = True
+    firstLink = True
     for i in range(len(L)):
         if L.isHeading(i):
-            if not firstHeader: s += '<br>'
+            if not firstHeader: s += '<br><br>'
             s = ( s + '<span class="link-heading">' +
                   L.heading(i).strip() +
                   ':</span><br>\n' )
             firstLink = 1
         elif L.isDeadLink(i):
-            if not firstLink: s = s + ' | '
+            if not firstLink: s = s + '<br>'
             s = (s + '<span class="link-dead">' +
                  L.linkText(i) + "</span>\n")
             firstLink = 0
         elif L.isLink(i):
-            if not firstLink: s = s + ' | '
+            if not firstLink: s = s + '<br>'
             s = (s + '<a class="sidebar-link" HREF="%s">%s</a>\n' %
                      (L.linkHref(i), L.linkText(i) ) )
             firstLink = 0
@@ -321,6 +321,21 @@ def process_file (filename):
     links = parse_links(filename, headers)
     links = format_linklist(links)
 
+    pagelinks = ""
+    if 'Page' in headers and 'Total-Page' in headers:
+        page_num = int(headers.get('Page'))
+        total_pages = int(headers.get('Total-Page'))
+        for i in range(1, total_pages+1):
+            if i == 1:
+                fn = 'index.html'
+            else:
+                fn = '%i.html' % i
+            if i == page_num:
+                pagelinks += '<span class="pagenumber">%i</span>' % i
+            else:
+                pagelinks += '<a class="pagelink" href="%s">[%i]</a>' % (fn,i)
+            pagelinks += ' '
+
     vars = {
         'content' : body,
         'namespaces':headers.get('namespaces', ''),
@@ -333,6 +348,7 @@ def process_file (filename):
         'date_year': str(date_year),
         'date_month_name': date_month_name,
         'endif': '[endif]',
+        'pagelinks': pagelinks,
         }
 
     t = time.localtime( os.stat(filename)[8] )
