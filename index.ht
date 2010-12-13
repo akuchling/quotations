@@ -58,7 +58,7 @@ random quotations, but am willing to convert the file to new formats;
 please let me know what other formats should be supported.
 (Alternatively, you could download a Python interpreter for your
 system, and grab the Python scripts <code>strfile.py</code> and
-<code>fortune.py</code> from my <a href="../python/simple/">Simple
+<code>fortune.py</code> from my <a href="http://www.amk.ca/python/simple/">Simple
 Scripts page</a>.  They implement a simple version of the Unix
 <code>fortune</code> program.)
 
