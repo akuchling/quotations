@@ -114,15 +114,6 @@ while 1:
                       output_filename(page+1) )
             
         output.write("Meta: %s\n" % links)
-            
-        if file == 'robertson-davies':
-            output.write('palette: gold\n')
-        elif file == 'python-quotes':
-            output.write("""Other-links: <h3>Other Software Quotes</h3>
-<li><a href="ftp://ftp.icce.rug.nl/pub/unix/linuxcookie.data">Linux Cookies</a>
-<li><a href="http://www.cs.yale.edu/~perlis-alan/quotes.html">Alan Perlis</a>
-<li><a href="http://www.perl.com/CPAN/authors/id/GBACON/lwall-quotes.txt.gz">Larry Wall</a>
-""")
         output.write('\n')
         
 # end while
