@@ -206,7 +206,6 @@ def build_tree_info (filename):
         #            print url
         text = tree_path[i]
         t = t + ('<a href="%s">%s</a> &gt;&#160;' % (url, text) )
-    print t
     return t
 
         
