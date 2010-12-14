@@ -10,6 +10,11 @@ Various quotations from comic books.<br />
   <a href="comics/">HTML</a> <a href="comics.xml">XML</a>
   <a href="comics.txt">Text</a> <a href="comics.ft">Fortune</a>
 
+<p><cite>Doctor Who</cite>:
+A collection of quotations from <cite>Doctor Who</cite>.<br />
+  <a href="doctor-who/">HTML</a> <a href="doctor-who.xml">XML</a>
+  <a href="doctor-who.txt">Text</a> <a href="doctor-who.ft">Fortune</a>
+
 <p>Quotations from <a href="http://www.neilgaiman.com">Neil Gaiman</a>, author of novels and comics;
 focuses especially on the <cite>Sandman</cite> comic book.
   <br />
@@ -32,12 +37,6 @@ Amusing quotations seen in <code>comp.lang.python</code>, or about Python.
 <p>William Shakespeare: Quotations from the plays.<br />
   <a href="shakespeare/">HTML</a> <a href="shakespeare.xml">XML</a>
   <a href="shakespeare.txt">Text</a> <a href="shakespeare.ft">Fortune</a>
-
-
-<p><cite>Doctor Who</cite>:
-A collection of quotations from <cite>Doctor Who</cite>.<br />
-  <a href="doctor-who/">HTML</a> <a href="doctor-who.xml">XML</a>
-  <a href="doctor-who.txt">Text</a> <a href="doctor-who.ft">Fortune</a>
 
 <p>Sherlock Holmes:
 Quotations from the Sherlock Holmes stories by Sir Arthur Conan Doyle.    <br />
