@@ -4,9 +4,7 @@
 
 #/usr/local/bin necessary for ht2html /bin/env to find python
 HT_SOURCES =	$(shell echo *.ht)
-RST_SOURCES =   $(shell echo *.rst)
 TARGETS =	$(HT_SOURCES:%.ht=%.html) \
-                $(RST_SOURCES:%.rst=%.html) \
                 $(EXTRA_TARGETS)
 
 SITE=           quotations.amk.ca
@@ -17,15 +15,11 @@ TEMPLATE =	$(SCRIPTDIR)/$(SITE).html
 HTFLAGS =	
 HTRELDIR =	.
 
-.SUFFIXES:	.ht .rst .html
+.SUFFIXES:	.ht .html
 .ht.html: 
 		$(HT2HTML) $(HTFLAGS) $(HTRELDIR)/$<
 		-tidy -quiet -latin1 -asxml -modify $@ -f /dev/null $@ 2>/dev/null
-.rst.html: 
-		$(HT2HTML) $(HTFLAGS) $(HTRELDIR)/$<
-		-tidy -quiet -latin1 -asxml -modify \
-                     $@ -f /dev/null  $@ 2>/dev/null
-# -config ~/.tidy.cfg 
+
 all: $(TARGETS) 
 
 $(TARGETS): $(TEMPLATE)  $(HT2HTML)
