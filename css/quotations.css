@@ -7,14 +7,24 @@ div.column { padding: 5px }
 
 div.quotations p { margin-top: 2em; font-size: 120%}
 
-div.quotations p.quotation { margin-top: 1em}
+div.quotations p.quotation {
+  margin-top: 1em;
+}
 
-div.quotations p.author { font-variant: small-caps;
-           margin-top: 0.1em; margin-left: 2em;
-	   text-align: left }
+div.quotations p.author { 
+  font-variant: small-caps;
+  margin-top: 0.1em;
+  margin-left: 2em;
+  text-align: left;
+}
 div.quotations p.source { 
-           margin-top: 0.1em; margin-left: 2em;
-           text-align: left }
+  margin-top: 0.1em; margin-left: 2em;
+  text-align: left;
+}
+
+div.sidebar p {
+  margin-top: 1em;
+}
 
 span.pagenumber {
   font-size: larger
