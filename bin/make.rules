@@ -4,30 +4,29 @@
 
 #/usr/local/bin necessary for ht2html /bin/env to find python
 HT_SOURCES =	$(shell echo *.ht)
-TARGETS =	$(HT_SOURCES:%.ht=%.html) \
-                $(EXTRA_TARGETS)
+TARGETS =	$(HT_SOURCES:%.ht=%.html)
 
 SITE=           quotations.amk.ca
 SCRIPTDIR =	$(HOME)/files/www/sites/quotations.amk.ca/bin
 HT2HTML =	$(SCRIPTDIR)/$(SITE).py
 TEMPLATE =	$(SCRIPTDIR)/$(SITE).html
 
-HTFLAGS =	
+HTFLAGS =
 HTRELDIR =	.
 
 .SUFFIXES:	.ht .html
-.ht.html: 
+.ht.html:
 		$(HT2HTML) $(HTFLAGS) $(HTRELDIR)/$<
 		-tidy -quiet -latin1 -asxml -modify $@ -f /dev/null $@ 2>/dev/null
 
-all: $(TARGETS) 
+all: $(TARGETS)
 
 $(TARGETS): $(TEMPLATE)  $(HT2HTML)
 
 clean:
 	-rm -f *~
 
-recursive: 
+recursive:
 	cwd=`pwd` ; \
 	for makefile in `find . -name Makefile` ; do \
 		dir=`dirname $$makefile` ; \
