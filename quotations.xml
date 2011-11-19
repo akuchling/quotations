@@ -290,9 +290,10 @@ readable?
 <source><cite>The Elements of Programming Style</cite> </source>
 </quotation>
 
-<quotation><p>The great thing about human language is that it prevents us 
+<quotation date="1974"><p>The great thing about human language is that it prevents us 
 from sticking to the matter at hand.  
 </p><author>Lewis Thomas</author>
+<source>"Information", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
 <quotation date="1980"><p>
@@ -4508,6 +4509,19 @@ them.
 <source>In a comment from SENDMAIL Ruleset 3</source>
 </quotation>
 
+<quotation date="1974"><p>
+I find myself surprised by the thought that dying is an all-right
+thing to do, but perhaps it should not surprise.  It is, after
+all, the most ancient and fundamental of biologic functions, with
+its mechanisms worked out with the same attention to detail, the
+same provision for the advantage of the organism, the same
+abundance of genetic information for guidance through the stages,
+that we have long since become accustomed to finding in all the
+crucial acts of living.
+</p><author>Lewis Thomas</author>
+<source>"The Long Habit", in <cite>The Lives of a Cell</cite></source>
+</quotation>
+
 <quotation><p>I love religion. I could make up religions all day. I sort of think
 that in an ideal world I'd like to be a religion designer. I'd like
 people come up to me and say, "I need a religion." I'd go talk to them
@@ -7841,6 +7855,19 @@ ancient historians, something is almost always better than nothing.
 <source><cite>The Ghosts of Cannae</cite></source>
 </quotation>
 
+<quotation date="1974"><p>
+Let us assume that there is, indeed, sentient life in one or
+another part of remote space, and that we will be successful in
+getting in touch with it.  ... Perhaps we should wait a while,
+until we are sure we know what we want to know, before we get
+down to detailed questions.  After all, the main queston will be
+the opener: Hello, are you there? If the reply should turn out to
+be Yes, hello, we might want to stop there and think about that,
+for quite a long time.
+</p><author>Lewis Thomas</author>
+<source>"Ceti", in <cite>The Lives of a Cell</cite></source>
+</quotation>
+
 <!-- ENDQT
   New quotations are usually (but not always) added before this comment; I consider
   the quotations coming after it to be good final statements. (As you
@@ -8014,6 +8041,14 @@ visions and midnight glory.  Time in abundance.  For nothing ever
 begins.  And this story, having no beginning, will have no end.  
 </p><author>Clive Barker</author>
 <source><cite>Weaveworld</cite></source>
+</quotation>
+
+<quotation date="1974"><p>
+Everything that comes alive seems to be in trade for something that dies,
+cell for cell.  There might be some comfort in the recognition of synchrony,
+in the information that we all go down together, in the best of company.
+</p><author>Lewis Thomas</author>
+<source>"Death in the Open", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
 <quotation><p>My old cat is dead / Who would butt me with his head. / He had the
