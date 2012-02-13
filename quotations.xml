@@ -515,9 +515,11 @@ for not wiping the name of mankind off the slate.
 </p><author>John Simon</author>
 </quotation>
 
-<quotation><p>Problems worthy of attack / prove their worth by hitting 
+<quotation date="1969">
+<p>Problems worthy of attack / prove their worth by hitting 
 back.  
 </p><author>Piet Hein</author>
+  <source>"Problems", in <cite>Grooks 1</cite></source>
 </quotation>
 
 <quotation><p>Interestingly, according to modern astronomers, space is 
@@ -1427,6 +1429,7 @@ completely extinct.  His circle of correspondents was perhaps no
 larger but it was easily more bewildered than that of any other 
 American of his generation... 
 </p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+  <source>"The Letters of James Thurber"</source>
 </quotation>
 
 <quotation><p>In Einstein's theory of relativity the observer is a man who 
@@ -1665,11 +1668,12 @@ more difficult.
 </p><author>C.A.R. Hoare</author>
 </quotation>
 
-<quotation><p>One paramount truth / our society smothers / in petty 
+<quotation date="1969"><p>One paramount truth / our society smothers / in petty 
 concern / with position and pelf: / It isn't enough / to 
 exasperate others; / you've got to remember / to gladden 
 yourself.  
 </p><author>Piet Hein</author>
+  <source>"It Isn't Enough", in <cite>Grooks 2</cite></source>
 </quotation>
 
 <quotation><p>In order to solve this differential equation you look at it 
@@ -2644,9 +2648,10 @@ in everyday life.
 <source><cite>The Satyricon</cite> </source>
 </quotation>
 
-<quotation><p>The universe may / be as great as they say. / But it 
+<quotation date="1969"><p>The universe may / be as great as they say. / But it 
 wouldn't be missed / if it didn't exist.  
 </p><author>Piet Hein</author>
+  <source>"Nothing is Indispensable", in <cite>Grooks 2</cite></source>
 </quotation>
 
 <quotation><p>Some people imagine that nuclear war will mean instant and 
@@ -3186,9 +3191,10 @@ about more than the others.
 <source>"Ernest and the Machine God" </source>
 </quotation>
 
-<quotation><p>To make a name for learning / when other roads are barred, / 
+<quotation date="1969"><p>To make a name for learning / when other roads are barred, / 
 take something very easy / and make it very hard.  
 </p><author>Piet Hein</author>
+  <source>"Wide Road", in <cite>Grooks 2</cite></source>
 </quotation>
 
 <quotation><p>Things need not have happened to be true.  Tales and dreams 
@@ -5456,10 +5462,12 @@ bookkeeping.
 <source>On role-playing games, in <cite>The Straight Dope</cite> </source>
 </quotation>
 
-<quotation><p>Here lies, extinguished in his prime, / a victim of 
+<quotation date="1969">
+<p>Here lies, extinguished in his prime, / a victim of 
 modernity: / but yesterday he hadn't time--- / and now he has 
 eternity.  
 </p><author>Piet Hein</author>
+  <source>"More Haste: Inscription for a monument at the crossroads", in <cite>Grooks 1</cite></source>
 </quotation>
 
 <quotation><p>When you have once seen the glow of happiness on the face of 
@@ -7906,6 +7914,15 @@ art.
 Race, and Nature in the World of Modern Science</cite> by Donna
 Haraway, in <cite>International Journal ofPrimatology</cite> vol. 12
 no. 1.</source>
+</quotation>
+
+<quotation date="1969"><p>
+He that lets /
+the small things bind him /
+leaves the great /
+undone behind him.
+</p><author>Piet Hein</author>
+  <source>"Small Things and Great", in <cite>Grooks 2</cite></source>
 </quotation>
 
 <!-- ENDQT
