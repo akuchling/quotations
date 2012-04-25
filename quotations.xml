@@ -292,7 +292,7 @@ readable?
 
 <quotation date="1974"><p>The great thing about human language is that it prevents us 
 from sticking to the matter at hand.  
-</p><author>Lewis Thomas</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Lewis_Thomas">Lewis Thomas</author>
 <source>"Information", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
@@ -428,7 +428,7 @@ overwhelming.
 of every jack-in-office who may be obstructing the traffic.  By 
 all means, render unto Caesar that which is Caesar's -- but this 
 does not necessarily include everything that he says is his.
-</p><author>Denis Johnston</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Denis_Johnston">Denis Johnston</author>
 <source><cite>The Brazen Horn</cite> </source>
 </quotation>
 
@@ -493,7 +493,7 @@ is sickness of the profoundest kind to believe that there is one
 reality.  There is sickness in any piece of work or any piece of 
 art seriously attempting to suggest that the idea that there is 
 more than one reality is somehow redundant.  
-</p><author>Clive Barker</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Clive_Barker">Clive Barker</author>
 </quotation>
 
 <quotation><p>Consistency requires you to be as ignorant today as you were 
@@ -584,7 +584,7 @@ ferocious claims of domestic privacy will construct a city as dark and
 as ugly as London was.  And is.  Those people who wish to lead
 agreeable lives, and in constant intercourse with one another, will
 build a city as beautiful and as elegant as Paris.
-</p><author>Peter Ackroyd</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Peter_Ackroyd">Peter Ackroyd</author>
 <source><cite>Dickens</cite></source>
 </quotation>
 
@@ -877,7 +877,7 @@ terms with them until he had stood them on their heads.
 
 <quotation><p>What I look forward to is continued immaturity followed by 
 death.  
-</p><author>Dave Barry</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Barry">Dave Barry</author>
 </quotation>
 
 <quotation><p>I want to be young and wild, and then I want to be 
@@ -1072,7 +1072,7 @@ velvet glove of airy mathematics.
 
 <quotation><p>I could never sleep my way to the top / 'Cause my alarm clock 
 always wakes me right up.  
-</p><author>They Might Be Giants</author>
+</p><author rdf:resource="http://dbpedia.org/resource/They_Might_Be_Giants">They Might Be Giants</author>
 <source>"Hey, Mr DJ, I Thought You Said We Had a Deal"</source>
 </quotation>
 
@@ -1124,7 +1124,7 @@ the ceilings, under the floorboards and behind the walls, trying to
 find the mechanisms, the structures, and the truth.  I find that often
 leads you into some dark places.
 </p>
-<author>David Cronenberg</author>
+<author rdf:resource="http://dbpedia.org/resource/David_Cronenberg">David Cronenberg</author>
 <source>In a <cite>Globe &amp; Mail</cite> interview</source>
 </quotation>
 
@@ -1195,7 +1195,7 @@ few forms or into one; and that, whilst this planet has gone
 cycling on according to the fixed law of gravity, from so simple 
 a beginning endless forms most beautiful and most wonderful have 
 been, and are being evolved.  
-</p><author>Charles Darwin</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Darwin">Charles Darwin</author>
 <source><cite>The Origin of Species</cite></source>
 </quotation>
 
@@ -1214,7 +1214,7 @@ numbers.  They are our handiwork, yet they baffle us; we can
 fathom only a few of their intricacies.  Having defined their 
 attributes and prescribed their behaviour, we are hard pressed 
 to perceive the implications of our formulas.  
-</p><author>James R. Newman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/James_R._Newman">James R. Newman</author>
 </quotation>
 
 <quotation><p>And what is a good citizen?  Simply one who never says, does 
@@ -1242,7 +1242,7 @@ as a talisman against bad luck, if that is how we regard it.  Or
 is it, instead, a cynical reminder that Virtue usually gets 
 pilloried whenever it makes one of its occasional appearances in 
 this world?  
-</p><author>Denis Johnston</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Denis_Johnston">Denis Johnston</author>
 <source><cite>The Brazen Horn</cite> </source>
 </quotation>
 
@@ -1373,7 +1373,7 @@ named after him... But it is certainly analogous to cutting
 out the part of Ophelia.  This simile is singularly exact.  For 
 Ophelia is quite essential to the play, she is very charming -- and
 a little mad.  
-</p><author>Alfred North Whitehead</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
 </quotation>
 
 <quotation date="1963-06"><p>Whatever women do they must do twice as well as men to be 
@@ -1421,7 +1421,7 @@ enjoyment.
 before wiring a lamp or to study physics in order to repair a 
 pump.  We count on our fingers and give no heed to the 
 proliferating implications of the act.  
-</p><author>James R. Newman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/James_R._Newman">James R. Newman</author>
 </quotation>
 
 <quotation><p>[He]... was a letter writer of the type that is now 
@@ -1461,14 +1461,14 @@ world in jeopardy.
 
 <quotation><p>Paper has a genius for multiplication that cannot be 
 equalled anywhere else in nature.  
-</p><author>Hugh Keenleyside</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Hugh_Keenleyside">Hugh L. Keenleyside</author>
 </quotation>
 
 <quotation><p>The process of preparing programs for a digital computer is 
 especially attractive, not only because it can be economically 
 and scientifically rewarding, but also because it can be an 
 aesthetic experience much like composing poetry or music.  
-</p><author>Donald E. Knuth</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Donald Knuth">Donald E. Knuth</author>
 </quotation>
 
 <quotation><p>Sure there is music even in the beauty, and the silent note 
@@ -1532,7 +1532,7 @@ is determined to set a speed record getting there.
 <quotation date="2009"><p>
 This is an essential element of the business of being a man: to flood everyone around you in a great radiant arc of bullshit, one whose source and object of greatest intensity is yourself. To behave as if you have everything firmly under control even when you have just sailed your boat over the falls. "To keep your head," wrote Rudyard Kipling in his classic poem "If", which articulated the code of high-Victorian masculinity in whose fragmentary shadow American men still come of age, "when all about you are losing theirs"; but in reality, the trick of being a man is to give the appearance of keeping your head when, deep inside, the truest part of you is crying out, Oh, shit!
 </p>
-<author>Michael Chabon</author>
+<author rdf:resource="http://dbpedia.org/resource/Michael_Chabon">Michael Chabon</author>
 <source>From "Faking It", in <cite>Manhood for Amateurs</cite></source>
 </quotation>
 
@@ -1705,7 +1705,7 @@ flash is everything.
 
 <quotation><p>When this grey world crumbles like a cake / I'll be hanging 
 from the hope / That I'll never see that recipe again.  
-</p><author>They Might Be Giants</author>
+</p><author rdf:resource="http://dbpedia.org/resource/They_Might_Be_Giants">They Might Be Giants</author>
 <source>"It's Not My Birthday" </source>
 </quotation>
 
@@ -1921,7 +1921,7 @@ example -- which are not art; but the theoretical structures of
 Gauss, Einstein, or Maxwell are original, individual, "very 
 personal" responses and expressions of exactly the same kind as 
 the creative works of Beethoven or Dostoievski.  
-</p><author>James R. Newman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/James_R._Newman">James R. Newman</author>
 </quotation>
 
 <quotation date="1854"><p>The mass of men lead lives of quiet desperation.  
@@ -1933,7 +1933,7 @@ the creative works of Beethoven or Dostoievski.
 As a matter of fact, I personally
  would much rather hear Perotin than Mozart.
 </p>
-<author>Steve Reich</author>
+<author rdf:resource="http://dbpedia.org/resource/Steve_Reich">Steve Reich</author>
 <!-- From an interview at http://www.newmusicbox.org/archive/firstperson/reich/
 -->
 </quotation>
@@ -2227,7 +2227,7 @@ change places with the Persian King.
 <quotation date="1859"><p>Thus, from the war of nature, from famine and death, the 
 most exalted object which we are capable of conceiving, namely, 
 the production of the higher animals, directly follows.  
-</p><author>Charles Darwin</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Darwin">Charles Darwin</author>
 <source><cite>The Origin of Species</cite> </source>
 </quotation>
 
@@ -2321,7 +2321,7 @@ It is not only the living who are killed in war.
 <quotation><p>You will be able to appreciate the influence of such an 
 Engine on the future progress of science.  I live in a country 
 which is incapable of estimating it.  
-</p><author>Charles Babbage</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Babbage">Charles Babbage</author>
 </quotation>
 
 <quotation><p>I also believe that academic freedom should protect the 
@@ -2431,7 +2431,7 @@ unsaid and for deeds left undone.
 <quotation><p>The Law, in its majestic equality, forbids the rich, as well 
 as the poor, to sleep under the bridges, to beg in the streets, 
 and to steal bread.  
-</p><author>Anatole France</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Anatole_France">Anatole France</author>
 </quotation>
 
 <quotation><p>Real-world problems are often "high-dimensional", that is, 
@@ -2529,7 +2529,7 @@ management of this complex craft will demand our best use of new
 languages and systems, our best adaptation of proven engineering 
 management methods, liberal doses of common sense, and a 
 God-given humility to recognize our fallibility and limitations.  
-</p><author>Frederick P. Brooks, Jr.</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Fred_Brooks">Frederick P. Brooks, Jr.</author>
 <source><cite>The Mythical Man-Month</cite></source>
 </quotation>
 
@@ -2560,7 +2560,7 @@ together and those who die alone.  I'm in cars and boats and
 planes, in hospitals and forests and abattoirs.  For some folks 
 death is a release and for others death is an abomination, a 
 terrible thing.  But in the end, I'm there for all of them.  
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 <source><cite>Sandman</cite> #20: <cite>Fa&ccedil;ade</cite> </source>
 </quotation>
 
@@ -2605,7 +2605,7 @@ is a device which you use twice.
 
 <quotation><p>If the misery of the poor be caused not by the laws of 
 nature, but by our institutions, great is our sin.  
-</p><author>Charles Darwin</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Darwin">Charles Darwin</author>
 </quotation>
 
 <quotation><p>Those who will not reason / Perish in the act: / Those who 
@@ -2832,7 +2832,7 @@ half of them are even dumber than <em>that</em>.
 </quotation>
 
 <quotation><p>You're bound to be unhappy if you optimize everything.  
-</p><author>Donald E. Knuth</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Donald Knuth">Donald E. Knuth</author>
 <source>Said while answering questions after a lecture at Concordia University, Montreal </source>
 </quotation>
 
@@ -3083,7 +3083,7 @@ hearing it with <em>his</em> ears -- she understood it afresh; saw just
 how desperate it was to please, yet how dispossessed of 
 pleasure; how crude, even as it claimed sophistication; and, 
 despite its zeal to spellbind, how utterly unenchanting.  
-</p><author>Clive Barker</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Clive_Barker">Clive Barker</author>
 <source><cite>Weaveworld</cite> </source>
 </quotation>
 
@@ -3207,7 +3207,7 @@ take something very easy / and make it very hard.
 <quotation><p>Things need not have happened to be true.  Tales and dreams 
 are the shadow-truths that will endure when mere facts are dust 
 and ashes, and forgot.  
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 <source><cite>Sandman</cite> #19: <cite>A Midsummer Night's Dream</cite> </source>
 </quotation>
 
@@ -3240,7 +3240,7 @@ back.  The plot involves a mysterious painter...
 believe nothing and those who are ready to believe anything, it 
 is a tricky business to enter into a discussion of matters that 
 can be dismissed either as miracles or as lies.  
-</p><author>Denis Johnston</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Denis_Johnston">Denis Johnston</author>
 <source><cite>The Brazen Horn</cite> </source>
 </quotation>
 
@@ -3266,7 +3266,7 @@ Benjamin Franklin is dead, when in fact what you are thinking is
 that if this person ever ends up in a lifeboat, the other 
 passengers will hurl him overboard by the end of the first day 
 even if they have plenty of food and water.  
-</p><author>Dave Barry</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Barry">Dave Barry</author>
 <source>"Why Humor Is Funny"</source>
 </quotation>
 
@@ -3332,7 +3332,7 @@ the madness that governs it and makes it music.
 <quotation date="1922"><p>
 I have never managed to lose my old conviction that travel
 narrows the mind. 
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 <source>"What is America?", in <cite>What I Saw in America</cite></source>
 </quotation>
 
@@ -3348,7 +3348,7 @@ you assume everyone is endlessly stupid.
 truth.  The basis of growth of modern invention is science, and 
 science is almost wholly the outgrowth of pleasurable 
 intellectual curiosity.  
-</p><author>Alfred N. Whitehead</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
 </quotation>
 
 <quotation><p>I have yet to see any problem, however complicated, which, 
@@ -3532,7 +3532,7 @@ things can get pretty dirty.
 <quotation><p>Men do not invent Myths.  They only invent fables, and tell 
 lies.  True Myths create themselves, and find their expression 
 in the men who serve their purpose.  
-</p><author>Denis Johnston</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Denis_Johnston">Denis Johnston</author>
 <source><cite>The Brazen Horn</cite> </source>
 </quotation>
 
@@ -3555,7 +3555,7 @@ then we'll run the film."  Wouldn't that be extraordinary?  We'd
 watch this thing get bigger and bigger, and flower to become 
 extraordinary and beautiful, then watch it crumble, decay, and 
 rot.  
-</p><author>Clive Barker</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Clive_Barker">Clive Barker</author>
 </quotation>
 
 <quotation><p>A committee is a cul-de-sac down which ideas are lured and 
@@ -3990,7 +3990,7 @@ environment.
 
 <quotation><p>Errors using inadequate data are much less than those using 
 no data at all.  
-</p><author>Charles Babbage</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Babbage">Charles Babbage</author>
 </quotation>
 
 <quotation><p>Society is a republic.  When an individual endeavors to lift 
@@ -4331,7 +4331,7 @@ understand him, thus making him live again for the reader. But it is
 as if you were asking me if I like one of the characters in my novels
 -- you neither like nor dislike them. You have to bring them
 alive. That is all.
-</p><author>Peter Ackroyd</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Peter_Ackroyd">Peter Ackroyd</author>
 <source>When asked if he liked Sir Thomas More, subject of one of Ackroyd's
 biographies</source>
 </quotation>
@@ -4407,7 +4407,7 @@ irresponsible.
 that sex is the only luxury available to the ordinary man.  
 Whether the ordinary woman also considers it a luxury is open to 
 question.  
-</p><author>Hugh L. Keenleyside</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Hugh_Keenleyside">Hugh L. Keenleyside</author>
 </quotation>
 
 <quotation><p>"Why is <cite>The McGill Daily?</cite>" / Asked the pessimist sourly. / 
@@ -4474,7 +4474,7 @@ though poppies grow / In Flanders fields.
 and otherwise, are imaginary, excepting only certain of the 
 fairy folk, whom it might be unwise to offend by casting doubts 
 on their existence.  Or lack thereof.  
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 <source><cite>Books of Magic</cite> III </source>
 </quotation>
 
@@ -4531,7 +4531,7 @@ same provision for the advantage of the organism, the same
 abundance of genetic information for guidance through the stages,
 that we have long since become accustomed to finding in all the
 crucial acts of living.
-</p><author>Lewis Thomas</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Lewis_Thomas">Lewis Thomas</author>
 <source>"The Long Habit", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
@@ -4541,7 +4541,7 @@ people come up to me and say, "I need a religion." I'd go talk to them
 for awhile, and I'd design a religion for them. That would be a great
 job. There's a need for people like that. Fortunately, seeing that one
 can't actually do it, I get paid for sort of making them up anyway.
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 </quotation>
 
 <quotation><p>I look around and it's obvious to me: spreadsheet 
@@ -4755,7 +4755,7 @@ things in a certain squinty-eyed manner, which they learned in
 Wood Shop; eventually, when enough things in the home are 
 broken, they take a job requiring them to transfer to another 
 home.  
-</p><author>Dave Barry</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Barry">Dave Barry</author>
 <source>"Heat? No Sweat"</source>
 </quotation>
 
@@ -4788,12 +4788,12 @@ Nothing is fixed.  In and out the shuttle goes, fact and
 fiction, mind and matter, woven into patterns that may have only 
 this in common:  that hidden amongst them is a filigree which 
 will with time become a world.  
-</p><author>Clive Barker</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Clive_Barker">Clive Barker</author>
 <source><cite>Weaveworld</cite> </source>
 </quotation>
 
 <quotation><p>Seek simplicity, and distrust it.  
-</p><author>Alfred North Whitehead</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
 </quotation>
 
 <quotation><p>And who can doubt that it will lead to the worst disorders 
@@ -4820,7 +4820,7 @@ of wholly contradictory measurements.  As for psychology, its
 most brilliant and its most scandalous success has been in a 
 realm of theory in which measurement is as welcome as Macduff at 
 Dunsinane.  
-</p><author>James R. Newman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/James_R._Newman">James R. Newman</author>
 </quotation>
 
 <quotation><p>If man were immortal he could be perfectly sure of seeing 
@@ -4975,7 +4975,7 @@ eternity in an hour.
 
 <quotation><p>The world will never starve for wonders; but only for want 
 of wonder.  
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 </quotation>
 
 <quotation><p>The happiness of life is made up of minute fractions -- the 
@@ -5058,7 +5058,7 @@ travail they find themselves.
 
 <quotation date="1908"><p>An adventure is only an inconvenience rightly considered.  
 An inconvenience is an adventure wrongly considered.  
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 <source>"On Running
        After Ones Hat", in <cite>All Things Considered</cite></source>
 </quotation>
@@ -5115,7 +5115,7 @@ to console us.  But that's not the purpose of art.
 
 <quotation><p>Beware of bugs in the above code; I have only proved it 
 correct, not tried it.  
-</p><author>Donald E. Knuth</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Donald Knuth">Donald E. Knuth</author>
 </quotation>
 
 <quotation><p>In a manner which matches the fortuity, if not the 
@@ -5138,7 +5138,7 @@ are single chapters in the book which will only be completed at the
 time of my death. Then I hope the city itself will be seen as a
 metaphor for the nature of time and the presence of the past in human
 affairs.  
-</p><author>Peter Ackroyd</author> 
+</p><author rdf:resource="http://dbpedia.org/resource/Peter_Ackroyd">Peter Ackroyd</author> 
 <source>In an interview in October 1998</source>
 </quotation>
 
@@ -5154,7 +5154,7 @@ all, but had been in me.
 <quotation><p>Thus the metric system did not really catch on in the 
 States, unless you count the increasing popularity of the 
 nine-millimeter bullet.  
-</p><author>Dave Barry</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Barry">Dave Barry</author>
 </quotation>
 
 <quotation><p>I should be able to whisper something in your ear, even if your ear is
@@ -5349,7 +5349,7 @@ be corrected as follows: "Every moment dies a man / And one and
 a sixteenth is born."  I may add that the exact figures are 
 1.067, but something must, of course, be conceded to the laws of 
 metre.  
-</p><author>Charles Babbage</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Babbage">Charles Babbage</author>
 <source>In a letter to Alfred, Lord Tennyson</source>
 </quotation>
 
@@ -5494,7 +5494,7 @@ sacred.  When the
 average age of a grandmother in Philadelphia's housing projects 
 is twenty-five, to call childbirth a miracle is at least a 
 tasteless joke and at worst a true obscenity.  
-</p><author>Dave Sim </author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Sim">Dave Sim</author>
 <source>Cerebus #142</source>
 </quotation>
 
@@ -5503,7 +5503,7 @@ Well, yes I drove a cab in San Francisco, and in New York I worked
    as a part-time social worker. Phil Glass and I had a moving company
    for a short period of time. I did all kinds of odd jobs ...
 </p>
-<author>Steve Reich</author>
+<author rdf:resource="http://dbpedia.org/resource/Steve_Reich">Steve Reich</author>
 <!-- From an interview at http://www.newmusicbox.org/archive/firstperson/reich/
 -->
 </quotation>
@@ -5551,7 +5551,7 @@ Gods come, and gods go.  Mortals flicker and flash and fade.
 Worlds don't last; and stars and galaxies are transient, 
 fleeting things that twinkle like fireflies and vanish into cold 
 and dust.  But I can pretend.  
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 <source><cite>Sandman</cite> #48: <cite>Journey's End</cite> </source>
 </quotation>
 
@@ -5581,7 +5581,7 @@ that atomic testing.  They wear dark, natural-fiber, businesslike
 clothing even when nobody they know has died.  In college, they major in
 Business Administration.  If, to meet certain academic requirements, they
 have to take a liberal-arts course, they take Business Poetry.
-</p><author>Dave Barry</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Dave_Barry">Dave Barry</author>
 <source>"Yup The Establishment"</source>
 </quotation>
 
@@ -5669,7 +5669,7 @@ exertion of the imagination.  Few media of creation are so flexible, so
 easy to polish and rework, so readily capable of realizing grand
 conceptual structures.  (As we shall see later, this very tractability
 has its own problems.)
-</p><author>Frederick P. Brooks, Jr.</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Fred_Brooks">Frederick P. Brooks, Jr.</author>
 <source><cite>The Mythical Man-Month</cite></source>
 </quotation>
 
@@ -5709,7 +5709,7 @@ projects, those software systems that have excited passionate fans are those
 that are the products of one or a few designing minds, great designers.
 Consider Unix, APL, Pascal, Modula, the Smalltalk interface, even Fortran;
 and contrast them with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
-</p><author>Frederick P. Brooks, Jr.</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Fred_Brooks">Frederick P. Brooks, Jr.</author>
 </quotation>
 
 <quotation><p>
@@ -5721,7 +5721,7 @@ themselves, and incline them to consider seriously what they are
 about.  One Day would rectifie the Omissions of another, and make a
 Man weigh all those indifferent Actions, which, though they are
 easily forgotten, must certainly be accounted for.
-  </p><author>Joseph Addison</author>
+  </p><author rdf:resource="http://dbpedia.org/resource/Joseph_Addison">Joseph Addison</author>
   <source>In the Spectator for March 4, 1712</source>
 </quotation>
 
@@ -5860,7 +5860,7 @@ a chance.
 </quotation>
 
 <quotation><p>Angels can fly because they take themselves lightly.
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 </quotation>
 
 <quotation><p>Athens built the Acropolis.  Corinth was a commercial city, interested
@@ -5874,7 +5874,7 @@ that
 commercial system in which supply immediately answers to demand, and
 in which everybody seems to be thoroughly dissatisfied and unable to
 get anything he wants.
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 <source>In "How to Write a Detective Story"</source>
 </quotation>
 
@@ -6038,7 +6038,7 @@ nose, I know there is absolutely nothing extraordinary about that person.
 <quotation><p>Einstein argued that there must be simplified explanations of nature,
 because God is not capricious or arbitrary.  No such faith comforts the
 software engineer.
-</p><author>Frederick P. Brooks, Jr.</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Fred_Brooks">Frederick P. Brooks, Jr.</author>
 <source>"No Silver Bullet", <cite>IEEE Computer</cite>, April 1987</source>
 </quotation>
 
@@ -6047,7 +6047,8 @@ write portable code that I believe would work on lots of different
 systems, unless I avoid all exotic features.  Whenever the C++
 language designers had two competing ideas as to how
  they should solve some problem, they said "OK, we'll do them both".
-So the language is too baroque for my taste.  </p><author>Donald E. Knuth</author>
+So the language is too baroque for my taste.  
+</p><author rdf:resource="http://dbpedia.org/resource/Donald Knuth">Donald E. Knuth</author>
 <source>In a Computer Literacy Bookshops interview. </source>
 </quotation>
 
@@ -6133,7 +6134,7 @@ that?" And I said, "Well, you're the careers advisor, I thought you
 were gonna tell me." And there was another really, really, really long
 pause, and then he looked at me rather desperately and said, "Have you
 ever thought about accountancy?"  
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
 <source>In a radio interview, on 
 "To The Best Of Our Knowledge", broadcast May 31, 1995.
 </source>
@@ -6339,7 +6340,7 @@ from his, they are none the less legitimate.
 
 <quotation><p>Persichetti could do
 everything and do it well, but you didn't really care.
-</p><author>Steve Reich</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Steve_Reich">Steve Reich</author>
 <source>On his former composition teacher Vincent Persichetti</source>
 </quotation>
 
@@ -6447,7 +6448,7 @@ their condition is universal, is shared.  You bring your little story
 to the workshop, and sometimes it works and sometimes it doesn't; and
 then you're gone, and it's time for somebody else to have the floor.
 </p>
-<author>Michael Chabon</author>
+<author rdf:resource="http://dbpedia.org/resource/Michael_Chabon">Michael Chabon</author>
 <source>From "Cosmodemonic", in <cite>Manhood for Amateurs</cite></source>
 </quotation>
 
@@ -6462,7 +6463,7 @@ feet, you would knock against them with your head and arms, but if you
 tried to grasp them they would melt away.  Philip did not dare turn
 his back upon these books.  Not yet.  It was almost, he thought, as if
 they had been speaking to each other while he slept.
-</p><author>Peter Ackroyd</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Peter_Ackroyd">Peter Ackroyd</author>
 <source><cite>Chatterton</cite></source>
 </quotation>
 
@@ -6709,7 +6710,7 @@ out in such Transactions as make no Figure in the World, than in such
 as are apt to draw upon them the Attention of Mankind.  One may become
 wiser and better by several Methods of Employing one's self in Secrecy
 and Silence, and do what is laudable without Noise or Ostentation.
-  </p><author>Joseph Addison</author>
+  </p><author rdf:resource="http://dbpedia.org/resource/Joseph_Addison">Joseph Addison</author>
   <source>In the Spectator for March 4, 1712</source>
 </quotation>
 
@@ -7015,8 +7016,8 @@ take no note of time but by its benefits, to watch only for the smiles
 and neglect the frowns of fate, to compose our lives of bright and
 gentle moments, turning always to the sunny side of things, and
 letting the rest slip for our imaginations, unheeded or forgotten!
-How different from the common art of self-tormenting!  </p><author>William
-Hazlitt</author> <source><cite>On a Sun-Dial</cite>
+How different from the common art of self-tormenting!
+</p><author>William Hazlitt</author> <source><cite>On a Sun-Dial</cite>
   </source>
 </quotation>
 
@@ -7061,7 +7062,7 @@ Things that remain of us, who then are nothing.
 A money lender.  He serves you in the present tense; he lends you in
 the conditional mood; keeps you in the subjunctive; and ruins you in
 the future. 
-</p>  <author>Joseph Addison</author>
+</p>  <author rdf:resource="http://dbpedia.org/resource/Joseph_Addison">Joseph Addison</author>
 </quotation>
 
 <quotation date="1954"><p>
@@ -7275,7 +7276,7 @@ by Alan Moore with getting the 90's started four years early.
    for the one that seems interesting because, even if it all falls
    apart, you've got something interesting out of it. Whereas, the other
    way, you normally wind up getting absolutely nothing out of it.
-</p><author>Neil Gaiman</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman">Neil Gaiman</author>
   <source>In an interview in January Magazine</source>
 </quotation>
 
@@ -7447,7 +7448,7 @@ mythologies
 and sorrows they engender, make passionate amateurs -- nerds, geeks,
 and fanboys -- of us all.
 </p>
-<author>Michael Chabon</author>
+<author rdf:resource="http://dbpedia.org/resource/Michael_Chabon">Michael Chabon</author>
 <source>From "The Amateur Family", in <cite>Manhood for Amateurs</cite></source>
 </quotation>
 
@@ -7548,7 +7549,7 @@ by an arbitrary system of grunts and squeals.    He believes that an
 ordinary civilized stockbroker can really produce out of his own
 inside noises which denote all the mysteries of memory and all the
 agonies of desire.
-</p><author>G.K. Chesterton</author>
+</p><author rdf:resource="http://dbpedia.org/resource/G._K._Chesterton">G.K. Chesterton</author>
 <source>In "Watts' Allegorical Paintings"</source>
 </quotation>
 
@@ -7681,7 +7682,7 @@ politics, and culture seek to make us avoid our existential reality.
 And I insist on it. ...  I'm not looking to transcend the body, but to
 delve into it.  Profoundly.
 </p>
-<author>David Cronenberg</author>
+<author rdf:resource="http://dbpedia.org/resource/David_Cronenberg">David Cronenberg</author>
 <source>In a <cite>Globe &amp; Mail</cite> interview</source>
 </quotation>
 
@@ -7765,7 +7766,7 @@ Our technological civilization will not last on this planet. Our
 existence is, clearly, not sustainable. We're going to be the next
 ones to become extinct. And that's okay. Let's enjoy each other
 while we can; make friends; go to the movies.</p>
-<author>Werner Herzog</author>
+<author rdf:resource="http://dbpedia.org/resource/Werner_Herzog">Werner Herzog</author>
 <source>In an interview during Ebertfest 2007
 <!-- http://blogs.suntimes.com/scanners/2007/05/a_fans_notes.html -->
 </source>
@@ -7822,7 +7823,7 @@ feel alive, helped his mind sing, was the one thing that blotted out
 his cares.  Although he called himself "a kind of machine for 
 grinding out general laws out of a large collection of facts," the truth
 was he only felt himself when immersed in some demanding new project.
-</p><author>Charles Darwin</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Charles_Darwin">Charles Darwin</author>
 <source>Quoted in
 <cite>Charles Darwin: The Power of Place</cite> (2002), Janet Browne.
 </source>
@@ -7879,7 +7880,7 @@ down to detailed questions.  After all, the main queston will be
 the opener: Hello, are you there? If the reply should turn out to
 be Yes, hello, we might want to stop there and think about that,
 for quite a long time.
-</p><author>Lewis Thomas</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Lewis_Thomas">Lewis Thomas</author>
 <source>"Ceti", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
@@ -7968,7 +7969,7 @@ To me, the life that we live is heaven.  My idea of paradise is life
 on Earth.  But we often don't know it, and can't see it that way,
 until, I'm sure, we start to leave it.
 </p>
-<author>David Cronenberg</author>
+<author rdf:resource="http://dbpedia.org/resource/David_Cronenberg">David Cronenberg</author>
 <source>In a <cite>Globe &amp; Mail</cite> interview</source>
 </quotation>
 
@@ -8103,7 +8104,7 @@ rapture.  There was time for all their miracles now.  For ghosts
 and transformations; for passion and ambiguity; for noon-day 
 visions and midnight glory.  Time in abundance.  For nothing ever 
 begins.  And this story, having no beginning, will have no end.  
-</p><author>Clive Barker</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Clive_Barker">Clive Barker</author>
 <source><cite>Weaveworld</cite></source>
 </quotation>
 
@@ -8111,7 +8112,7 @@ begins.  And this story, having no beginning, will have no end.
 Everything that comes alive seems to be in trade for something that dies,
 cell for cell.  There might be some comfort in the recognition of synchrony,
 in the information that we all go down together, in the best of company.
-</p><author>Lewis Thomas</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Lewis_Thomas">Lewis Thomas</author>
 <source>"Death in the Open", in <cite>The Lives of a Cell</cite></source>
 </quotation>
 
