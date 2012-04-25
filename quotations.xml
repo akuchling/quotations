@@ -1428,8 +1428,9 @@ proliferating implications of the act.
 completely extinct.  His circle of correspondents was perhaps no 
 larger but it was easily more bewildered than that of any other 
 American of his generation... 
-</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
-  <source>"The Letters of James Thurber"</source>
+</p><author rdf:resource="http://dbpedia.org/resource/James_Thurber">James Thurber</author>
+  <source>From "The Letters of James Thurber", an introduction to 
+      <cite>The Selected Letters of James Thurber</cite></source>
 </quotation>
 
 <quotation><p>In Einstein's theory of relativity the observer is a man who 
@@ -1962,13 +1963,15 @@ back into the cave.
 </p><author>Hans Bethe</author>
 </quotation>
 
-<quotation><p>I loathe the expression "What makes him tick."  It is the 
+<quotation date="1959-06-24"><p>I loathe the expression "What makes him tick."  It is the 
 American mind, looking for simple and singular solution, that 
 uses the foolish expression.  A person not only ticks, he also 
 chimes and strikes the hour, falls and breaks and has to be put 
 together again, and sometimes stops like an electric clock in a 
 thunderstorm.  
 </p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
+  <source>From a letter to Frances Glennon, 
+    in <cite>The Selected Letters of James Thurber</cite></source>
 </quotation>
 
 <quotation><p>About the only people who don't quarrel over religion are 
@@ -2032,13 +2035,15 @@ once they have taken place.
 </p><author>Claude T. Bissell</author>
 </quotation>
 
-<quotation><p>The past is an old armchair in the attic, the present an 
+<quotation date="1961-07-05"><p>The past is an old armchair in the attic, the present an 
 ominous ticking sound, and the future anybody's guess.  It was 
 fun back there with the Rover Boys, the Little Colonel, 
 Pollyanna, and Peg-o'-my-Heart, but we don't want to be caught 
 in the past while the Russians are shaking hands with the 
 Martians.  Let us then be up and doing.  
 </p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
+  <source>From a letter to Marianna Brown, 
+    in <cite>The Selected Letters of James Thurber</cite></source>
 </quotation>
 
 <quotation><p>Before a war military science seems a real science, like 
@@ -2850,10 +2855,12 @@ Underachiever -- and proud of it, man!</p>
   <source><cite>The Simpsons</cite></source>
 </quotation>
 
-<quotation><p>"You are all a lost generation," Gertrude Stein said to 
+<quotation date="1959-06-24"><p>"You are all a lost generation," Gertrude Stein said to 
 Hemingway.  We weren't lost.  We knew where we were, all right, 
 but we wouldn't go home.  
 </p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
+  <source>From a letter to Frances Glennon, 
+    in <cite>The Selected Letters of James Thurber</cite></source>
 </quotation>
 
 <quotation><p>Men and governments must act to the best of their ability.  
