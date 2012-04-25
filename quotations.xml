@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <!-- New entry template
 <quotation date=""><p>
@@ -62,7 +62,7 @@ And so it begins.
 <quotation><p>The story so far: In the beginning the Universe was created.  
 This has made a lot of people very angry and has been widely 
 regarded as a bad move.  
-</p><author rdf:resource="http://historical-id.info/person/3416">Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Restaurant at the End of the Universe</cite> </source>
 </quotation>
 
@@ -83,24 +83,24 @@ small things, and perfection is no trifle.
 
 <quotation><p>Try to learn something about everything and everything about 
 something.  
-</p><author rdf:resource="http://historical-id.info/person/3819">T.H. Huxley</author>
+</p><author rdf:resource="http://historical-id.info/person/Thomas_Huxley">T.H. Huxley</author>
 </quotation>
 
 <quotation date="1958"><p>In reality, though, the first thing to ask of history is 
 that it should point out to us the paths of liberty.  The great 
 lesson to draw from revolutions is not that they devour humanity 
 but rather that tyranny never fails to generate them.  
-</p><author rdf:resource="http://historical-id.info/person/16">Pierre Elliott Trudeau</author>
+</p><author rdf:resource="http://historical-id.info/person/Pierre_Trudeau">Pierre Elliott Trudeau</author>
 <source>"When the People Are in Power"</source>
 </quotation>
 
 <quotation><p>He who wonders discovers that this in itself is wonder.  
-</p><author rdf:resource="http://historical-id.info/person/2963">M.C. Escher</author>
+</p><author rdf:resource="http://historical-id.info/person/M._C._Escher">M.C. Escher</author>
 </quotation>
 
 <quotation date="1926"><p>The most merciful thing in the world... is the inability 
 of the human mind to correlate all its contents.  
-</p><author rdf:resource="http://historical-id.info/person/3915">H.P. Lovecraft</author>
+</p><author rdf:resource="http://historical-id.info/person/H._P._Lovecraft">H.P. Lovecraft</author>
     <source>"The Call of Cthulhu"</source>
 </quotation>
 
@@ -172,7 +172,7 @@ trouble doing it.
 <quotation><p>It is easy -- terribly easy -- to shake a man's faith in 
 himself.  To take advantage of that to break a man's spirit is 
 devil's work.  Take care of what you are doing.  Take care.  
-</p><author rdf:resource="http://historical-id.info/person/4120">George Bernard Shaw</author>
+</p><author rdf:resource="http://historical-id.info/person/George_Bernard_Shaw">George Bernard Shaw</author>
 <source><cite>Candida</cite> </source>
 </quotation>
 
@@ -235,7 +235,7 @@ myself invisible, which may take me almost until eleven o'clock.
 <quotation><p>The opposite of a correct statement is a false statement.  
 But the opposite of a profound truth may well be another 
 profound truth.  
-</p><author rdf:resource="http://historical-id.info/person/1911">Niels Bohr</author>
+</p><author rdf:resource="http://historical-id.info/person/Niels_Bohr">Niels Bohr</author>
 </quotation>
 
 <quotation><p>Many people, other than the authors, contribute to the 
@@ -255,7 +255,7 @@ least, not with certainty.  If the specimen composition you
 send is about your fair usual average, I should judge that a 
 couple of whales would be all you would want for the present.  
 Not the largest kind, but simply good middling-sized whales.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>We all live to a formula.  Maybe the secret lies in keeping 
@@ -385,7 +385,7 @@ comprehend our fellow beings.
 
 <quotation><p>We are all in the gutter, but some of us are looking at the 
 stars.  
-</p><author rdf:resource="http://historical-id.info/person/4230">Oscar Wilde</author>
+</p><author rdf:resource="http://historical-id.info/person/Oscar_Wilde">Oscar Wilde</author>
 </quotation>
 
 <quotation><p>Ye poor posterity, think not that ye are the first.  
@@ -395,14 +395,14 @@ yet not so great; for the pyramids my people built stand to this
 day; whilst the dustheaps on which ye slave, and which ye call 
 empires, scatter in the wind even as ye pile your dead sons' 
 bodies on them to make yet more dust.  
-</p><author rdf:resource="http://historical-id.info/person/4120">George Bernard Shaw</author>
+</p><author rdf:resource="http://historical-id.info/person/George_Bernard_Shaw">George Bernard Shaw</author>
 <source><cite>Caesar and Cleopatra</cite> </source>
 </quotation>
 
 <quotation><p>My work always tried to unite the true with the beautiful; 
 but when I had to choose one or the other, I usually chose the 
 beautiful.  
-</p><author rdf:resource="http://historical-id.info/person/2416">Hermann Weyl</author>
+</p><author rdf:resource="http://historical-id.info/person/Hermann_Weyl">Hermann Weyl</author>
 </quotation>
 
 <quotation date="1967"><p>"There is no disputing about tastes," says the old saw.  In 
@@ -415,7 +415,7 @@ my experience there is little else.
 important knowledge, I do believe that she is invariably 
 superficial.  The depth lies in the valleys where we seek her, 
 and not upon the mountain-tops where she is found.  
-</p><author rdf:resource="http://historical-id.info/person/4041">Edgar Allan Poe</author>
+</p><author rdf:resource="http://historical-id.info/person/Edgar_Allan_Poe">Edgar Allan Poe</author>
 <source>"The Murders in the Rue Morgue"</source>
 </quotation>
 
@@ -482,7 +482,7 @@ prevailing standard of nonconformity.
 </quotation>
 
 <quotation><p>A conservative is a man who sits and thinks, mostly sits.  
-</p><author rdf:resource="http://historical-id.info/person/48">Woodrow Wilson</author>
+</p><author rdf:resource="http://historical-id.info/person/Woodrow_Wilson">Woodrow Wilson</author>
 </quotation>
 
 <quotation><p>It is great good health to believe, as the Hindus do, that 
@@ -675,7 +675,7 @@ gift of harmony.
 Let me be the first to admit that the naked truth about me is to the
 naked truth about Salvador Dali as an old ukulele in the attic is to a
 piano in a tree, and I mean a piano with breasts.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"The Secret Life of James Thurber", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -819,7 +819,7 @@ still carries any reward.
 <quotation><p>A sympathetic Scot summed it all up very neatly in the 
 remark, "You should make a point of trying every experience 
 once, excepting incest and folk dancing."  
-</p><author rdf:resource="http://historical-id.info/person/902">Sir Arnold Bax</author>
+</p><author rdf:resource="http://historical-id.info/person/Arnold_Bax">Sir Arnold Bax</author>
 </quotation>
 
 <quotation><p>Any impatient student of mathematics or science or 
@@ -935,7 +935,7 @@ Lewis</author>
 As Palamides hunted the Questing Beast, she hunted the Figure of
 Speech.  She hunted it through the clangorous halls of Shakespeare and
 through the green forests of Scott.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"Here Lies Miss Groby", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -1021,13 +1021,13 @@ socialists.
 <quotation><p>It is a capital mistake to theorize before one has data.  
 Insensibly one begins to twist facts to suit theories, instead 
 of theories to suit facts.  
-</p><author rdf:resource="http://historical-id.info/person/3662">Sir Arthur Conan Doyle</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle">Sir Arthur Conan Doyle</author>
 </quotation>
 
 <quotation><p>By undue profundity we perplex and enfeeble thought; and it 
 is possible to make even Venus herself vanish from the firmament 
 by a scrutiny too sustained, too concentrated, or too direct. 
-</p><author rdf:resource="http://historical-id.info/person/4041">Edgar Allan Poe</author>
+</p><author rdf:resource="http://historical-id.info/person/Edgar_Allan_Poe">Edgar Allan Poe</author>
 <source>"The Murders in the Rue Morgue" </source>
 </quotation>
 
@@ -1428,7 +1428,7 @@ proliferating implications of the act.
 completely extinct.  His circle of correspondents was perhaps no 
 larger but it was easily more bewildered than that of any other 
 American of his generation... 
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
   <source>"The Letters of James Thurber"</source>
 </quotation>
 
@@ -1502,7 +1502,7 @@ developing taste were sensitivity and intelligence.  I don't
 think this is so; I'd rather call them curiosity and courage.  
 Curiosity to look for the new and the hidden; courage to develop 
 your own tastes regardless of what others might say or think.  
-</p><author>R. Murray Schafer</author>
+</p><author rdf:resource="http://historical-id.info/person/Murray_Schafer">R. Murray Schafer</author>
 <source><cite>The Composer in the Classroom</cite></source>
 </quotation>
 
@@ -1782,7 +1782,7 @@ fallen, risen and fallen, risen and fallen so often that it's
 quite tempting to think that life in the Galaxy must be  (a) 
 something akin to seasick -- space-sick, time sick, history sick 
 or some such thing, and  (b) stupid.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>Life, the Universe and Everything</cite> </source>
 </quotation>
 
@@ -1968,7 +1968,7 @@ uses the foolish expression.  A person not only ticks, he also
 chimes and strikes the hour, falls and breaks and has to be put 
 together again, and sometimes stops like an electric clock in a 
 thunderstorm.  
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 </quotation>
 
 <quotation><p>About the only people who don't quarrel over religion are 
@@ -2038,7 +2038,7 @@ fun back there with the Rover Boys, the Little Colonel,
 Pollyanna, and Peg-o'-my-Heart, but we don't want to be caught 
 in the past while the Russians are shaking hands with the 
 Martians.  Let us then be up and doing.  
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 </quotation>
 
 <quotation><p>Before a war military science seems a real science, like 
@@ -2328,7 +2328,7 @@ distasteful to the majority, provided...
 
 <quotation><p>You can not apply mathematics as long as words still becloud 
 reality.  
-</p><author>Hermann Weyl</author>
+</p><author rdf:resource="http://historical-id.info/person/Hermann_Weyl">Hermann Weyl</author>
 </quotation>
 
 <quotation><p>Ambition has but one reward for all: / A little power, a 
@@ -2439,7 +2439,7 @@ such high-dimensional spaces.
 
 <quotation><p>God made the Idiot for practice, and then He made the School 
 Board.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>The warning message we sent the Russians was a calculated 
@@ -2490,7 +2490,7 @@ things that surround us.
 the world; and its efficiency is only marred by the difficulty 
 of finding twelve men every day who don't know anything and 
 can't read.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>Any member introducing a dog into the Society's premises 
@@ -2729,7 +2729,7 @@ concern.  A mathematical equation stands forever.
 barriers to communication between different races and cultures, 
 has caused more and bloodier wars than anything else in the 
 history of creation.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Hitch-Hiker's Guide to the Galaxy</cite>  </source>
 </quotation>
 
@@ -2853,7 +2853,7 @@ Underachiever -- and proud of it, man!</p>
 <quotation><p>"You are all a lost generation," Gertrude Stein said to 
 Hemingway.  We weren't lost.  We knew where we were, all right, 
 but we wouldn't go home.  
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 </quotation>
 
 <quotation><p>Men and governments must act to the best of their ability.  
@@ -2936,7 +2936,7 @@ forego their use.
 </quotation>
 
 <quotation><p>Prediction is very difficult, especially of the future.  
-</p><author rdf:resource="http://historical-id.info/person/1911">Niels Bohr</author>
+</p><author rdf:resource="http://historical-id.info/person/Niels_Bohr">Niels Bohr</author>
 </quotation>
 
 <quotation><p>If a man be gracious and courteous to strangers, it shows he 
@@ -2951,7 +2951,7 @@ laws of Nature.  The player on the other side is hidden from us.
 We know that his play is always fair, just, and patient.  But 
 also we know, to our cost, that he never overlooks a mistake, or 
 makes the smallest allowance for ignorance.  
-</p><author>T.H. Huxley</author>
+</p><author rdf:resource="http://historical-id.info/person/Thomas_Huxley">T.H. Huxley</author>
 </quotation>
 
 <quotation><p>With stupidity the gods themselves contend in vain.  
@@ -2974,7 +2974,7 @@ been forgotten.
 those three unspeakably precious things: freedom of speech, 
 freedom of conscience, and the prudence never to practise either 
 of them.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>Physics is, hopefully, simple.  Physicists are not.  
@@ -3049,7 +3049,7 @@ successfully secured our feet on the ground is a good companion.
 
 <quotation><p>Early to rise and early to bed makes a male healthy and 
 wealthy and dead.  
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 </quotation>
 
 <quotation><p>I once asked a Christmas Eve group of children if they 
@@ -3367,7 +3367,7 @@ thing to do.
 
 <quotation><p>A sincere compliment is always grateful to a lady, so long 
 as you don't try to knock her down with it.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>When <em>I</em> come upon anything -- in Logic or in any other hard 
@@ -3456,7 +3456,7 @@ fetches each and every one of them soon or late.
 
 <quotation><p>Here you come again with your arithmetical conundrums, when 
 I am suffering death with a cold in the head.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>Considered in its entirety, psychoanalysis won't do.  It is 
@@ -3481,7 +3481,7 @@ bizarre and inexplicable.
 </p><p>
 There is another which states that this has already 
 happened.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Restaurant at the End of the Universe</cite> </source>
 </quotation>
 
@@ -3535,7 +3535,7 @@ truth.
 </p><p>
 Lady Cicely: What nonsense!  As if anybody ever knew the 
 whole truth about anything! 
-</p><author rdf:resource="http://historical-id.info/person/4120">George Bernard Shaw</author>
+</p><author rdf:resource="http://historical-id.info/person/George_Bernard_Shaw">George Bernard Shaw</author>
 <source><cite>Captain Brassbound's Conversion</cite> </source>
 </quotation>
 
@@ -3686,7 +3686,7 @@ roll back.
 <quotation><p>He felt that his whole life was some kind of dream and he 
 sometimes wondered whose it was and whether they were enjoying 
 it.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Hitch-Hiker's Guide to the Galaxy</cite> </source>
 </quotation>
 
@@ -3716,7 +3716,7 @@ really good patterns that you could put on a t-shirt.
 Barney turned his little squinty blue eyes on me.  "We go to the
 garrick now and become warbs," he said.  "The hell we do!" I thought
 to myself quickly.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"The Black Magic of Barney Haller", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -3779,7 +3779,7 @@ mad.
 
 <quotation><p>They who dream by day are cognizant of many things which 
 escape those who dream only by night.  
-</p><author rdf:resource="http://historical-id.info/person/4041">Edgar Allan Poe</author>
+</p><author rdf:resource="http://historical-id.info/person/Edgar_Allan_Poe">Edgar Allan Poe</author>
 <source>"Eleonora" </source>
 </quotation>
 
@@ -3822,12 +3822,12 @@ longer dispute about whether it is flat.
 chances of finding out what really is going on are so absurdly 
 remote that the only thing to do is to say hang the sense of it 
 and just keep yourself occupied.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Hitch-Hiker's Guide to the Galaxy</cite> </source>
 </quotation>
 
 <quotation><p>I can speak French but I cannot understand it.  
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>The skeptic may be pardoned for thinking that hypertext 
@@ -4200,7 +4200,7 @@ all the elaborate frivolity of chess.  In this latter, where the
 pieces have different and <em>bizarre</em> motions, with various and 
 variable values, what is only complex, is mistaken (a not 
 unusual error) for what is profound.  
-</p><author rdf:resource="http://historical-id.info/person/4041">Edgar Allan Poe</author>
+</p><author rdf:resource="http://historical-id.info/person/Edgar_Allan_Poe">Edgar Allan Poe</author>
 <source>"The Murders in the Rue Morgue"</source>
 </quotation>
 
@@ -4428,7 +4428,7 @@ impression on me.  I would not shout, "Good god almighty, the birds
 are in charge!"  But you could send an owl into my room, dressed only
 in the feathers it was born with, and no monkey business, and I would
 pull the covers over my head and scream.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"There's An Owl in My Room", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -4479,7 +4479,7 @@ so on -- whilst all the dolphins had ever done was muck about in
 the water having a good time.  But conversely, the dolphins had 
 always believed that they were far more intelligent than man -- for
 precisely the same reasons.  
-</p><author>Douglas Adams</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams</author>
 <source><cite>The Hitch-Hiker's Guide to the Galaxy</cite> </source>
 </quotation>
 
@@ -5289,7 +5289,7 @@ President of the United States.  I suppose that even the most
 pleasurable of imaginable occupations, that of batting baseballs
 through the windows of the RCA Building, would pall a little as the
 days ran on.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"Memoirs of a Drudge", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -5668,7 +5668,7 @@ has its own problems.)
 
 <quotation date="1962"><p>I do not have a psychiatrist and I do not want one, for the simple reason
 that if he listened to me long enough, he might become disturbed.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"Carpe Noctem, If You Can", in <cite>Credos and Curios</cite></source>
 </quotation>
 
@@ -6343,7 +6343,7 @@ everything and do it well, but you didn't really care.
 <quotation><p>Keep away from people who try to belittle your ambitions. Small
 people always do that, but the really great make you feel that
 you, too, can become great. 
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 </quotation>
 
 <quotation><p>There are books in which the footnotes, or the comments scrawled by
@@ -6535,7 +6535,7 @@ at first hand and be directed toward solid reality by the force of
 conversation and spoken debate, then he must sharpen his
 discrimination and regulate his perceptive balance by an equivalent
 exchange of ideas in epistolary form.
-</p><author rdf:resource="http://historical-id.info/person/3915">H.P. Lovecraft</author>
+</p><author rdf:resource="http://historical-id.info/person/H._P._Lovecraft">H.P. Lovecraft</author>
 <source>In a letter to Frank Belknap Long, 3 Nov 1930</source>
 </quotation>
 
@@ -6569,7 +6569,7 @@ incapable of staving off chaos.
  armies of witches, and washed the Christian world clean with their foul
  blood.  Then it was discovered that there was no such thing as witches,
  and never had been.  One does not know whether to laugh or to cry.
-</p><author rdf:resource="http://historical-id.info/person/4193">Mark Twain</author>
+</p><author rdf:resource="http://historical-id.info/person/Mark_Twain">Mark Twain</author>
 <source><cite>Europe and Elsewhere</cite></source>
 </quotation>
 
@@ -6634,7 +6634,7 @@ me.  "It's an old zither our guinea pig used to sleep on," I said.  It
 was true that a guinea pig we once had would never sleep anywhere
 except on the zither, but I should never have said so.  Joe and the
 other cop looked at me a long time.  They put the zither back on the shelf.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"The Night the Ghost Got In", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -6722,7 +6722,7 @@ To call such persons "humorists", a loose-fitting and ugly word, is to
 miss the nature of their dilemma and the dilemma of their nature.  The
 little wheels of their invention are set in motion by the damp hand
 of melancholy.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"Preface to A Life", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -6779,7 +6779,7 @@ such things, it is not difficult to visualize grotches.  They
 fluttered into my mind: ugly little creatures, about the size of
 whippoorwills, only covered  with blood and honey and the scrapings of
 church bells.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"The Black Magic of Barney Haller", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -6901,7 +6901,7 @@ setting sun.
 
 <quotation><p>
 It makes for happiness to be what you can, when you cannot be what you would.
-</p><author rdf:resource="http://historical-id.info/person/1949">Girolamo Cardano</author>
+</p><author rdf:resource="http://historical-id.info/person/Girolamo_Cardano">Girolamo Cardano</author>
 </quotation>
 
 <quotation date="1994"><p>
@@ -6982,7 +6982,7 @@ pass for a wit; steal from other authors, and put down the theft to
 the credit side of his own reputation for ingenuity and learning?
 feign originality?  affect benevolence or misanthropy?  appeal to the
 gallery gods with claptraps and vulgar baits to catch applause?
-</p><author rdf:resource="http://historical-id.info/person/4174">W.M. Thackeray</author>
+</p><author rdf:resource="http://historical-id.info/person/William_Makepeace_Thackeray">W.M. Thackeray</author>
 <source><cite>The English Humourists of the Eighteenth Century</cite></source>
 </quotation>
 
@@ -7122,7 +7122,7 @@ adhered to the cock-up theory.
 phase of his life.  If he knew where he was going, it is not apparent
 from this distance.  He fell down a great deal during this period,
 because of a trick he had of walking into himself.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>From the introduction to <cite>The Thurber Carnival</cite></source>
 </quotation>
 
@@ -7152,7 +7152,7 @@ None could break the Web, no wings of fire. / So twisted the cords, &amp; so kno
 <quotation><p>
 The mere idea of even attempting to account for ourselves defeated us.  
 We settled instead for explaining, by means of elaborate mime and sign language, that we were barking mad.  
-</p><author>Douglas Adams &amp; Mark Carwardine</author>
+</p><author rdf:resource="http://dbpedia.org/resource/Douglas_Adams">Douglas Adams &amp; Mark Carwardine</author>
 <source><cite>Last Chance to See</cite></source>
 </quotation>
 
@@ -7170,7 +7170,7 @@ good; and that all questions are open.
 <quotation><p>
 When one has stopped loving somebody, one feels that he has become
 someone else, even though he is still the same person. 
-</p><author rdf:resource="http://historical-id.info/person/4126">Sei Shonagon</author>
+</p><author rdf:resource="http://historical-id.info/person/Sei_Shōnagon">Sei Shōnagon</author>
 <source><cite>The Pillow Book</cite></source>
 </quotation>
 
@@ -7388,7 +7388,7 @@ Even a library cataloguing system is stylized and reflects the
 interests and reading habits of librarians and library users.  The
 only framework inclusive enough to embrace all man's undertakings with
 equal objectivity is the garbage dump.
-</p><author rdf:resource="http://historical-id.info/person/1419">R. Murray Schafer</author>
+</p><author rdf:resource="http://historical-id.info/person/Murray_Schafer">R. Murray Schafer</author>
     <source><cite>The Tuning of the World</cite></source>
 </quotation>
 
@@ -7737,7 +7737,7 @@ soldier memoirs which I take down. Man is never so interesting as when
 he is thoroughly in earnest, and no one is so earnest as he whose life
 is at stake upon the event.
 </p>
-<author rdf:resource="http://historical-id.info/person/3662">Sir Arthur Conan Doyle</author>
+<author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle">Sir Arthur Conan Doyle</author>
 <source><cite>Through The Magic Door</cite></source>
 </quotation>
 
@@ -7992,7 +7992,7 @@ It is unfortunate, however, that even a well-ordered life cannot lead
 anybody safely around the inevitable doom that waits in the sky.  As
 F. Hopkinson Smith long ago pointed out, the claw of the sea-puss gets
 us all in the end.
-</p><author rdf:resource="http://historical-id.info/person/4181">James Thurber</author>
+</p><author rdf:resource="http://historical-id.info/person/James_Thurber">James Thurber</author>
 <source>"Preface to A Life", in <cite>The Thurber Carnival</cite></source>
 </quotation>
 
