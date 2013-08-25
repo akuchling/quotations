@@ -450,12 +450,12 @@ I do not construe that as progress.
 
   <quotation id="q41">
     <p>
-      
+
 <pre>
 PSA 1996 Budget
 ---------------
 Income:
-$1,093,276.54  'Guido for President' 
+$1,093,276.54  'Guido for President'
                  Campaign Contributions(1)
 $        3.12  Milk Money Extortion Program
 $    2,934.07  PSA Memberships
@@ -1010,7 +1010,7 @@ $      (21.76) Total Profit (Loss)
 
   <quotation id="q90">
     <p>
-      
+
 <pre>
 &gt; &gt;( float ( / 1 3 ))
 &gt; 0.33333333333333331
@@ -1119,7 +1119,7 @@ $      (21.76) Total Profit (Loss)
 
   <quotation id="q99">
     <p>
-      E.g., at the REBOL prompt I typed 
+      E.g., at the REBOL prompt I typed
 <pre>
      send tim@email.msn.com "Did this work?"
 </pre>
@@ -1837,7 +1837,7 @@ $      (21.76) Total Profit (Loss)
       19. Namespaces are one honking great idea -- let's do more of those!
     </p>
     <p>
-      
+
     </p>
     <source>Tim Peters' 19 Pythonic Theses, 4 Jun 1999</source>
   </quotation>
@@ -3050,7 +3050,7 @@ $      (21.76) Total Profit (Loss)
 
   <quotation id="q280">
     <p>
-      here's the eff-bot's favourite lambda refactoring rule: 
+      here's the eff-bot's favourite lambda refactoring rule:
 <pre>1) write a lambda function
 2) write a comment explaining what the heck that lambda does
 3) study the comment for a while, and think of a name that captures
@@ -3058,7 +3058,7 @@ $      (21.76) Total Profit (Loss)
 4) convert the lambda to a def statement, using that name
 5) remove the comment
 </pre>
-      
+
     </p>
     <source>Fredrik Lundh, 01 Apr 2001</source>
   </quotation>
@@ -3434,7 +3434,7 @@ feeling that it's been tried in real life.
 Most recipes are short enough for the attention span of the average
 Python programmer.
 </p><author>GvR</author>
-  <source rdf:resource="urn:isbn:0596001673">In the introduction to 
+  <source rdf:resource="urn:isbn:0596001673">In the introduction to
 the <cite>Python Cookbook</cite></source>
 </quotation>
 
@@ -3445,8 +3445,8 @@ We read Knuth so you don't have to.
 </quotation>
 
 <quotation><p>
-Here's another technique that is faster and more obvious but 
-that is often avoided by those who mistakenly believe that 
+Here's another technique that is faster and more obvious but
+that is often avoided by those who mistakenly believe that
 writing two lines of code where one might do is somehow sinful.
 </p><author>Tim Peters</author>
   <source rdf:resource="urn:isbn:0596001673"><cite>Python Cookbook</cite></source>
@@ -3468,7 +3468,7 @@ together must be an example of an approach known as "unite and suffer!"
   </quotation>
 
 <quotation id="q314"><p>
-As for Grail, it was certainly a "hot product" in the Python community     
+As for Grail, it was certainly a "hot product" in the Python community
 in 1995 because of the restricted execution environment which I
 evaluated for a project involving mobile software agents. How
 priorities and trends have changed since then! Who would have thought
