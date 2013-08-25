@@ -1,21 +1,16 @@
 
-include ~/files/www/sites/quotations.amk.ca/bin/make.rules
-
-$(SOURCES:%.ht=%.html): links.h 
-
-PYTHON = python
-SITE = quotations.amk.ca
+SITEDIR = $(HOME)/source/repo/quotations.amk.ca
 
 XMLSOURCES = $(filter-out sig-quotes.xml,$(shell echo *.xml))
-HTML_FILES = $(XMLSOURCES:%.xml=%.ht) 
-HTML_DIRS = $(XMLSOURCES:%.xml=%/links.h) 
-FORTUNE_FILES =	$(XMLSOURCES:%.xml=%.ft) 
-TEXT_FILES =	$(XMLSOURCES:%.xml=%.txt) 
-TARGETS += $(HTML_FILES) $(FORTUNE_FILES) $(TEXT_FILES) sig-quotes
+HTML_FILES = $(XMLSOURCES:%.xml=%.ht)
+FORTUNE_FILES =	$(XMLSOURCES:%.xml=%.ft)
+TEXT_FILES =	$(XMLSOURCES:%.xml=%.txt)
+TARGETS += $(HTML_FILES) $(FORTUNE_FILES) $(TEXT_FILES)
+HTML_DIR = $(HOME)/source/repo/quotations.amk.ca/
 
 .SUFFIXES:	.xml .ft .txt
 
-all: $(HTML_DIRS) $(FORTUNE_FILES) $(TEXT_FILES)
+all: $(FORTUNE_FILES) $(TEXT_FILES) html
 
 %.ft : %.xml
 	qtformat --fortune $< >$@
@@ -23,39 +18,12 @@ all: $(HTML_DIRS) $(FORTUNE_FILES) $(TEXT_FILES)
 %.txt : %.xml
 	qtformat --text $< >$@
 
-clobber: clean
-	rm -f $(HTML_FILES) $(FORTUNE_FILES) $(TEXT_FILES) *~
-
-# Copy files to the live site
-copy:
-	rsync -av --delete --exclude=bin --exclude=.hg --exclude-from=$$HOME/files/www/scripts/rsync-excludes \
-               $$HOME/files/www/sites/quotations.amk.ca/ akuchling@wasp.dreamhost.com:~/quotations.amk.ca/
-
-comics/links.h : comics.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py comics
-doctor-who/links.h : doctor-who.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py doctor-who
-housing-bubble/links.h : housing-bubble.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py housing-bubble
-hp-lovecraft/links.h : hp-lovecraft.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py hp-lovecraft
-neil-gaiman/links.h : neil-gaiman.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py neil-gaiman
-python-quotes/links.h : python-quotes.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py python-quotes
-quotations/links.h : quotations.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py quotations
-shakespeare/links.h : shakespeare.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py shakespeare
-sherlock-holmes/links.h : sherlock-holmes.xml
-	qtformat --html --split 8 $< | \
-		$(PYTHON) make-ht.py sherlock-holmes
-
+html:
+	qtformat --title="Comics" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/comics comics.xml
+	qtformat --title="Classic Doctor Who" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/doctor-who doctor-who.xml
+	qtformat --title="H.P. Lovecraft" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/hp-lovecraft hp-lovecraft.xml
+	qtformat --title="Neil Gaiman" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/neil-gaiman neil-gaiman.xml
+	qtformat --title="Python Programming" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/python-quotes python-quotes.xml
+	qtformat --title="Commonplace Book" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/quotations quotations.xml
+	qtformat --title="Shakespeare's Plays" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/shakespeare shakespeare.xml
+	qtformat --title="Sherlock Holmes" --html-pages=/Users/akuchling/source/repo/quotations.amk.ca/sherlock-holmes sherlock-holmes.xml
