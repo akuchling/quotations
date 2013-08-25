@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="http://www.amk.ca/qel/qel.css"?>
 <quotations
+  xmlns="http://www.amk.ca/qel/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <!-- Creative Commons Attribution-ShareAlike license -->
-  <rdf:RDF xmlns="http://web.resource.org/cc/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <Work rdf:about="">
-       <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
-       <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-    </Work>
-
-    <License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
-       <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-       <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-       <requires rdf:resource="http://web.resource.org/cc/Notice" />
-       <requires rdf:resource="http://web.resource.org/cc/Attribution" />
-       <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-       <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
-    </License>
-
-    </rdf:RDF>
   <quotation id="q1" date="1887">
     <p>
       I had neither kith nor kin in England, and was therefore as free
@@ -33,7 +15,6 @@ and idlers of the Empire are irresistibly drained.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q2" date="1887">
     <p>
       "Holmes is a little too scientific for my tastes -- it
@@ -47,7 +28,6 @@ passion for definite and exact knowledge."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Stamford, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q3" date="1887">
     <p>
       "How are you?" he said cordially, gripping my hand with a
@@ -57,7 +37,6 @@ been in Afghanistan, I perceive."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes's first words to Watson, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q4" date="1887">
     <p>
       His ignorance was as remarkable as his knowledge. Of
@@ -73,7 +52,6 @@ an extraordinary fact that I could hardly realize it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, describing Holmes in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q5" date="1887">
     <p>
       "You see," he explained, "I consider that a man's brain
@@ -94,7 +72,6 @@ to have useless facts elbowing out the useful ones."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q6" date="1887">
     <p>
       "What the deuce is it to me?" he interrupted impatiently; "you
@@ -104,7 +81,6 @@ make a pennyworth of difference to me or to my work."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q7" date="1887">
     <p>
       "From a drop of water," said the writer, "a logician could infer
@@ -130,7 +106,6 @@ almost inconceivable."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Book of Life", an article by Holmes quoted in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q8" date="1887">
     <p>
       "They say that genius is an infinite capacity for taking pains,"
@@ -140,7 +115,6 @@ apply to detective work."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q9" date="1887">
     <p>
       "There's the scarlet thread of murder running through the
@@ -150,7 +124,6 @@ it, and expose every inch of it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q10" date="1887">
     <p>
       "One's ideas must be as broad as Nature if they are to interpret
@@ -159,7 +132,6 @@ Nature."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q11" date="1887">
     <p>
       "Oh, bless you, it doesn't matter in the least. If the man is
@@ -171,7 +143,6 @@ win and tails you lose. Whatever they do, they will have followers.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q12" date="1887">
     <p>
       "The most commonplace crime is often the most mysterious because
@@ -181,7 +152,6 @@ drawn."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q13" date="1887">
     <p>
       "He made the country down in Illinois, and He made the
@@ -192,7 +162,6 @@ water and the trees."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Lucy Ferrier, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q14" date="1887">
     <p>
       "What you do in this world is a matter of no consequence,"
@@ -202,7 +171,6 @@ people believe that you have done."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q15" date="1887">
     <p>
       "In solving a problem of this sort, the grand thing is to be
@@ -215,7 +183,6 @@ for one who can reason analytically."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Study in Scarlet"</source>
   </quotation>
-
   <quotation id="q16" date="1890">
     <p>
       He raised his eyes languidly from the old black-letter volume
@@ -225,7 +192,6 @@ solution. Would you care to try it?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q17" date="1890">
     <p>
       "My mind," he said, "rebels at stagnation. Give me problems,
@@ -237,7 +203,6 @@ of existence. I crave for mental exaltation."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q18" date="1890">
     <p>
       "I am the last and highest court of appeal in detection. When
@@ -248,7 +213,6 @@ me."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q19" date="1890">
     <p>
       "Detection is, or ought to be, an exact science, and should be
@@ -260,7 +224,6 @@ Euclid."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q20" date="1890">
     <p>
       I made no remark, however, but sat nursing my wounded leg. I had
@@ -271,7 +234,6 @@ weather.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q21" date="1890">
     <p>
       "Oh, he rates my assistance too highly," said Sherlock Holmes,
@@ -283,7 +245,6 @@ knowledge; and that may come in time."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q22" date="1890">
     <p>
       "Oh, didn't you know?" he cried, laughing. "Yes, I have been
@@ -302,7 +263,6 @@ of bird's-eye as there is between a cabbage and a potato."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q23" date="1890">
     <p>
       "Here is my monograph upon the tracing of footsteps, with some
@@ -318,7 +278,6 @@ hobby."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q24" date="1890">
     <p>
       "Eliminate all other factors, and the one which remains must be
@@ -327,7 +286,6 @@ the truth."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q25" date="1890">
     <p>
       "No, no: I never guess. It is a shocking habit, -- destructive
@@ -336,7 +294,6 @@ to the logical faculty."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q26" date="1890">
     <p>
       "Hence the cocaine. I cannot live without brain-work. What else
@@ -351,7 +308,6 @@ which are commonplace have any function upon earth."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q27" date="1890">
     <p>
       He smiled gently. "It is of the first importance," he said, "not
@@ -366,7 +322,6 @@ million upon the London poor."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q28" date="1890">
     <p>
       "I never make exceptions. An exception disproves the rule."
@@ -374,7 +329,6 @@ million upon the London poor."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q29" date="1890">
     <p>
       I endeavored to cheer and amuse her by reminiscences of my
@@ -387,7 +341,6 @@ dead of night, and how I fired a double-barrelled tiger cub at it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q30" date="1890">
     <p>
       "My health is somewhat fragile," he remarked, as he led the way
@@ -396,7 +349,6 @@ down the passage. "I am compelled to be a valetudinarian."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Thaddeus Sholto, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q31" date="1890">
     <p>
       "How often have I said to you that when you have eliminated the
@@ -406,7 +358,6 @@ truth?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q32" date="1890">
     <p>
       "What do you think of this, Holmes? Sholto was, on his own
@@ -423,7 +374,6 @@ door on the inside."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Athelney Jones and Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q33" date="1890">
     <p>
       "He makes one curious but profound remark. It is that the chief
@@ -435,7 +385,6 @@ food for thought in Richter."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q34" date="1890">
     <p>
       "I would not tell them too much," said Holmes. "Women are never
@@ -444,7 +393,6 @@ to be entirely trusted, -- not the best of them."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q35" date="1890">
     <p>
       "Dirty-looking rascals, but I suppose every one has some little
@@ -455,7 +403,6 @@ man!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q36" date="1890">
     <p>
       "Winwood Reade is good upon the subject," said Holmes. "He
@@ -468,7 +415,6 @@ percentages remain constant. So says the statistician."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q37" date="1890">
     <p>
       "Not at all. I think she is one of the most charming young
@@ -482,7 +428,6 @@ should never marry myself, lest I bias my judgment."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q38" date="1890">
     <p>
       "The division seems rather unfair," I remarked. "You have done
@@ -496,7 +441,6 @@ cocaine-bottle." And he stretched his long white hand up for it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, in "The Sign of the Four"</source>
   </quotation>
-
   <quotation id="q39" date="1891">
     <p>
       To Sherlock Holmes she is always <em>the</em> woman.
@@ -504,7 +448,6 @@ cocaine-bottle." And he stretched his long white hand up for it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q40" date="1891">
     <p>
       It was not that he felt any emotion akin to love for Irene
@@ -514,7 +457,6 @@ cold, precise but admirably balanced mind.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q41" date="1891">
     <p>
       He was, I take it, the most perfect reasoning and observing
@@ -532,7 +474,6 @@ in a nature such as his.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q42" date="1891">
     <p>
       I had seen little of Holmes lately. My marriage had drifted us
@@ -548,7 +489,6 @@ keen nature.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q43" date="1891">
     <p>
       "Quite so," he answered, lighting a cigarette, and throwing
@@ -558,7 +498,6 @@ distinction is clear."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q44" date="1891">
     <p>
       "For example, you have frequently seen the steps which lead up
@@ -587,7 +526,6 @@ have both seen and observed."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q45" date="1891">
     <p>
       "I have no data yet. It is a capital mistake to theorize before
@@ -597,7 +535,6 @@ instead of theories to suit facts."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q46" date="1891">
     <p>
       "And the man who wrote the note is a German. Do you note the
@@ -608,7 +545,6 @@ written that. It is the German who is so uncourteous to his verbs."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q47" date="1891">
     <p>
       "Kindly look her up in my index, Doctor," murmured Holmes
@@ -622,7 +558,6 @@ written a monograph upon the deep-sea fishes.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q48" date="1891">
     <p>
       It was not merely that Holmes changed his costume. His
@@ -633,7 +568,6 @@ lost an acute reasoner, when he became a specialist in crime.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q49" date="1891">
     <p>
       "When a woman thinks that her house is on fire, her instinct is
@@ -646,7 +580,6 @@ at her baby; an unmarried one reaches for her jewel-box."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q50" date="1891">
     <p>
       "What a woman -- oh, what a woman!" cried the King of Bohemia,
@@ -661,7 +594,6 @@ very different level to your Majesty," said Holmes coldly.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q51" date="1891">
     <p>
       And that was how a great scandal threatened to affect the
@@ -674,7 +606,6 @@ the honorable title of the woman.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Scandal in Bohemia"</source>
   </quotation>
-
   <quotation id="q52" date="1891">
     <p>
       "You have heard me remark that the strangest and most unique
@@ -685,7 +616,6 @@ doubt whether any positive crime has been committed."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q53" date="1891">
     <p>
       "I have nothing to do today. My practice is never very
@@ -694,7 +624,6 @@ absorbing."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q54" date="1891">
     <p>
       "As a rule, when I have heard some slight indication of the
@@ -705,7 +634,6 @@ forced to admit that the facts are, to the best of my belief, unique."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q55" date="1891">
     <p>
       "I begin to think, Watson," said Holmes, "that I make a mistake
@@ -716,7 +644,6 @@ candid."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q56" date="1891">
     <p>
       "'You will, however, I am sure, excuse me for taking an obvious
@@ -730,7 +657,6 @@ you with human nature.'"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Jabez Wilson, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q57" date="1891">
     <p>
       "Eight weeks passed away like this, and I had written about
@@ -742,7 +668,6 @@ with my writings."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Jabez Wilson, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q58" date="1891">
     <p>
       "As far as you are personally concerned," remarked Holmes, "I do
@@ -754,7 +679,6 @@ subject which comes under the letter A."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q59" date="1891">
     <p>
       "As a rule," said Holmes, "the more bizarre a thing is the less
@@ -765,7 +689,6 @@ difficult to identify."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q60" date="1891">
     <p>
       "What are you going to do, then?" I asked.
@@ -777,7 +700,6 @@ I beg that you won't speak to me for fifty minutes."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q61" date="1891">
     <p>
       "I observe that there is a good deal of German music on the
@@ -787,7 +709,6 @@ is introspective, and I want to introspect."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q62" date="1891">
     <p>
       "Mr. Wilson's assistant counts for a good deal in this mystery
@@ -806,7 +727,6 @@ in order that you might see him."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q63" date="1891">
     <p>
       My friend was an enthusiastic musician, being himself not only a
@@ -820,7 +740,6 @@ ready-handed criminal agent, as it was possible to conceive.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q64" date="1891">
     <p>
       In his singular character the dual nature alternately asserted
@@ -841,7 +760,6 @@ coming upon those whom he had set himself to hunt down.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q65" date="1891">
     <p>
       I trust that I am not more dense than my neighbors, but I was
@@ -851,7 +769,6 @@ Sherlock Holmes.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q66" date="1891">
     <p>
       "You may place considerable confidence in Mr. Holmes, sir," said
@@ -865,7 +782,6 @@ official force."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Peter Jones, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q67" date="1891">
     <p>
       "You reasoned it out beautifully," I exclaimed in unfeigned
@@ -874,7 +790,6 @@ admiration. "It is so long a chain, and yet every link rings true."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q68" date="1891">
     <p>
       "It saved me from ennui," he answered, yawning. "Alas! I already
@@ -885,7 +800,6 @@ me to do so."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Red Headed League"</source>
   </quotation>
-
   <quotation id="q69" date="1891">
     <p>
       "My dear fellow," said Sherlock Holmes as we sat on either side
@@ -903,7 +817,6 @@ and unprofitable."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q70" date="1891">
     <p>
       "We have in our police reports realism pushed to its extreme
@@ -913,7 +826,6 @@ fascinating nor artistic."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q71" date="1891">
     <p>
       "Depend upon it, there is nothing so unnatural as the
@@ -922,7 +834,6 @@ commonplace."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q72" date="1891">
     <p>
       "The husband was a teetotaller, there was no other woman, and
@@ -933,7 +844,6 @@ at his wife."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q73" date="1891">
     <p>
       "It was most suggestive," said Holmes. "It has long been an
@@ -943,7 +853,6 @@ important."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q74" date="1891">
     <p>
       "The case has, in some respects, been not entirely devoid of
@@ -952,7 +861,6 @@ interest."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q75" date="1891">
     <p>
       "'Pon my word, Watson, you are coming along wonderfully. You
@@ -964,7 +872,6 @@ boy, but concentrate yourself upon details."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q76" date="1891">
     <p>
       A formidable array of bottles and test-tubes, with the pungent
@@ -980,7 +887,6 @@ in the chemical work which was so dear to him.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q77" date="1891">
     <p>
       "If I tell her she will not believe me. You may remember the old
@@ -991,7 +897,6 @@ much sense in Hafiz as in Horace, and as much knowledge of the world."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "A Case of Identity"</source>
   </quotation>
-
   <quotation id="q78" date="1891">
     <p>
       "Circumstantial evidence is a very tricky thing," answered
@@ -1003,7 +908,6 @@ different."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q79" date="1891">
     <p>
       "There is nothing more deceptive than an obvious fact," he
@@ -1016,7 +920,6 @@ incapable of employing, or even of understanding."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q80" date="1891">
     <p>
       "You know my method. It is founded upon the observance of
@@ -1025,7 +928,6 @@ trifles."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q81" date="1891">
     <p>
       "And now here is my pocket Petrarch, and not another word shall
@@ -1034,7 +936,6 @@ I say of this case until we are on the scene of action."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q82" date="1891">
     <p>
       "And the murderer?"
@@ -1049,7 +950,6 @@ in our search."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Lestrade and Holmes, in "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q83" date="1891">
     <p>
       "I have, as you know, devoted some attention to this, and
@@ -1059,7 +959,6 @@ pipe, cigar, and cigarette tobacco."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q84" date="1891">
     <p>
       "God help us!" said Holmes after a long silence. "Why does fate
@@ -1070,7 +969,6 @@ but for the grace of God, goes Sherlock Holmes.'"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Boscombe Valley Mystery"</source>
   </quotation>
-
   <quotation id="q85" date="1891">
     <p>
       All day the wind had screamed and the rain had beaten against
@@ -1083,7 +981,6 @@ untamed beasts in a cage.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Five Orange Pips"</source>
   </quotation>
-
   <quotation id="q86" date="1891">
     <p>
       "I have come for advice."
@@ -1100,7 +997,6 @@ untamed beasts in a cage.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>John Openshaw and Holmes, in "The Five Orange Pips"</source>
   </quotation>
-
   <quotation id="q87" date="1891">
     <p>
       Sherlock Holmes closed his eyes and placed his elbows upon the
@@ -1127,7 +1023,6 @@ endeavored in my case to do."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Five Orange Pips"</source>
   </quotation>
-
   <quotation id="q88" date="1891">
     <p>
       "Well," he said, "I say now, as I said then, that a man should
@@ -1138,7 +1033,6 @@ library, where he can get it if he wants it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Five Orange Pips"</source>
   </quotation>
-
   <quotation id="q89" date="1892">
     <p>
       "No, no. No crime," said Sherlock Holmes, laughing. "Only one of
@@ -1153,7 +1047,6 @@ experience of such."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Blue Carbuncle"</source>
   </quotation>
-
   <quotation id="q90" date="1892">
     <p>
       "The question for us now to solve is the sequence of events
@@ -1163,7 +1056,6 @@ Tottenham Court Road at the other."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Blue Carbuncle"</source>
   </quotation>
-
   <quotation id="q91" date="1892">
     <p>
       When the commissionaire had gone, Holmes took up the stone and
@@ -1175,7 +1067,6 @@ larger and older jewels every facet may stand for a bloody deed."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Blue Carbuncle"</source>
   </quotation>
-
   <quotation id="q92" date="1892">
     <p>
       "You? Who are you? How could you know anything of the matter?"
@@ -1187,7 +1078,6 @@ other people don't know."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>James Ryder and Holmes, in "The Adventure of the Blue Carbuncle"</source>
   </quotation>
-
   <quotation id="q93" date="1892">
     <p>
       "Chance has put in our way a most singular and whimsical
@@ -1196,7 +1086,6 @@ problem, and its solution is its own reward."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Blue Carbuncle"</source>
   </quotation>
-
   <quotation id="q94" date="1892">
     <p>
       On glancing over my notes of the seventy odd cases in which I
@@ -1210,7 +1099,6 @@ the unusual, and even the fantastic.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Speckled Band"</source>
   </quotation>
-
   <quotation id="q95" date="1892">
     <p>
       "It's a wicked world, and when a clever man turns his brain to
@@ -1219,7 +1107,6 @@ crime it is the worst of all."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Speckled Band"</source>
   </quotation>
-
   <quotation id="q96" date="1892">
     <p>
       "When a doctor does go wrong he is the first of criminals. He
@@ -1229,7 +1116,6 @@ heads of their profession."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Speckled Band"</source>
   </quotation>
-
   <quotation id="q97" date="1892">
     <p>
       "Then it flashed through my mind that the pain of my death would
@@ -1242,7 +1128,6 @@ upon me?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Victor Hatherley, in "The Adventure of the Engineer's Thumb"</source>
   </quotation>
-
   <quotation id="q98" date="1892">
     <p>
       "Well," said our engineer ruefully as we took our seats to
@@ -1259,7 +1144,6 @@ existence."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Engineer's Thumb"</source>
   </quotation>
-
   <quotation id="q99" date="1892">
     <p>
       I had remained indoors all day, for the weather had taken a
@@ -1270,7 +1154,6 @@ campaign throbbed with dull persistence.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q100" date="1892">
     <p>
       "This looks like one of those unwelcome social summonses which
@@ -1279,7 +1162,6 @@ call upon a man either to be bored or to lie."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q101" date="1892">
     <p>
       "They have been identified as her clothes, and it seemed to me
@@ -1292,7 +1174,6 @@ found in the neighborhood of his wardrobe."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Lestrade and Holmes, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q102" date="1892">
     <p>
       "Still, if I had married Lord St. Simon, of course I'd have done
@@ -1301,7 +1182,6 @@ my duty by him. We can't command our love, but we can our actions."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Hatty Doran, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q103" date="1892">
     <p>
       "It is always a joy to meet an American, Mr. Moulton, for I am
@@ -1314,7 +1194,6 @@ Stars and Stripes."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q104" date="1892">
     <p>
       "Draw your chair up and hand me my violin, for the only problem
@@ -1324,7 +1203,6 @@ evenings."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Noble Bachelor"</source>
   </quotation>
-
   <quotation id="q105" date="1892">
     <p>
       "I think that we may safely say," returned Holmes, "that she is
@@ -1335,7 +1213,6 @@ punishment."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Beryl Coronet"</source>
   </quotation>
-
   <quotation id="q106" date="1892">
     <p>
       "To the man who loves art for its own sake," remarked Sherlock
@@ -1346,7 +1223,6 @@ that the keenest pleasure is to be derived."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q107" date="1892">
     <p>
       "You have erred, perhaps," he observed, taking up a glowing
@@ -1361,7 +1237,6 @@ feature about the thing."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q108" date="1892">
     <p>
       "If I claim full justice for my art, it is because it is an
@@ -1373,7 +1248,6 @@ lectures into a series of tales."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q109" date="1892">
     <p>
       "Pshaw, my dear fellow, what do the public, the great
@@ -1384,7 +1258,6 @@ and deduction!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q110" date="1892">
     <p>
       "Man, or at least criminal man, has lost all enterprise and
@@ -1395,7 +1268,6 @@ young ladies from boarding-schools."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q111" date="1892">
     <p>
       "If you should find yourself in doubt or in danger--"
@@ -1410,7 +1282,6 @@ we could define it," said he.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Violet Hunter, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q112" date="1892">
     <p>
       "Do you know, Watson," said he, "that it is one of the curses of
@@ -1423,7 +1294,6 @@ the impunity with which crime may be committed there."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q113" date="1892">
     <p>
       "The pressure of public opinion can do in the town what the law
@@ -1443,7 +1313,6 @@ the danger."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q114" date="1892">
     <p>
       "What <em>can</em> be the matter, then? Can you suggest no
@@ -1458,7 +1327,6 @@ doubt find waiting for us."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q115" date="1892">
     <p>
       "Mrs. Rucastle seemed to me to be colorless in mind as well as
@@ -1468,7 +1336,6 @@ was a nonentity."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Violet Hunter, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q116" date="1892">
     <p>
       "My dear Watson, you as a medical man are continually gaining
@@ -1483,7 +1350,6 @@ poor girl who is in their power."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q117" date="1892">
     <p>
       As to Miss Violet Hunter, my friend Holmes, rather to my
@@ -1495,7 +1361,6 @@ with considerable success.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Copper Beeches"</source>
   </quotation>
-
   <quotation id="q118" date="1892">
     <p>
       "We are going well," said he, looking out the window and
@@ -1512,7 +1377,6 @@ yards apart, and the calculation is a simple one."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q119" date="1892">
     <p>
       "Nothing clears up a case so much as stating it to another
@@ -1521,7 +1385,6 @@ person."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q120" date="1892">
     <p>
       "It is one of those cases where the art of the reasoner should
@@ -1531,7 +1394,6 @@ fresh evidence."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q121" date="1892">
     <p>
       "The tragedy has been so uncommon, so complete and of such
@@ -1543,7 +1405,6 @@ the embellishments of theorists and reporters."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q122" date="1892">
     <p>
       "See the value of imagination," said Holmes. "It is the one
@@ -1554,7 +1415,6 @@ proceed."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q123" date="1892">
     <p>
       "At least you have his assurance that your horse will run," said
@@ -1567,7 +1427,6 @@ his shoulders. "I should prefer to have the horse."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Colonel Ross, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q124" date="1892">
     <p>
       "Is there any point to which you would wish to draw my
@@ -1585,7 +1444,6 @@ attention?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Inspector Gregory and Holmes, in "Silver Blaze"</source>
   </quotation>
-
   <quotation id="q125" date="1893">
     <p>
       And this not so much for the sake of his reputations -- for,
@@ -1597,7 +1455,6 @@ left forever without a conclusion.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q126" date="1893">
     <p>
       Sherlock Holmes was a man who seldom took exercise for
@@ -1610,7 +1467,6 @@ professional object to be served.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q127" date="1893">
     <p>
       "My dear Mr. Grant Munro--" began Holmes.
@@ -1628,7 +1484,6 @@ are addressing."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Grant Munro, in "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q128" date="1893">
     <p>
       "Upon my word, Watson, there is something very attractive about
@@ -1638,7 +1493,6 @@ for worlds."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q129" date="1893">
     <p>
       "Any truth is better than indefinite doubt."
@@ -1646,7 +1500,6 @@ for worlds."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q130" date="1893">
     <p>
       "Watson," said he, "if it should ever strike you that I am
@@ -1657,7 +1510,6 @@ shall be infinitely obliged to you."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Yellow Face"</source>
   </quotation>
-
   <quotation id="q131" date="1893">
     <p>
       The public not unnaturally goes on the principle that he who
@@ -1668,7 +1520,6 @@ drugs.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Stock-Brocker's Clerk"</source>
   </quotation>
-
   <quotation id="q132" date="1893">
     <p>
       "I am afraid that I rather give myself away when I explain,"
@@ -1677,7 +1528,6 @@ said he. "Results without causes are much more impressive."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Stock-Brocker's Clerk"</source>
   </quotation>
-
   <quotation id="q133" date="1893">
     <p>
       "I sent in my testimonial and application, but without the least
@@ -1690,7 +1540,6 @@ hand into the heap and takes the first that comes."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Hall Pycroft, in "The Stock-Brocker's Clerk"</source>
   </quotation>
-
   <quotation id="q134" date="1893">
     <p>
       "Human nature is a strange mixture, Watson. You see that even a
@@ -1700,7 +1549,6 @@ to suicide when he learns that his neck is forfeited."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Stock-Brocker's Clerk"</source>
   </quotation>
-
   <quotation id="q135" date="1893">
     <p>
       "I don't know how you manage this, Mr. Holmes, but it seems to
@@ -1710,7 +1558,6 @@ your hands."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Trevor senior, in "The 'Gloria Scott'"</source>
   </quotation>
-
   <quotation id="q136" date="1893">
     <p>
       An anomaly which often struck me in the character of my friend
@@ -1723,7 +1570,6 @@ fellow-lodger to distraction.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q137" date="1893">
     <p>
       The rough-and-tumble work in Afghanistan, coming on the top of a
@@ -1737,7 +1583,6 @@ begin to give myself virtuous airs.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q138" date="1893">
     <p>
       I have always held, too, that pistol practice should be
@@ -1750,7 +1595,6 @@ atmosphere nor the appearance of our room was improved by it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q139" date="1893">
     <p>
       Our chambers were always full of chemicals and of criminal
@@ -1760,7 +1604,6 @@ turning up in the butter-dish or in even less desirable places.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q140" date="1893">
     <p>
       "It is rather an absurd business, this ritual of ours," he
@@ -1770,7 +1613,6 @@ it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Reginald Musgrave, in "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q141" date="1893">
     <p>
       "You know my methods in such cases, Watson. I put myself in the
@@ -1784,7 +1626,6 @@ dubbed it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Musgrave Ritual"</source>
   </quotation>
-
   <quotation id="q142" date="1893">
     <p>
       "It is of the highest importance in the art of detection to be
@@ -1795,7 +1636,6 @@ instead of being concentrated."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Reigate Squires"</source>
   </quotation>
-
   <quotation id="q143" date="1893">
     <p>
       " Excellent!" I cried.
@@ -1806,7 +1646,6 @@ instead of being concentrated."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Sherlock Holmes, in "The Adventure of the Crooked Man"</source>
   </quotation>
-
   <quotation id="q144" date="1893">
     <p>
       A depleted bank account had caused me to postpone my holiday,
@@ -1821,7 +1660,6 @@ evil-doer of the town to track down his brother of the country.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Resident Patient"</source>
   </quotation>
-
   <quotation id="q145" date="1893">
     <p>
       "But, none the less, my turn that way is in my veins, and may
@@ -1832,7 +1670,6 @@ forms."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Greek Interpreter"</source>
   </quotation>
-
   <quotation id="q146" date="1893">
     <p>
       "My dear Watson," said he, "I cannot agree with those who rank
@@ -1843,7 +1680,6 @@ departure from truth as to exaggerate one's own powers."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Greek Interpreter"</source>
   </quotation>
-
   <quotation id="q147" date="1893">
     <p>
       "I said that he was my superior in observation and deduction. If
@@ -1856,7 +1692,6 @@ wrong than take the trouble to prove himself right."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Greek Interpreter"</source>
   </quotation>
-
   <quotation id="q148" date="1893">
     <p>
       "There are many men in London, you know, who, some from shyness,
@@ -1874,7 +1709,6 @@ atmosphere."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Greek Interpreter"</source>
   </quotation>
-
   <quotation id="q149" date="1893">
     <p>
       Mr. Melas, however, still lived, and in less than an hour, with
@@ -1885,7 +1719,6 @@ that dark valley in which all paths meet.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Greek Interpreter"</source>
   </quotation>
-
   <quotation id="q150" date="1893">
     <p>
       "There is nothing in which deduction is so necessary as in
@@ -1901,7 +1734,6 @@ and so I say again that we have much to hope from the flowers."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Naval Treaty"</source>
   </quotation>
-
   <quotation id="q151" date="1893">
     <p>
       "You suspect some one?"
@@ -1918,7 +1750,6 @@ and so I say again that we have much to hope from the flowers."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Annie Harrison and Sherlock Holmes, in "The Adventure of the Naval Treaty"</source>
   </quotation>
-
   <quotation id="q152" date="1893">
     <p>
       "Look at those big, isolated clumps of building rising up above
@@ -1935,7 +1766,6 @@ wise, better England of the future."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Adventure of the Naval Treaty"</source>
   </quotation>
-
   <quotation id="q153" date="1893">
     <p>
       Standing on the run between us, with his slight, tall figure,
@@ -1946,7 +1776,6 @@ nobleman who is in truth noble.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>The description of Lord Holdhurst, in "The Adventure of the Naval Treaty"</source>
   </quotation>
-
   <quotation id="q154" date="1893">
     <p>
       It is with a heavy heart that I take up my pen to write these
@@ -1956,7 +1785,6 @@ which my friend Mr. Sherlock Holmes was distinguished.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Opening line of "The Final Problem"</source>
   </quotation>
-
   <quotation id="q155" date="1893">
     <p>
       "You have probably never heard of Professor Moriarty?" said he.
@@ -1972,7 +1800,6 @@ puts him on a pinnacle in the records of crime."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q156" date="1893">
     <p>
       "As you are aware, Watson, there is no one who knows the higher
@@ -1991,7 +1818,6 @@ ex-Professor Moriarty of mathematical celebrity."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q157" date="1893">
     <p>
       "He is the Napoleon of crime, Watson. He is the organizer of
@@ -2011,7 +1837,6 @@ much as suspected."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q158" date="1893">
     <p>
       "'You crossed my path on the 4th of January,' said he. 'On the
@@ -2025,7 +1850,6 @@ impossible one.'"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Professor Moriarty, speaking to Sherlock Holmes in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q159" date="1893">
     <p>
       "'Danger is part of my trade,' I remarked."
@@ -2040,7 +1864,6 @@ trodden under foot.'"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Professor Moriarty, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q160" date="1893">
     <p>
       "Now I have come round to you, and on my way I was attacked by a
@@ -2054,7 +1877,6 @@ black-board ten miles away."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q161" date="1893">
     <p>
       "I think that I may go so far as to say, Watson, that I have not
@@ -2069,7 +1891,6 @@ is responsible."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Final Problem"</source>
   </quotation>
-
   <quotation id="q162" date="1902">
     <p>
       "I am bound to say that in all the accounts which you have been
@@ -2081,7 +1902,6 @@ possessing genius have a remarkable power of stimulating it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, to Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q163" date="1902">
     <p>
       "Now is the dramatic moment of fate, Watson, when you hear a
@@ -2092,7 +1912,6 @@ science, ask of Sherlock Holmes, the specialist in crime? Come in!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q164" date="1902">
     <p>
       "You interest me very much, Mr. Holmes. I had hardly expected so
@@ -2106,7 +1925,6 @@ skull."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Dr Mortimer, to Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q165" date="1902">
     <p>
       "To that Providence, my sons, I hereby commend you, and I
@@ -2116,7 +1934,6 @@ those dark hours when the powers of evil are exalted."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Hugo Baskerville's document, read by Dr Mortimer in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q166" date="1902">
     <p>
       "Mr. Holmes, they were the footprints of a gigantic hound!"
@@ -2124,7 +1941,6 @@ those dark hours when the powers of evil are exalted."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Dr Mortimer, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q167" date="1902">
     <p>
       "I have hitherto confined my investigations to this world," said
@@ -2134,7 +1950,6 @@ of Evil himself would, perhaps, be too ambitious a task."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q168" date="1902">
     <p>
       "Caught cold, Watson?" said he.
@@ -2154,7 +1969,6 @@ of Evil himself would, perhaps, be too ambitious a task."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q169" date="1902">
     <p>
       "The world is full of obvious things which nobody by any chance
@@ -2163,7 +1977,6 @@ ever observes."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q170" date="1902">
     <p>
       "Where do you think that I have been?"
@@ -2185,7 +1998,6 @@ an incredible amount of tobacco."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q171" date="1902">
     <p>
       "After you left I sent down to Stamford's for the Ordnance map
@@ -2195,7 +2007,6 @@ day. I flatter myself that I could find my way about."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q172" date="1902">
     <p>
       "Yes, the setting is a worthy one. If the devil did desire to
@@ -2211,7 +2022,6 @@ explanation."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q173" date="1902">
     <p>
       "It is a singular thing, but I find that a concentrated
@@ -2222,7 +2032,6 @@ outcome of my convictions."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q174" date="1902">
     <p>
       "There is as much difference to my eyes between the leaded
@@ -2238,14 +2047,13 @@ could have been taken from nothing else."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
-  <quotation date="1902">
-    <p>"Snap goes our third thread, and we end where we began."
+  <quotation id="q316" date="1902">
+    <p>
+      "Snap goes our third thread, and we end where we began."
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q175" date="1902">
     <p>
       For half an hour I waited with every nerve on the alert, but
@@ -2255,7 +2063,6 @@ ivy on the wall.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q176" date="1902">
     <p>
       Life has become like that great Grimpen Mire, with little green
@@ -2265,7 +2072,6 @@ the track.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q177" date="1902">
     <p>
       As far as I could judge, the figure was that of a tall, thin
@@ -2277,7 +2083,6 @@ spirit of that terrible place.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q178" date="1902">
     <p>
       I am certainly developing the wisdom of the serpent, for when
@@ -2289,7 +2094,6 @@ with Sherlock Holmes for nothing.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q179" date="1902">
     <p>
       "It is murder, Watson -- refined, cold-blooded, deliberate
@@ -2298,7 +2102,6 @@ murder."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q180" date="1902">
     <p>
       To all the world he was the man of violence, half animal and
@@ -2309,7 +2112,6 @@ man who has not one woman to mourn him.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, on the death of Selden in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q181" date="1902">
     <p>
       "We have him, Watson, we have him, and I dare swear that before
@@ -2322,7 +2124,6 @@ laugh often, and it has always boded ill to somebody.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q182" date="1902">
     <p>
       A hound it was, an enormous coal-black hound, but not such a
@@ -2336,7 +2137,6 @@ upon us out of the wall of fog.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q183" date="1902">
     <p>
       If he was vulnerable he was mortal, and if we could wound him we
@@ -2345,7 +2145,6 @@ could kill him.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q184" date="1902">
     <p>
       The more <foreign>outré</foreign> and grotesque an incident is
@@ -2356,7 +2155,6 @@ scientifically handled, the one which is most likely to elucidate it.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q185" date="1902">
     <p>
       There can be no doubt that Stapleton exercised an influence over
@@ -2366,7 +2164,6 @@ both, since they are by no means incompatible emotions.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q186" date="1902">
     <p>
       "The past and the present are within the field of my inquiry,
@@ -2375,7 +2172,6 @@ but what a man may do in the future is a hard question to answer."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Hound of the Baskervilles"</source>
   </quotation>
-
   <quotation id="q187" date="1903">
     <p>
       As I did so I struck against an elderly, deformed man, who had
@@ -2388,7 +2184,6 @@ or as a hobby, was a collector of obscure volumes.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q188" date="1903">
     <p>
       "I am not a fanciful person, but I give you my word that I
@@ -2397,7 +2192,6 @@ seemed to hear Moriarty's voice screaming at me out of the abyss."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q189" date="1903">
     <p>
       "I travelled for two years in Tibet, therefore, and amused
@@ -2414,7 +2208,6 @@ Montpellier, in the south of France."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes explains his three-year absence, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q190" date="1903">
     <p>
       "I trust that age doth not wither nor custom stale my infinite
@@ -2424,7 +2217,6 @@ which the artist takes in his own creation.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q191" date="1903">
     <p>
       "That you, Lestrade?" said Holmes.
@@ -2442,7 +2234,6 @@ fairly well."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Lestrade, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q192" date="1903">
     <p>
       "My collection of M's is a fine one," said he. "Moriarty himself
@@ -2454,7 +2245,6 @@ here is our friend of to-night."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q193" date="1903">
     <p>
       "There are some trees, Watson, which grow to a certain height,
@@ -2468,7 +2258,6 @@ the epitome of the history of his own family."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q194" date="1903">
     <p>
       "Meanwhile, come what may, Colonel Moran will trouble us no
@@ -2480,7 +2269,6 @@ life of London so plentifully presents."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Empty House"</source>
   </quotation>
-
   <quotation id="q195" date="1903">
     <p>
       "With that man in the field, one's morning paper presented
@@ -2498,7 +2286,6 @@ which he had himself done so much to produce.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, on Professor Moriarty, in "The Adventure of the Norwood Builder"</source>
   </quotation>
-
   <quotation id="q196" date="1903">
     <p>
       "You mentioned your name, as if I should recognize it, but I
@@ -2509,7 +2296,6 @@ about you."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Norwood Builder"</source>
   </quotation>
-
   <quotation id="q197" date="1903">
     <p>
       "Arrest you!" said Holmes. "This is really most grati-- most
@@ -2518,7 +2304,6 @@ interesting."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Norwood Builder"</source>
   </quotation>
-
   <quotation id="q198" date="1903">
     <p>
       "But he had not that supreme gift of the artist, the knowledge
@@ -2527,7 +2312,6 @@ of when to stop."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, on Jonas Oldacre, in "The Adventure of the Norwood Builder"</source>
   </quotation>
-
   <quotation id="q199" date="1903">
     <p>
       "These hieroglyphics have evidently a meaning. If it is a purely
@@ -2538,7 +2322,6 @@ bottom of it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dancing Men"</source>
   </quotation>
-
   <quotation id="q200" date="1903">
     <p>
       "I have no desire to make mysteries, but it is impossible at the
@@ -2547,7 +2330,6 @@ moment of action to enter into long and complex explanations."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dancing Men"</source>
   </quotation>
-
   <quotation id="q201" date="1903">
     <p>
       "I am fairly familiar with all forms of secret writings, and am
@@ -2558,7 +2340,6 @@ this is entirely new to me."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dancing Men"</source>
   </quotation>
-
   <quotation id="q202" date="1903">
     <p>
       "As you are aware, E is the most common letter in the English
@@ -2570,7 +2351,6 @@ to set this down as E."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dancing Men"</source>
   </quotation>
-
   <quotation id="q203" date="1903">
     <p>
       "What one man can invent another can discover."
@@ -2578,7 +2358,6 @@ to set this down as E."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dancing Men"</source>
   </quotation>
-
   <quotation id="q204" date="1903">
     <p>
       "I nearly fell into the error of supposing that you were
@@ -2591,7 +2370,6 @@ generate. This lady is a musician."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Solitary Cyclist"</source>
   </quotation>
-
   <quotation id="q205" date="1903">
     <p>
       "Well," said I, "you call that love, Mr. Carruthers, but I
@@ -2603,7 +2381,6 @@ should call it selfishness."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Bob Carruthers, in "The Adventure of the Solitary Cyclist"</source>
   </quotation>
-
   <quotation id="q206" date="1903">
     <p>
       In the whirl of our incessant activity, it has often been
@@ -2615,7 +2392,6 @@ over, the actors have passed for ever out of our busy lives.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Solitary Cyclist"</source>
   </quotation>
-
   <quotation id="q207" date="1904">
     <p>
       His card, which seemed too small to carry the weight of his
@@ -2629,7 +2405,6 @@ majestic figure prostrate and insensible upon our bearskin hearth-rug.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>The entrance of Thorneycroft Huxtable, M.A., Ph.D., in "The Adventure of the Priory School"</source>
   </quotation>
-
   <quotation id="q208" date="1904">
     <p>
       "Now," said Holmes, when the rejoicing lackey had disappeared,
@@ -2639,7 +2414,6 @@ past."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Priory School"</source>
   </quotation>
-
   <quotation id="q209" date="1904">
     <p>
       So unworldly was he -- or so capricious -- that he frequently
@@ -2652,7 +2426,6 @@ and challenged his ingenuity.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson's description of Sherlock Holmes, in "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q210" date="1904">
     <p>
       "There, Watson, this infernal case had haunted me for ten days.
@@ -2661,7 +2434,6 @@ I hereby banish it completely from my presence."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q211" date="1904">
     <p>
       "There can be no question, my dear Watson, of the value of
@@ -2670,7 +2442,6 @@ exercise before breakfast."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q212" date="1904">
     <p>
       "If you could have looked into Allardyce's back shop, you would
@@ -2683,7 +2454,6 @@ would care to try?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q213" date="1904">
     <p>
       "They appear to be lists of Stock Exchange securities. I thought
@@ -2696,7 +2466,6 @@ have been his client."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Hopkins and Sherlock Holmes, in "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q214" date="1904">
     <p>
       It was a long and melancholy vigil, and yet brought with it
@@ -2710,7 +2479,6 @@ some skulking jackal, dangerous only to the weak and unguarded?
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of Black Peter"</source>
   </quotation>
-
   <quotation id="q215" date="1904">
     <p>
       "Do you feel a creeping, shrinking sensation, Watson, when you
@@ -2721,7 +2489,6 @@ faces? Well, that's how Milverton impresses me."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Charles Augustus Milverton"</source>
   </quotation>
-
   <quotation id="q216" date="1904">
     <p>
       "I am aware that what you say is true about the lady's
@@ -2735,7 +2502,6 @@ candelabra and butter-dishes in London."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Charles Augustus Milverton, in "The Adventure of Charles Augustus Milverton"</source>
   </quotation>
-
   <quotation id="q217" date="1904">
     <p>
       "You know, Watson, I don't mind confessing to you that I have
@@ -2750,7 +2516,6 @@ march of civilization demands."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Charles Augustus Milverton"</source>
   </quotation>
-
   <quotation id="q218" date="1904">
     <p>
       "You will remember, Watson, how the dreadful business of the
@@ -2760,7 +2525,6 @@ parsley had sunk into the butter upon a hot day."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q219" date="1904">
     <p>
       No. 131 was one of a row, all flat-chested, respectable, and
@@ -2775,7 +2539,6 @@ in that fellow's round shoulders and outstretched neck."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q220" date="1904">
     <p>
       In rapid succession we passed through the fringe of fashionable
@@ -2787,7 +2550,6 @@ and reek with the outcasts of Europe.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q221" date="1904">
     <p>
       "The Press, Watson, is a most valuable institution, if you only
@@ -2796,7 +2558,6 @@ know how to use it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q222" date="1904">
     <p>
       Lestrade and I sat silent for a moment, and then, with a
@@ -2812,7 +2573,6 @@ moved to its depths by spontaneous wonder and praise from a friend.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q223" date="1904">
     <p>
       "Well," said Lestrade, "I've seen you handle a good many cases,
@@ -2825,7 +2585,6 @@ glad to shake you by the hand."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Six Napoleons"</source>
   </quotation>
-
   <quotation id="q224" date="1904">
     <p>
       "By Jove! my dear fellow, it is nearly nine, and the landlady
@@ -2834,7 +2593,6 @@ babbled of green peas at seven-thirty."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Three Students"</source>
   </quotation>
-
   <quotation id="q225" date="1904">
     <p>
       As I turn over the pages, I see my notes upon the repulsive
@@ -2849,7 +2607,6 @@ President and the Order of the Legion of Honour.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Golden Pince-Nez"</source>
   </quotation>
-
   <quotation id="q226" date="1904">
     <p>
       Outside the wind howled down Baker Street, while the rain beat
@@ -2862,7 +2619,6 @@ the fields.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Golden Pince-Nez"</source>
   </quotation>
-
   <quotation id="q227" date="1904">
     <p>
       "It is indeed, Mr. Holmes. I've had a bustling afternoon, I
@@ -2875,7 +2631,6 @@ editions?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Stanley Hopkins and Sherlock Holmes, in "The Adventure of the Golden Pince-Nez"</source>
   </quotation>
-
   <quotation id="q228" date="1904">
     <p>
       Holmes rose. Taking the forms, he carried them over to the
@@ -2890,7 +2645,6 @@ fact which has dissolved many a happy marriage."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Missing Three-Quarter"</source>
   </quotation>
-
   <quotation id="q229" date="1904">
     <p>
       "He is big enough and old enough to look after himself, and if
@@ -2900,7 +2654,6 @@ responsibility of hunting for him."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Lord Mount-James, on his nephew, in "The Adventure of the Missing Three-Quarter"</source>
   </quotation>
-
   <quotation id="q230" date="1904">
     <p>
       "Come, Watson," said he, and we passed from that house of grief
@@ -2909,7 +2662,6 @@ into the pale sunlight of the winter day.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes's words in the last paragraph of "The Adventure of the Missing Three-Quarter"</source>
   </quotation>
-
   <quotation id="q231" date="1904">
     <p>
       "Come, Watson, come!" he cried. "The game is afoot. Not a word!
@@ -2918,7 +2670,6 @@ Into your clothes and come!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Abbey Grange"</source>
   </quotation>
-
   <quotation id="q232" date="1904">
     <p>
       "Perhaps when a man has special knowledge and special powers
@@ -2928,7 +2679,6 @@ when a simpler one is at hand."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Abbey Grange"</source>
   </quotation>
-
   <quotation id="q233" date="1904">
     <p>
       "We have not yet met our Waterloo, Watson, but this is our
@@ -2937,7 +2687,6 @@ Marengo, for it begins in defeat and ends in victory."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Abbey Grange"</source>
   </quotation>
-
   <quotation id="q234" date="1904">
     <p>
       "Once or twice in my career I feel that I have done more real
@@ -2948,7 +2697,6 @@ the law of England than with my own conscience."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Abbey Grange"</source>
   </quotation>
-
   <quotation id="q235" date="1904">
     <p>
       "And yet the motives of women are so inscrutable. You remember
@@ -2961,7 +2709,6 @@ curling tongs."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Second Stain"</source>
   </quotation>
-
   <quotation id="q236" date="1915">
     <p>
       "I am inclined to think--" said I.
@@ -2972,7 +2719,6 @@ curling tongs."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Opening lines of "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q237" date="1915">
     <p>
       "You have heard me speak of Professor Moriarty?"
@@ -2994,7 +2740,6 @@ learn to guard myself.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q238" date="1915">
     <p>
       "But in calling Moriarty a criminal you are uttering libel in
@@ -3010,7 +2755,6 @@ pension as a solatium for his wounded character."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q239" date="1915">
     <p>
       "Is he not the celebrated author of the Dynamics of an Asteroid,
@@ -3021,7 +2765,6 @@ criticizing it?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, on Professor Moriarty, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q240" date="1915">
     <p>
       "But what can he do?"
@@ -3034,7 +2777,6 @@ back, there are infinite possibilities."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q241" date="1915">
     <p>
       "The next sign is C2. What do you make of that, Watson?"
@@ -3051,7 +2793,6 @@ first one must have been really intolerable."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q242" date="1915">
     <p>
       "Let us consider the claims of Whitaker's Almanac. It is in
@@ -3062,7 +2803,6 @@ remember right, quite garrulous towards the end."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q243" date="1915">
     <p>
       "There, Watson! What do you think of pure reason and its fruit?
@@ -3072,7 +2812,6 @@ Billy round for it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q244" date="1915">
     <p>
       Mediocrity knows nothing higher than itself; but talent
@@ -3081,7 +2820,6 @@ instantly recognizes genius ...
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q245" date="1915">
     <p>
       "Mr. Mac, the most practical thing that you ever did in your
@@ -3093,7 +2831,6 @@ comes up. It's all been done before, and will be again."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q246" date="1915">
     <p>
       "Well, Holmes," I murmured, "have you found anything out?"
@@ -3114,7 +2851,6 @@ that night.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q247" date="1915">
     <p>
       "Breadth of view, my dear Mr. Mac, is one of the essentials of
@@ -3124,7 +2860,6 @@ knowledge are often of extraordinary interest."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q248" date="1915">
     <p>
       "The blunt accusation, the brutal tap upon the shoulder -- what
@@ -3136,7 +2871,6 @@ our life's work?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q249" date="1915">
     <p>
       "A great brain and a huge organization have been turned to the
@@ -3147,7 +2881,6 @@ crushed all the same."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q250" date="1915">
     <p>
       Barker beat his head with his clenched fist in his impotent
@@ -3166,7 +2899,6 @@ still strained to pierce the veil.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>The final paragraphs of "The Valley of Fear"</source>
   </quotation>
-
   <quotation id="q251" date="1917">
     <p>
       The friends of Mr. Sherlock Holmes will be glad to learn that he
@@ -3180,7 +2912,6 @@ determined that his retirement was a permanent one.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From the preface to the collection <cite>His Last Bow</cite>.</source>
   </quotation>
-
   <quotation id="q252" date="1908">
     <p>
       "My mind is like a racing engine, tearing itself to pieces
@@ -3191,7 +2922,6 @@ to have passed forever from the criminal world."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Wisteria Lodge"</source>
   </quotation>
-
   <quotation id="q253" date="1908">
     <p>
       "I'm bound to say that I make nothing of the note except that
@@ -3201,7 +2931,6 @@ bottom of it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Inspector Baynes, in "The Adventure of Wisteria Lodge"</source>
   </quotation>
-
   <quotation id="q254" date="1908">
     <p>
       "Still, it is an error to argue in front of your data. You find
@@ -3210,7 +2939,6 @@ yourself insensibly twisting them round to fit your theories."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Wisteria Lodge"</source>
   </quotation>
-
   <quotation id="q255" date="1908">
     <p>
       "Well, well! What next?" said he. "Brother Mycroft is coming
@@ -3229,7 +2957,6 @@ him?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Watson, in "The Adventure of the Bruce-Partington Plans"</source>
   </quotation>
-
   <quotation id="q256" date="1908">
     <p>
       All other men are specialists, but his specialism is
@@ -3238,7 +2965,6 @@ omniscience.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, on his brother Mycroft, in "The Adventure of the Bruce-Partington Plans"</source>
   </quotation>
-
   <quotation id="q257" date="1908">
     <p>
       "We must fall back upon the old axiom that when all other
@@ -3248,7 +2974,6 @@ truth."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Bruce-Partington Plans"</source>
   </quotation>
-
   <quotation id="q258" date="1910">
     <p>
       A thick, black cloud swirled before my eyes, and my mind told me
@@ -3262,7 +2987,6 @@ threshold, whose very shadow would blast my soul.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Devil's Foot"</source>
   </quotation>
-
   <quotation id="q259" date="1910">
     <p>
       "I have never loved, Watson, but if I did and if the woman I
@@ -3272,7 +2996,6 @@ has done. Who knows?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Devil's Foot"</source>
   </quotation>
-
   <quotation id="q260" date="1911">
     <p>
       He took down the great book in which, day by day, he filed the
@@ -3285,7 +3008,6 @@ unusual!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Red Circle"</source>
   </quotation>
-
   <quotation id="q261" date="1911">
     <p>
       "Education never ends, Watson. It is a series of lessons with
@@ -3294,7 +3016,6 @@ the greatest for the last."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Red Circle"</source>
   </quotation>
-
   <quotation id="q262" date="1911">
     <p>
       "There is one correspondent who is a sure draw, Watson. That is
@@ -3304,7 +3025,6 @@ diaries."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Disappearance of Lady Frances Carfax"</source>
   </quotation>
-
   <quotation id="q263" date="1911">
     <p>
       "Besides, on general principles it is best that I should not
@@ -3314,7 +3034,6 @@ causes an unhealthy excitement among the criminal classes."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Disappearance of Lady Frances Carfax"</source>
   </quotation>
-
   <quotation id="q264" date="1911">
     <p>
       To Holmes I wrote showing how rapidly and surely I had got down
@@ -3324,7 +3043,6 @@ description of Dr. Shlessinger's left ear.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Disappearance of Lady Frances Carfax"</source>
   </quotation>
-
   <quotation id="q265" date="1911">
     <p>
       "And a singularly consistent investigation you have made, my
@@ -3334,7 +3052,6 @@ blunder which you have omitted."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Disappearance of Lady Frances Carfax"</source>
   </quotation>
-
   <quotation id="q266" date="1911">
     <p>
       "Now we will take another line of reasoning. When you follow two
@@ -3344,7 +3061,6 @@ intersection which should approximate to the truth."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Disappearance of Lady Frances Carfax"</source>
   </quotation>
-
   <quotation id="q267" date="1913">
     <p>
       Mrs. Hudson, the landlady of Sherlock Holmes, was a
@@ -3363,7 +3079,6 @@ during the years that I was with him.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q268" date="1913">
     <p>
       She was fond of him, too, for he had a remarkable gentleness and
@@ -3373,7 +3088,6 @@ sex, but he was always a chivalrous opponent.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, describing Sherlock Holmes, in "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q269" date="1913">
     <p>
       "I am somewhat exhausted; I wonder how a battery feels when it
@@ -3382,7 +3096,6 @@ pours electricity into a non-conductor?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q270" date="1913">
     <p>
       "Indeed, I cannot think why the whole bed of the ocean is not
@@ -3393,7 +3106,6 @@ saying, Watson?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q271" date="1913">
     <p>
       "You and I, Watson, we have done our part. Shall the world,
@@ -3402,7 +3114,6 @@ then, be overrun by oysters? No, no; horrible!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q272" date="1913">
     <p>
       "My correspondence, however, is, as you know, a varied one, and
@@ -3411,7 +3122,6 @@ I am somewhat upon my guard against any packages which reach me."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Dying Detective"</source>
   </quotation>
-
   <quotation id="q273" date="1917">
     <p>
       It was nine o'clock at night upon the second of August -- the
@@ -3420,7 +3130,6 @@ most terrible August in the history of the world.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>First sentence of "His Last Bow"</source>
   </quotation>
-
   <quotation id="q274" date="1917">
     <p>
       The secretary chuckled. "She might almost personify Britannia,"
@@ -3430,7 +3139,6 @@ comfortable somnolence."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Baron Von Herling, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q275" date="1917">
     <p>
       "I may say that a good many of these papers have come through
@@ -3441,7 +3149,6 @@ according to the mine-field plans which I have furnished."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q276" date="1917">
     <p>
       "But you, Holmes -- you have changed very little -- save for
@@ -3455,7 +3162,6 @@ dreadful memory."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q277" date="1917">
     <p>
       "With my hair cut and a few other superficial changes I shall no
@@ -3466,7 +3172,6 @@ permanently defiled -- before this American job came my way."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q278" date="1917">
     <p>
       "Here is the fruit of my leisured ease, the magnum opus of my
@@ -3480,7 +3185,6 @@ of London."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q279" date="1917">
     <p>
       "Well, you realize your position, you and your accomplice here.
@@ -3494,7 +3198,6 @@ Dangling Prussian' as a signpost."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Von Bork and Holmes, in "His Last Bow"</source>
   </quotation>
-
   <quotation id="q280" date="1917">
     <p>
       "Good old Watson! You are the one fixed point in a changing age.
@@ -3509,7 +3212,6 @@ early, for the drawer is quite capable of stopping it if he can."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in the final paragraph of "His Last Bow"</source>
   </quotation>
-
   <quotation id="q281" date="1927">
     <p>
       I fear that Mr. Sherlock Holmes may become like one of those
@@ -3529,7 +3231,6 @@ the stage which they have vacated.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From the preface to the collection <cite>The Casebook of Sherlock Holmes</cite>.</source>
   </quotation>
-
   <quotation id="q282" date="1921">
     <p>
       "But why not eat?"
@@ -3544,7 +3245,6 @@ Therefore, it is the brain I must consider."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, in "The Adventure of the Mazarin Stone"</source>
   </quotation>
-
   <quotation id="q283" date="1921">
     <p>
       "It is a small point, Count Sylvius, but perhaps you would
@@ -3556,7 +3256,6 @@ invidious."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Mazarin Stone"</source>
   </quotation>
-
   <quotation id="q284" date="1921">
     <p>
       "No violence, gentlemen -- no violence, I beg of you! Consider
@@ -3565,7 +3264,6 @@ the furniture!"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Mazarin Stone"</source>
   </quotation>
-
   <quotation id="q285" date="1922">
     <p>
       Somewhere in the vaults of the bank of Cox and Co., at Charing
@@ -3575,7 +3273,6 @@ name, John H. Watson, M. D., Late Indian Army, painted upon the lid.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of Thor Bridge"</source>
   </quotation>
-
   <quotation id="q286" date="1922">
     <p>
       Among these unfinished tales is that of Mr. James Phillimore,
@@ -3591,7 +3288,6 @@ remarkable worm said to be unknown to science.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of Thor Bridge"</source>
   </quotation>
-
   <quotation id="q287" date="1922">
     <p>
       "Well, if dollars make no difference to you, think of the
@@ -3605,7 +3301,6 @@ booming."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Neil Gibson and Sherlock Holmes, in "The Adventure of Thor Bridge"</source>
   </quotation>
-
   <quotation id="q288" date="1922">
     <p>
       "You've done yourself no good this morning, Mr. Holmes, for I
@@ -3618,7 +3313,6 @@ better for it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Neil Gibson and Sherlock Holmes, in "The Adventure of Thor Bridge"</source>
   </quotation>
-
   <quotation id="q289" date="1923">
     <p>
       Come at once if convenient -- if inconvenient come all the same.
@@ -3626,7 +3320,6 @@ better for it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>A note from Sherlock Holmes, in "The Adventure of the Creeping Man"</source>
   </quotation>
-
   <quotation id="q290" date="1923">
     <p>
       The relations between us in those latter days were peculiar. He
@@ -3638,7 +3331,6 @@ excusable.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Creeping Man"</source>
   </quotation>
-
   <quotation id="q291" date="1923">
     <p>
       He liked to think aloud in my presence. His remarks could hardly
@@ -3653,7 +3345,6 @@ swiftly.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Creeping Man"</source>
   </quotation>
-
   <quotation id="q292" date="1923">
     <p>
       "A dog reflects the family life. Whoever saw a frisky dog in a
@@ -3664,7 +3355,6 @@ moods may reflect the passing moods of others."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Creeping Man"</source>
   </quotation>
-
   <quotation id="q293" date="1923">
     <p>
       "When one tries to rise above Nature one is liable to fall below
@@ -3673,7 +3363,6 @@ it."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Creeping Man"</source>
   </quotation>
-
   <quotation id="q294" date="1924">
     <p>
       "Matilda Briggs was not the name of a young woman, Watson," said
@@ -3684,7 +3373,6 @@ prepared."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Sussex Vampire"</source>
   </quotation>
-
   <quotation id="q295" date="1924">
     <p>
       "This agency stands flat-footed upon the ground, and there it
@@ -3693,7 +3381,6 @@ must remain. The world is big enough for us. No ghosts need apply."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Sussex Vampire"</source>
   </quotation>
-
   <quotation id="q296" date="1924">
     <p>
       Holmes looked at me thoughtfully and shook his head. "I never
@@ -3703,7 +3390,6 @@ about you."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Sussex Vampire"</source>
   </quotation>
-
   <quotation id="q297" date="1924">
     <p>
       It may have been a comedy, or it may have been a tragedy. It
@@ -3714,7 +3400,6 @@ element of comedy. Well, you shall judge for yourselves.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Opening paragraph of "The Adventure of the Three Garridebs"</source>
   </quotation>
-
   <quotation id="q298" date="1924">
     <p>
       "You say he was affable?"
@@ -3727,7 +3412,6 @@ souls."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson and Holmes, discussing Baron Gruner, in "The Adventure of the Illustrious Client"</source>
   </quotation>
-
   <quotation id="q299" date="1926">
     <p>
       He swung a huge knotted lump of a fist under my friend's nose.
@@ -3740,7 +3424,6 @@ manner became less flamboyant.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Adventure of the Three Gables"</source>
   </quotation>
-
   <quotation id="q300" date="1926">
     <p>
       "But there are always some lunatics about. It would be a dull
@@ -3749,7 +3432,6 @@ world without them."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Three Gables"</source>
   </quotation>
-
   <quotation id="q301" date="1926">
     <p>
       Speaking of my old friend and biographer, I would take this
@@ -3765,7 +3447,6 @@ whom the future is always a closed book, is indeed an ideal helpmate.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, writing in "The Adventure of the Blanched Soldier"</source>
   </quotation>
-
   <quotation id="q302" date="1926">
     <p>
       "I see no more than you, but I have trained myself to notice
@@ -3774,7 +3455,6 @@ what I see."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Blanched Soldier"</source>
   </quotation>
-
   <quotation id="q303" date="1926">
     <p>
       He seemed to live in some high abstract region of surds and
@@ -3783,7 +3463,6 @@ conic sections, with little to connect him with ordinary life.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, describing Ian Murdoch, in "The Adventure of the Lion's Mane"</source>
   </quotation>
-
   <quotation id="q304" date="1926">
     <p>
       "You certainly do things thoroughly, Mr. Holmes."
@@ -3794,7 +3473,6 @@ conic sections, with little to connect him with ordinary life.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Inspector Bardle and Sherlock Holmes, in "The Adventure of the Lion's Mane"</source>
   </quotation>
-
   <quotation id="q305" date="1926">
     <p>
       "I am an omnivorous reader with a strangely retentive memory for
@@ -3803,7 +3481,6 @@ trifles."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Lion's Mane"</source>
   </quotation>
-
   <quotation id="q306" date="1926">
     <p>
       "Exactly, Watson. Pathetic and futile. But is not all life
@@ -3814,7 +3491,6 @@ Or worse than a shadow -- misery."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Retired Colourman"</source>
   </quotation>
-
   <quotation id="q307" date="1926">
     <p>
       "Amberley excelled at chess -- one mark, Watson, of a scheming
@@ -3823,7 +3499,6 @@ mind."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of the Retired Colourman"</source>
   </quotation>
-
   <quotation id="q308" date="1927">
     <p>
       I deprecate, however, in the strongest way the attempts which
@@ -3836,7 +3511,6 @@ the public. There is at least one reader who will understand.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Watson, in "The Adventure of the Veiled Lodger"</source>
   </quotation>
-
   <quotation id="q309" date="1927">
     <p>
       "Your life is not your own," he said. "Keep your hands off it."
@@ -3851,7 +3525,6 @@ the most precious of all lessons to an impatient world."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes and Eugenia Ronder, in "The Adventure of the Veiled Lodger"</source>
   </quotation>
-
   <quotation id="q310" date="1927">
     <p>
       "These are deep waters, Mr. Mason; deep and rather dirty."
@@ -3859,7 +3532,6 @@ the most precious of all lessons to an impatient world."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Sherlock Holmes, in "The Adventure of Shoscombe Old Place"</source>
   </quotation>
-
   <quotation id="q311">
     <p>
       "You will not, I am sure, be offended if I say that any
@@ -3870,7 +3542,6 @@ debutantes who have insisted on plainness in their chaperones?"
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Holmes, to Watson, in "The Field Bazaar"</source>
   </quotation>
-
   <quotation id="q312">
     <p>
       "My small experience of cricket clubs has taught me that next to
@@ -3880,7 +3551,6 @@ earth."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Holmes, in "The Field Bazaar"</source>
   </quotation>
-
   <quotation id="q313">
     <p>
       There are many who will still bear in mind the singular
@@ -3894,7 +3564,6 @@ to the popular imagination.
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>From "The Story of the Man with the Watches"</source>
   </quotation>
-
   <quotation id="q314">
     <p>
       "I do not go so far as to say that the English are more honest
@@ -3903,7 +3572,6 @@ than any other nation, but I have found them more expensive to buy."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Herbert de Lernac, in "The Story of the Lost Special"</source>
   </quotation>
-
   <quotation id="q315">
     <p>
       "Our stoker did his business so clumsily that Slater in his
@@ -3919,5 +3587,4 @@ and I proclaim him to be a flaw."
       <author rdf:resource="http://dbpedia.org/resource/Arthur_Conan_Doyle"></author>
       <source>Herbert de Lernac, in "The Story of the Lost Special"</source>
   </quotation>
-
 </quotations>

@@ -1,166 +1,135 @@
-<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
-<!DOCTYPE quotations [
-  <!ENTITY ccedil "&#231;"> <!-- latin small letter c with cedilla -->
-  <!ENTITY uuml   "&#252;"> <!-- latin small letter u with diaeresis -->
-]>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="http://www.amk.ca/qel/qel.css"?>
-<quotations xmlns="http://www.amk.ca/qel/"
-            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<quotations
+  xmlns="http://www.amk.ca/qel/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <title>Housing Bubble Quotations</title>
   <editor>A.M. Kuchling</editor>
   <description>Noteworthy/amusing quotations from the 2002-2006 housing market..</description>
-
-  <rdf:RDF xmlns="http://web.resource.org/cc/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-    <Work rdf:about="">
-       <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
-       <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
-    </Work>
-
-    <License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
-       <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
-       <permits rdf:resource="http://web.resource.org/cc/Distribution" />
-       <requires rdf:resource="http://web.resource.org/cc/Notice" />
-       <requires rdf:resource="http://web.resource.org/cc/Attribution" />
-       <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-       <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
-    </License>
-
-    </rdf:RDF>
-
-  <quotation date="2005-03-25"><p>
-"South Florida," he said, "is working off of a totally new economic
-model than any of us have ever experienced in the past" according to a
-realtor who predicted that a land shortage will support higher prices
-indefinitely."
-  </p>
-    <source>"Trading Places: Real Estate Instead of Dot-Coms", in the NYT.</source>
-  </quotation>
-
-  <quotation date="2006-02-19"><p>
-    Within a month of putting her two-bedroom house in San Francisco
-    on the market recently, homeowner Linda Gao had five offers, each
-    one above her asking price of $699,000. So before accepting the
-    most-attractive bid, she threw in an extra condition: If you want
-    to buy my house, you have to feed the squirrels.
-  </p><p>
-Two weeks later, she and the buyer hammered out a contract that
-    included feeding the backyard wildlife, which Ms. Gao has done
-    three times a week for the past two years. "I don't think it
-    matters if it's a buyer's market or a seller's market," Ms. Gao
-    says. "Anyone with a good heart would feed them."
-  </p><p>
-    ...
-  </p><p>Indeed, when Susan Butler was negotiating to buy Ms. Gao's
-  San Francisco property, she was resigned to the feeding
-  schedule. "At that point, I said, 'Yeah, what the hell, I'll feed
-  the squirrels,'" she said. She signed a contract in April, paying
-  $815,000 -- or $116,000 over the asking price. Will Ms. Butler
-  actually feed her new furry friends? "Probably not," says the
-  college administrator. "I don't want to encourage other rodents."
+  <quotation id="q1" date="2005-03-25">
+    <p>
+      "South Florida," he said, "is working off of a totally new
+economic model than any of us have ever experienced in the past"
+according to a realtor who predicted that a land shortage will support
+higher prices indefinitely."
     </p>
-    <source>"In a Booming Market, Sellers Can Be Choosers" by Amir Efrati,
-    Wall Street Journal</source>
+      <source>"Trading Places: Real Estate Instead of Dot-Coms", in the NYT.</source>
   </quotation>
-
-  <quotation date="2006-02-19"><p>
-   I was a brand-new investor. I thought I was doing
-   the  right  thing, but it looks like I lost everything. My wife is mad
-   at me.
+  <quotation id="q2" date="2006-02-19">
+    <p>
+      Within a month of putting her two-bedroom house in San Francisco
+on the market recently, homeowner Linda Gao had five offers, each one
+above her asking price of $699,000. So before accepting the
+most-attractive bid, she threw in an extra condition: If you want to
+buy my house, you have to feed the squirrels.
     </p>
-    <source>Massoud Balbas, quoted in the LA Times at
-     http://www.latimes.com/business/la-fi-milehigh19feb19,1,4037969.story?ctrack=1&amp;cset=true</source>
-  </quotation>
-
-  <quotation date="2006-03-07"><p>
-   I think what may happen -- I don't think you'll
-   see  a  reduction  in [intangible] value; let's put it that way. Value
-   and  price are different things. You probably won't see a reduction in
-   value,  but  maybe  in prices, meaning you can pay less but it's worth
-   more.
+    <p>
+      Two weeks later, she and the buyer hammered out a contract that
+included feeding the backyard wildlife, which Ms. Gao has done three
+times a week for the past two years. "I don't think it matters if it's
+a buyer's market or a seller's market," Ms. Gao says. "Anyone with a
+good heart would feed them."
     </p>
-    <source>Realtor Beverly Pindling, quoted in the Orlando Sentinel</source>
-  </quotation>
-
-  <quotation date="2006-07-10"><p>
-Having  followed  this blog a couple weeks now, I think the old saying
-should be amended to:
-"Death, taxes, and Realtors saying <em>now</em> is the time to buy."
+    <p>
+      ...
     </p>
-    <source>Poster "ex-Californian" on http://thehousingbubbleblog.com/?p=1031</source>
+    <p>
+      Indeed, when Susan Butler was negotiating to buy Ms. Gao's San
+Francisco property, she was resigned to the feeding schedule. "At that
+point, I said, 'Yeah, what the hell, I'll feed the squirrels,'" she
+said. She signed a contract in April, paying $815,000 -- or $116,000
+over the asking price. Will Ms. Butler actually feed her new furry
+friends? "Probably not," says the college administrator. "I don't want
+to encourage other rodents."
+    </p>
+      <source>"In a Booming Market, Sellers Can Be Choosers" by Amir Efrati, Wall Street Journal</source>
   </quotation>
-
-  <quotation date="2006-07-07"><p>
-I'm so mad at my neighbor. I bought my new home here in Ashburn last
-summer and plan to sell it next year (after holding two years to avoid
-taxes) to make a nice return on my investment. The problem is my
+  <quotation id="q3" date="2006-02-19">
+    <p>
+      I was a brand-new investor. I thought I was doing the right
+thing, but it looks like I lost everything. My wife is mad at me.
+    </p>
+      <source>Massoud Balbas, quoted in the LA Times at http://www.latimes.com/business/la-fi-milehigh19feb19,1,4037969.story?ctrack=1&amp;cset=true</source>
+  </quotation>
+  <quotation id="q4" date="2006-03-07">
+    <p>
+      I think what may happen -- I don't think you'll see a reduction
+in [intangible] value; let's put it that way. Value and price are
+different things. You probably won't see a reduction in value, but
+maybe in prices, meaning you can pay less but it's worth more.
+    </p>
+      <source>Realtor Beverly Pindling, quoted in the Orlando Sentinel</source>
+  </quotation>
+  <quotation id="q5" date="2006-07-10">
+    <p>
+      Having followed this blog a couple weeks now, I think the old
+saying should be amended to: "Death, taxes, and Realtors saying
+<em>now</em> is the time to buy."
+    </p>
+      <source>Poster "ex-Californian" on http://thehousingbubbleblog.com/?p=1031</source>
+  </quotation>
+  <quotation id="q6" date="2006-07-07">
+    <p>
+      I'm so mad at my neighbor. I bought my new home here in Ashburn
+last summer and plan to sell it next year (after holding two years to
+avoid taxes) to make a nice return on my investment. The problem is my
 neighbor is trying to sell his house (very similar to mine) right now
 and he keeps lowering his asking price. Each time he lowers his price,
 I see my potential profits next year getting squashed. Doesn't he
 realize he's hurting the comps for all of his neighbors by doing this?
 I don't think he is acting very "neighborly" by doing this. I want to
 say something to him and tell him he should stop putting his interests
-ahead of his neighbors. It's people like him who are ruining the market
-for the rest of us. If he would just refuse to lower his price, we
-could maintain our comps and everyone would benefit. What can I do to
-stop him?
+ahead of his neighbors. It's people like him who are ruining the
+market for the rest of us. If he would just refuse to lower his price,
+we could maintain our comps and everyone would benefit. What can I do
+to stop him?
     </p>
-    <source>Question during a real estate chat held by the Washington Post.</source>
+      <source>Question during a real estate chat held by the Washington Post.</source>
   </quotation>
-
-  <quotation date="2006-07-08"><p>
-The increase in housing inventory might help push prices higher, said
-Marilyn Newell of the Platinum Group Realtors in the Springs and
-another Realtors Association board member.
-A surplus means buyers have more choices and homes on the market must
-be well-kept and competitively priced, she said. "Because we don't
-have as many buyers," Newell said, "they have the luxury of going with
-the home that is in perfect shape.
+  <quotation id="q7" date="2006-07-08">
+    <p>
+      The increase in housing inventory might help push prices higher,
+said Marilyn Newell of the Platinum Group Realtors in the Springs and
+another Realtors Association board member. A surplus means buyers have
+more choices and homes on the market must be well-kept and
+competitively priced, she said. "Because we don't have as many
+buyers," Newell said, "they have the luxury of going with the home
+that is in perfect shape.
     </p>
-    <source>"June supply of homes highest in 17 years" by Rich Laden,
-      Colorado Springs Gazette.</source>
+      <source>"June supply of homes highest in 17 years" by Rich Laden, Colorado Springs Gazette.</source>
   </quotation>
-
-  <quotation date="2006-08-02"><p>
-Perth couple Brian and Eileen Bowden are among thousands reaping the
-benefits of the state's robust economy as they prepare to extract a
-$100,000 profit on their home in just six weeks. "The people who we
+  <quotation id="q8" date="2006-08-02">
+    <p>
+      Perth couple Brian and Eileen Bowden are among thousands reaping
+the benefits of the state's robust economy as they prepare to extract
+a $100,000 profit on their home in just six weeks. "The people who we
 bought this house from made $100,000 off us, so it's a non-stop
 cycle," Mr Bowden said.
     </p>
-    <source>"West shows way but east trembles" by Anthony Klan and Alana
-    Buckley-Carr, The Australian.</source>
-  <!-- http://www.theaustralian.news.com.au/story/0,20867,19990875-25658,00.html -->
+      <source>"West shows way but east trembles" by Anthony Klan and Alana Buckley-Carr, The Australian.</source>
   </quotation>
-
-  <quotation date="2006-08-17"><p>
-Available listings as of Aug. 1 totaled 9,555, up 68.9 percent from a
-year  ago.  `That's  a  big  number,'  said  Portland  economist Jerry
+  <quotation id="q9" date="2006-08-17">
+    <p>
+      Available listings as of Aug. 1 totaled 9,555, up 68.9 percent
+from a year ago. `That's a big number,' said Portland economist Jerry
 Johnson.
     </p>
-    <source>"Housing boom might be kaput" by Dylan Rivera,
-     <cite>The Oregonian</cite>.
-    <!--  http://www.oregonlive.com/business/oregonian/index.ssf?/base/business/1155696905214750.xml&coll=7
-    -->
-    </source>
+      <source>"Housing boom might be kaput" by Dylan Rivera, <cite>The Oregonian</cite>.</source>
   </quotation>
-
-  <quotation date="2006-09-06"><p>
-"In Jackson [Wyoming], the market doesn't really go down," said
+  <quotation id="q10" date="2006-09-06">
+    <p>
+      "In Jackson [Wyoming], the market doesn't really go down," said
 (realtor) Linda Walker. Broker Ryan Olsen agrees. "We are immune to
-the up and down treads that plague many real estate markets," he
-says. "Our real estate market is essentially quite 'bullet proof'!"
+the up and down treads that plague many real estate markets," he says.
+"Our real estate market is essentially quite 'bullet proof'!"
     </p>
-    <source>"Un-Real Estate" by Jake Nichols, on <cite>Planet Jackson Hole</cite>.
-  <!-- http://www.planetjh.com/nichols_2006_09_06_real.html -->
-     </source>
+      <source>"Un-Real Estate" by Jake Nichols, on <cite>Planet Jackson Hole</cite>.</source>
   </quotation>
-
-  <quotation date="2006-09-06"><p>
-When buying, Miller also likes to strike quickly and he expects the
-same when he's selling. "I don't haggle much over the price," he
+  <quotation id="q11" date="2006-09-06">
+    <p>
+      When buying, Miller also likes to strike quickly and he expects
+the same when he's selling. "I don't haggle much over the price," he
 admits. "I don't beat the owner up over one of the stove elements or
 something when I'm trying to buy a property. I'm trying to sell a
 condominium right now that will make me a $200,000 gain in 11 months
@@ -169,71 +138,68 @@ have to be replaced in a couple years. So he's gonna lose a fair deal
 there in the Village. Do you think I'm gonna replace the roof? If we
 were in a depressed market, maybe, but [I'm thinking] 'next!'"
     </p>
-    <source>"Un-Real Estate" by Jake Nichols, on <cite>Planet Jackson Hole</cite>.
-  <!-- http://www.planetjh.com/nichols_2006_09_06_real.html -->
-     </source>
+      <source>"Un-Real Estate" by Jake Nichols, on <cite>Planet Jackson Hole</cite>.</source>
   </quotation>
-
-  <quotation date="2006-09-10"><p>
-   Developer Cary Glickstein said last week he has canceled The Strand condo in downtown Delray Beach and returned $15 million in deposits. ...
-
-Another factor that ended the project: Glickstein's buyers were tired of the waiting game. The final straw was seeing one buyer, "near tears," come into the sales office, Glickstein said. The buyer had used his daughter's college tuition for his down payment.
+  <quotation id="q12" date="2006-09-10">
+    <p>
+      Developer Cary Glickstein said last week he has canceled The
+Strand condo in downtown Delray Beach and returned $15 million in
+deposits. ... Another factor that ended the project: Glickstein's
+buyers were tired of the waiting game. The final straw was seeing one
+buyer, "near tears," come into the sales office, Glickstein said. The
+buyer had used his daughter's college tuition for his down payment.
     </p>
-    <source>"Complex owners' dilemma: Condos or apartments?" by Alexandra Clough,
-    in the <cite>Palm Beach Post</cite></source>
+      <source>"Complex owners' dilemma: Condos or apartments?" by Alexandra Clough, in the <cite>Palm Beach Post</cite></source>
   </quotation>
-
-  <quotation date="2006-09-12"><p>
-   Buyers bonuses [sic], price reduced, chance to win $25,000 - are these
-   signs that Western Washington is becoming a buyer's market?  ...
-   "I would say it is a buyer's market with a very strong seller's
-   influence," said realtor T.C. Hyatt, John L. Scott Real Estate.
+  <quotation id="q13" date="2006-09-12">
+    <p>
+      Buyers bonuses [sic], price reduced, chance to win $25,000 - are
+these signs that Western Washington is becoming a buyer's market? ...
+"I would say it is a buyer's market with a very strong seller's
+influence," said realtor T.C. Hyatt, John L. Scott Real Estate.
     </p>
-    <source>"Home sales slowed, but outlook still good" by Jane McCarthy,
-      KING5 News in Seattle</source>
+      <source>"Home sales slowed, but outlook still good" by Jane McCarthy, KING5 News in Seattle</source>
   </quotation>
-
-  <quotation date="2006-09-14"><p>
-Mozilo reached out to borrowers as part of a "little experiment" to
-understand the reasoning behind making only minimum payments on
+  <quotation id="q14" date="2006-09-14">
+    <p>
+      Mozilo reached out to borrowers as part of a "little experiment"
+to understand the reasoning behind making only minimum payments on
 so-called pay-option loans, a practice that boosts the total amount
 due, the 67-year-old CEO told investors Wednesday in New York.
-</p><p>
-"What we're finding out is that they're pretty smart," Mozilo
+    </p>
+    <p>
+      "What we're finding out is that they're pretty smart," Mozilo
 said. "It's like voters: Individually they're sort of idiots, but
 collectively they seem to make the right decisions."
     </p>
-    <source>"CEO Makes Call on Pay-Option Loans: It's Risky", from
-      Bloomberg News.</source>
+      <source>"CEO Makes Call on Pay-Option Loans: It's Risky", from Bloomberg News.</source>
   </quotation>
-
-  <quotation date="2006-11-02"><p>
-Having depleted their savings to pay for this, they've had to seriously cut back on spending. They went without air conditioning this past summer, despite sweltering heat and the fact that Judy was eight months pregnant.
-</p><p>
-They've also put off fixing the brakes of their second car, which the mechanic says should be replaced soon. "We don't spend money on anything that isn't critical," says Judy. "Everything goes toward the mortgages."
+  <quotation id="q15" date="2006-11-02">
+    <p>
+      Having depleted their savings to pay for this, they've had to
+seriously cut back on spending. They went without air conditioning
+this past summer, despite sweltering heat and the fact that Judy was
+eight months pregnant.
     </p>
-    <source>"Slow-market crisis: Stuck with two homes", in <cite>Money</cite></source>
-  </quotation>
-
-  <quotation date="2006-08-25"><p>
-Sara Babylon tried having open houses as a
-   way  to  sell  her  Spanish  Springs home for almost three months. But
-   instead  of  a  flood of interest, she barely had a trickle. `The last
-   open house, not one person came by and I was like OK, that's it,' said
-   Babylon."
-</p><p>
-   "So  Babylon  decided to offer a free 1992 Jeep Wrangler with purchase
-   at  asking  price.
+    <p>
+      They've also put off fixing the brakes of their second car,
+which the mechanic says should be replaced soon. "We don't spend money
+on anything that isn't critical," says Judy. "Everything goes toward
+the mortgages."
     </p>
-    <source>"Spanish Springs residents find creative ways to help sell home" by
-Annie Flanzraich, Reno Gazette-Journal</source>
+      <source>"Slow-market crisis: Stuck with two homes", in <cite>Money</cite></source>
   </quotation>
-
-<!--
-  <quotation date=""><p>
+  <quotation id="q16" date="2006-08-25">
+    <p>
+      Sara Babylon tried having open houses as a way to sell her
+Spanish Springs home for almost three months. But instead of a flood
+of interest, she barely had a trickle. `The last open house, not one
+person came by and I was like OK, that's it,' said Babylon."
     </p>
-    <source></source>
+    <p>
+      "So Babylon decided to offer a free 1992 Jeep Wrangler with
+purchase at asking price.
+    </p>
+      <source>"Spanish Springs residents find creative ways to help sell home" by Annie Flanzraich, Reno Gazette-Journal</source>
   </quotation>
--->
-
 </quotations>
