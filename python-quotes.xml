@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE quotations [
   <!ENTITY ccedil "&#231;"> <!-- latin small letter c with cedilla -->
   <!ENTITY uuml   "&#252;"> <!-- latin small letter u with diaeresis -->
@@ -2530,7 +2530,7 @@ $      (21.76) Total Profit (Loss)
       piece of art. I just hope the artist will not get too tainted by
       usability studies.
     </p>
-    <source>François Pinard, 22 May 2000</source>
+    <source>FranÃ§ois Pinard, 22 May 2000</source>
   </quotation>
 
   <quotation id="q231">
@@ -3083,7 +3083,7 @@ $      (21.76) Total Profit (Loss)
       stream with Python, and vice versa (feed a Python SAX stream into
       Xalan). Bi-SAXuality, in a sense. :)
     </p>
-    <source>Jürgen Hermann, 11 Apr 2001</source>
+    <source>JÃ¼rgen Hermann, 11 Apr 2001</source>
   </quotation>
 
   <quotation id="q283">
