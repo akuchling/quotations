@@ -334,7 +334,7 @@ sticking to the matter at hand.
       There is more. There is much more. It all adds up to a great
 deal less.
     </p>
-      <author>Roger Ebert</author>
+      <author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
       <source>Reviewing <cite>Heaven's Gate</cite></source>
   </quotation>
   <quotation id="q37">
@@ -2002,6 +2002,13 @@ curiosity killed the cat, I say only the cat died nobly.
     </p>
       <author>Arnold Edinborough</author>
   </quotation>
+<quotation date="2011"><p>
+Nobody ever makes you do anything.  What they want to do is their
+decision.  What you do is yours.
+</p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
+<source>In <cite>Life Itself: A Memoir</cite></source>
+</quotation>
+
   <quotation id="q219">
     <p>
       Man is ready to die for an idea, provided that idea is not quite
@@ -3053,6 +3060,21 @@ shall be deemed to be a cat.
     </p>
       <author>Rule 46, Oxford Union Society</author>
   </quotation>
+<quotation date="2011"><p>
+I have had cats and I was fond of them, fonder than they ever were of
+me. But what I want is unconditional love, and therefore I want a
+dog. I want to make its life a joy.  I want to scratch behind its
+ears, and scratch its belly when it rolls over.  I want to gently
+extend its tail so the dog can tell it has a fine tail indeed. I want
+to give it a shampoo, and sneak it bites from the table, and let it
+exchange the news with other dogs we meet on the street.  I want it to
+bark at the doorbell, be joyous to see my loved ones, shake hands, and
+look concerned if I seem depressed.  If I throw a ball I want the dog
+to bring back the ball and ask me to throw it again.
+</p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
+<source>In <cite>Life Itself: A Memoir</cite></source>
+</quotation>
+
   <quotation id="q340">
     <p>
       The people I distrust most are those who want to improve our
@@ -3964,7 +3986,7 @@ hand receiveth most harm and mischief.
 uncontrollably at having written the words "the plot involves". I'm
 back. The plot involves a mysterious painter...
     </p>
-      <author>Roger Ebert</author>
+      <author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
       <source>Reviewing <cite>The Beyond</cite></source>
   </quotation>
   <quotation id="q443">
@@ -6212,6 +6234,23 @@ thought has abandoned them.
     </p>
       <author>John Simon</author>
   </quotation>
+
+<quotation date="2011"><p>
+[I] am awed by people who take the risks of performance.  I become
+their advocate and find myself in sympathy.  I can employ
+scorched-earth tactics in writing about a bad movie, but I rarely
+write sharp criticism of actors themselves.  If they're  good in a
+movie, they must have done something right.  If they're bad, it may
+have been the fault of filming conditions or editing choices.  Perhaps
+they may simply have been bad.  I feel reluctant to write in a hurtful
+way; not always, but usually.  I feel repugnance for the critic John
+Simon, who made it a speciality to attack the way actors look. They
+can't help how they look, any more than John Simon can help looking
+like a rat.
+</p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
+<source>In <cite>Life Itself: A Memoir</cite></source>
+</quotation>
+
   <quotation id="q671">
     <p>
       MAN: But I am a man.
@@ -7080,6 +7119,19 @@ whisper of crashing software.
     </p>
       <author>Gerard Stafleu</author>
   </quotation>
+<quotation date="2011"><p>
+"Kindness" covers all of my political beliefs. No need to spell them
+out. I believe that if, at the end of it all, according to our
+abilities, we have done something to make others a little happier, and
+something to make ourselves a little happier, that is about the best
+we can do. To make others less happy is a crime. To make ourselves
+unhappy is where all crime starts. We must try to contribute joy to
+the world. That is true no matter what our problems, our health, our
+circumstances. We must try. I didn't always know this, and am happy I
+lived long enough to find it out.
+</p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
+<source>In <cite>Life Itself: A Memoir</cite></source>
+</quotation>
   <quotation id="q749">
     <p>
       One thing they don't tell you about doing experimental physics
@@ -8694,7 +8746,7 @@ ours.
       The movie never ends, but if you wait long enough it gets to a
 point where it's over.
     </p>
-      <author>Roger Ebert</author>
+      <author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
       <source>Reviewing <cite>Tidal Wave</cite></source>
   </quotation>
   <quotation id="q884" date="1997">
@@ -9557,6 +9609,12 @@ of massive reinforcement.
   statements. (As you can see, I like a lot of final statements, and
   will probably die in silence while trying to decide between a dozen
   possible last words.)
+
+<quotation date=""><p>
+</p><author></author>
+<source></source>
+</quotation>
+
 -->
 
 
@@ -9622,6 +9680,20 @@ often it is comic.
       <author>John Ralston Saul</author>
       <source><cite>On Equilibrium</cite></source>
   </quotation>
+<quotation date="2011"><p>
+I know it is coming, and I do not fear it, because I believe there is
+nothing on the other side of death to fear. I hope to be spared as
+much pain as possible on the approach path. I was perfectly content
+before I was born, and I think of death as the same state. What I am
+grateful for is the gift of intelligence, and for life, love, wonder,
+and laughter. You can't say it wasn't interesting. My lifetime's
+memories are what I have brought home from the trip. I will require
+them for eternity no more than that little souvenir of the Eiffel
+Tower I brought home from Paris.
+</p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
+<source>In <cite>Life Itself: A Memoir</cite></source>
+</quotation>
+
   <quotation id="q943">
     <p>
       It is unfortunate, however, that even a well-ordered life cannot
