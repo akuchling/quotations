@@ -860,7 +860,7 @@ open; but I have, as yet, to be convinced. I am perfectly willing, but
 the evidence must be sane and conclusive.
     </p>
       <author>Harry Houdini</author>
-      <source>In <cite>Houdini on Magic</cite></source>
+      <source><cite>Houdini on Magic</cite></source>
   </quotation>
   <quotation id="q92">
     <p>
@@ -2006,7 +2006,7 @@ curiosity killed the cat, I say only the cat died nobly.
 Nobody ever makes you do anything.  What they want to do is their
 decision.  What you do is yours.
 </p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
-<source>In <cite>Life Itself: A Memoir</cite></source>
+<source><cite>Life Itself: A Memoir</cite></source>
 </quotation>
 
   <quotation id="q219">
@@ -2407,7 +2407,7 @@ also simplifies modifying the program, should the value of pi change.
     </p>
       <author>From a Fortran manual for Xerox computers</author>
   </quotation>
-  <quotation id="q264">
+  <quotation id="q264" date="1982">
     <p>
       As with most fine things, chocolate has its season. There is a
 simple memory aid that you can use to determine whether it is the
@@ -2415,7 +2415,7 @@ correct time to order chocolate dishes: any month whose name contains
 the letter A, E, or U is the proper time for chocolate.
     </p>
       <author>Sandra Boynton</author>
-      <source>"Chocolate: The Consuming Passion"</source>
+      <source><cite>Chocolate: The Consuming Passion</cite></source>
   </quotation>
   <quotation id="q265">
     <p>
@@ -3072,7 +3072,7 @@ bark at the doorbell, be joyous to see my loved ones, shake hands, and
 look concerned if I seem depressed.  If I throw a ball I want the dog
 to bring back the ball and ask me to throw it again.
 </p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
-<source>In <cite>Life Itself: A Memoir</cite></source>
+<source><cite>Life Itself: A Memoir</cite></source>
 </quotation>
 
   <quotation id="q340">
@@ -6248,7 +6248,7 @@ Simon, who made it a speciality to attack the way actors look. They
 can't help how they look, any more than John Simon can help looking
 like a rat.
 </p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
-<source>In <cite>Life Itself: A Memoir</cite></source>
+<source><cite>Life Itself: A Memoir</cite></source>
 </quotation>
 
   <quotation id="q671">
@@ -7130,7 +7130,7 @@ the world. That is true no matter what our problems, our health, our
 circumstances. We must try. I didn't always know this, and am happy I
 lived long enough to find it out.
 </p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
-<source>In <cite>Life Itself: A Memoir</cite></source>
+<source><cite>Life Itself: A Memoir</cite></source>
 </quotation>
   <quotation id="q749">
     <p>
@@ -9183,7 +9183,7 @@ he began laughing, because he, of all people, couldn't get out of a
 Ford coupe.
     </p>
       <author>Walter B. Gibson</author>
-      <source>In <cite>Houdini on Magic</cite></source>
+      <source><cite>Houdini on Magic</cite></source>
   </quotation>
   <quotation id="q914" date="2004">
     <p>
@@ -9691,7 +9691,7 @@ memories are what I have brought home from the trip. I will require
 them for eternity no more than that little souvenir of the Eiffel
 Tower I brought home from Paris.
 </p><author rdf:resource="http://dbpedia.org/resource/Roger_Ebert">Roger Ebert</author>
-<source>In <cite>Life Itself: A Memoir</cite></source>
+<source><cite>Life Itself: A Memoir</cite></source>
 </quotation>
 
   <quotation id="q943">
