@@ -401,12 +401,13 @@ things properly."
       <author>Edmund Carpenter</author>
       <source><cite>Eskimo</cite></source>
   </quotation>
-  <quotation id="q43">
+  <quotation id="q43" date="1917">
     <p>
       Everything of importance has been said before by somebody who
 did not discover it.
     </p>
-      <author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
+    <author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
+     <source>In <cite>The Organisation of Thought</cite></source>
   </quotation>
   <quotation id="q44">
     <p>
@@ -4124,22 +4125,23 @@ endlessly stupid.
     </p>
       <author>Brian E. Moore</author>
   </quotation>
-  <quotation id="q456">
+  <quotation id="q456" date="1929">
     <p>
       "Necessity is the mother of invention" is a silly proverb.
 "Necessity is the mother of futile dodges" is much closer to the
 truth. The basis of growth of modern invention is science, and science
 is almost wholly the outgrowth of pleasurable intellectual curiosity.
     </p>
-      <author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
+    <author rdf:resource="http://dbpedia.org/resource/Alfred_North_Whitehead">Alfred North Whitehead</author>
+    <source>In <cite>The Aims of Education and other Essays</cite></source>
   </quotation>
-  <quotation id="q457">
+  <quotation id="q457" date="1957">
     <p>
-      I have yet to see any problem, however complicated, which, when
-you looked at it in the right way, did not become still more
-complicated.
+      I've yet to see any problem, however complicated, which when
+you looked at it the right way didn't become still more complicated.
     </p>
-      <author>Poul Anderson</author>
+    <author>Poul Anderson</author>
+    <source>From "Call Me Joe"</source>
   </quotation>
   <quotation id="q458">
     <p>
@@ -4152,7 +4154,7 @@ darkness.
   </quotation>
   <quotation id="q459">
     <p>
-      <foreign>Fiat justitia, ruat coelum</foreign>. (Do the right
+      <foreign>Fiat justitia, ruat caelum</foreign>. (Do the right
 thing even if the heavens fall.) It's not nearly as naïve a maxim as
 it seems, because in the real world it often turns out that doing what
 is morally the right thing is also, in practical terms, the right
@@ -7253,7 +7255,7 @@ Toontown in the movie <cite>Who Framed Roger Rabbit?</cite>
       <author>Michael Heim</author>
       <source>From the glossary of <cite>The Metaphysics of Virtual Reality</cite></source>
   </quotation>
-  <quotation id="q761">
+  <quotation id="q761" date="1999-05-10">
     <p>
       It makes more sense to distinguish <em>different kinds</em> of
 causes, rather than caused versus uncaused actions, or causes we know
@@ -7263,7 +7265,7 @@ tiger, then we don't punish him. If we find he did it because
 physiologically, he's a jerk, then we do.
     </p>
       <author>Paul Filseth</author>
-      <source>In <cite>alt.atheism.moderated</cite>, 10 May 1999</source>
+      <source>In a post to <cite>alt.atheism.moderated</cite>, 10 May 1999</source>
   </quotation>
   <quotation id="q762">
     <p>
@@ -7699,8 +7701,8 @@ have sunk into oblivion.
   </quotation>
   <quotation id="q799">
     <p>
-      Upon my desk lies Wired Style: Principles of English Usage in
-the Digital Age, a title nearly as offensive in concept as it is in
+      Upon my desk lies <cite>Wired Style: Principles of English Usage in
+the Digital Age</cite>, a title nearly as offensive in concept as it is in
 execution. Its creators somehow managed to forsake the Wired "my brain
 is melting" color scheme, but its lime green pages, wire binding, and
 flourescent orange cardboard casing embody the same principle of flash
@@ -8162,13 +8164,13 @@ who lives a happy and useful life, and dies in his sleep at the age of
       <author rdf:resource="http://dbpedia.org/resource/Vladimir_Nabokov">Vladimir Nabokov</author>
       <source>Writing in defence of his novel <cite>Lolita</cite></source>
   </quotation>
-  <quotation id="q839">
+  <quotation id="q839" date="1998-09-19">
     <p>
       It's easy to understand a fundamentalist world. It's just
 impossible to live in one.
     </p>
       <author>Ian Brown</author>
-      <source>In a review of the Starr report in the Globe &amp; Mail, 09/19/1998</source>
+      <source>In a review of the Starr report in the Globe &amp; Mail, Sept. 19 1998</source>
   </quotation>
   <quotation id="q840">
     <p>
@@ -8253,7 +8255,7 @@ sudden cry, could mean a lifetime's talk is over.
       <author>Brian Moore</author>
       <source><cite>The Luck of Ginger Coffey</cite></source>
   </quotation>
-  <quotation id="q847">
+  <quotation id="q847" date="1983-03-29">
     <p>
       So, if this were indeed my Final Hour, these would be my words
 to you. I would not claim to pass on any secret of life, for there is
@@ -8265,7 +8267,8 @@ in the eternal scheme of things you are small, you are also unique and
 irreplaceable, as are all of your fellow humans everywhere in the
 world. Know that your commitment is above all to life itself.
     </p>
-      <author>Margaret Laurence</author>
+    <author>Margaret Laurence</author>
+    <source>From an address to the Trent University Philosophy Society</source>
   </quotation>
   <quotation id="q848">
     <p>
@@ -8465,7 +8468,7 @@ translucent tissue.
       <author>Charles LeBaron</author>
       <source>Quoted in Christine Quigley's <cite>The Corpse: A History</cite></source>
   </quotation>
-  <quotation id="q860">
+  <quotation id="q860" date="2000-10-03">
     <p>
       My father looked at me sternly with that look I would learn to
 know so well, and said: "Justin, on n'attaque jamais l'individu. On
@@ -8568,7 +8571,8 @@ of anything. / Will be the last we know of all this stuff. / It will
 be there for others, seekers of / Things that remain of us, who then
 are nothing.
     </p>
-      <author>Anthony Thwaite</author>
+    <author>Anthony Thwaite</author>
+    <source>"Archaeology", from the collection <cite>A Move in the Weather</cite></source>
     <note>
       <p>
         Quoted in <cite>Archaeology</cite>, March/April 2001
@@ -8705,7 +8709,8 @@ enemy drowning in a swamp and jumping in after him with a knife.
       None could break the Web, no wings of fire. / So twisted the
 cords, &amp; so knotted / The meshes: twisted like to the human brain.
     </p>
-      <author rdf:resource="http://dbpedia.org/resource/William_Blake">William Blake</author>
+    <author rdf:resource="http://dbpedia.org/resource/William_Blake">William Blake</author>
+    <source><cite>The Book of Urizen</cite></source>
   </quotation>
   <quotation id="q879">
     <p>
@@ -8731,7 +8736,7 @@ necessarily good; and that all questions are open.
       When one has stopped loving somebody, one feels that he has
 become someone else, even though he is still the same person.
     </p>
-      <author rdf:resource="http://dbpedia.org/resource/Sei_ShÅnagon">Sei ShÅnagon</author>
+      <author rdf:resource="http://dbpedia.org/resource/Sei_Shōnagon">Sei Shōnagon</author>
       <source><cite>The Pillow Book</cite></source>
   </quotation>
   <quotation id="q882">
@@ -8916,7 +8921,7 @@ price of participating in online communities. It's violence, it's an
 attack, and I despise the people who make excuses for it.
     </p>
       <author>Carla Schroder</author>
-      <source>From http://www.oreillynet.com/linux/blog/2007/03/open_season_on_women.html</source>
+      <source>From http://archive.oreilly.com/pub/post/open_season_on_women.html</source>
   </quotation>
   <quotation id="q894" date="2001">
     <p>
@@ -9014,11 +9019,8 @@ somebody else's cow. Anyway, we needed the milk."
 positive one's parenting experience.
     </p>
       <author>Sandra Tsing Loh</author>
-    <note>
-      <p>
-        In the May 2003 issue of <cite>The Atlantic Monthly</cite>.
-      </p>
-    </note>
+      <source>From "The Baby Experts", in the May 2003 issue of <cite>The Atlantic</cite>.
+      </source>
   </quotation>
   <quotation id="q900" date="2009">
     <p>
@@ -9086,7 +9088,7 @@ show me.'"
     <p>
       "Or less Canadianly, 'Shut up and show me the code.'"
     </p>
-      <author>Tim Bray and John Cowan on xml-dev</author>
+      <author>Tim Bray and John Cowan on the xml-dev mailing list</author>
   </quotation>
   <quotation id="q906">
     <p>
@@ -9095,12 +9097,13 @@ multitude of words can do towards obliterating meaning.
     </p>
       <author>Sir John Herschel</author>
   </quotation>
-  <quotation id="q907" date="2003">
+  <quotation id="q907" date="2003-10-01">
     <p>
       As far as I can tell, calling something philosophical is like
 greasing a pig to make it hard to catch.
     </p>
-      <author>Eric Pepke</author>
+    <author>Eric Pepke</author>
+    <source>In a post to <cite>alt.atheism.moderated</cite></source>
   </quotation>
   <quotation id="q908" date="1990">
     <p>
@@ -9264,7 +9267,7 @@ lose their potential as they approach their own expiration.
       <author>Emanuel Derman</author>
       <source><cite>My Life as a Quant</cite></source>
   </quotation>
-  <quotation id="q920" date="2000-07-26">
+  <quotation id="q920" date="1998-01-27">
     <p>
       I come from a people who gave the ten commandments to the world.
 Time has come to strengthen them by three additional ones, which we
@@ -9272,7 +9275,8 @@ ought to adopt and commit ourselves to: thou shalt not be a
 perpetrator; thou shalt not be a victim; and thou shalt never, but
 never, be a bystander.
     </p>
-      <author>Yehuda Bauer</author>
+    <author>Yehuda Bauer</author>
+    <source>From a speech delivered to the German Bundestag</source>
   </quotation>
   <quotation id="q921" date="2005-12-31">
     <p>
