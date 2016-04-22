@@ -8058,17 +8058,18 @@ to laugh or to cry.
       <author rdf:resource="http://dbpedia.org/resource/Mark_Twain">Mark Twain</author>
       <source><cite>Europe and Elsewhere</cite></source>
   </quotation>
-  <quotation id="q830">
+  <quotation id="q830" date="1797-10-16">
     <p>
       ... from my early reading of fairy tales and genii etc. etc. my
-mind had been habituated <em>to the Vast</em> and I never regarded
-<em>my senses</em> in any way as the criteria of my belief. . . .
+mind had been <em>habituated to the Vast</em> and I never regarded
+my senses in any way as the criteria of my belief. . . .
 Should children be permitted to read romances, and relations of giants
 and magicians and genii? I know all that has been said against it; but
 I have formed my faith in the affirmative. I know no other way of
 giving the mind a love of the Great and the Whole.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Samuel_Taylor_Coleridge">Samuel Taylor Coleridge</author>
+      <source>From a letter to Thomas Poole</source>
   </quotation>
   <quotation id="q831">
     <p>
