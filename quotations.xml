@@ -77,8 +77,9 @@ grinding out general laws out of a large collection of facts," the
 truth was he only felt himself when immersed in some demanding new
 project.
     </p>
-      <author rdf:resource="http://dbpedia.org/resource/Charles_Darwin">Charles Darwin</author>
-      <source>Quoted in <cite>Charles Darwin: The Power of Place</cite> (2002), Janet Browne.</source>
+      <author
+	  rdf:resource="http://dbpedia.org/resource/Janet_Browne">Janet Browne</author>
+      <source>In <cite>Charles Darwin: The Power of Place</cite> (2002).</source>
   </quotation>
   <quotation id="q9">
     <p>
@@ -431,7 +432,7 @@ intellect, a man not finally reducible to the criteria by which we
 comprehend our fellow beings.
     </p>
       <author>Richard Westfall</author>
-      <source><cite>Never at Rest. A Biography of Isaac Newton</cite></source>
+      <source><cite>Never at Rest: A Biography of Isaac Newton</cite></source>
     <note>
       <p>
         Originally cited in <cite>The Borderlands of Science</cite>,
@@ -9517,7 +9518,9 @@ this book is flawless, because all its deficiencies are deliberate
 products of art.
     </p>
       <author>Matt Cartmill</author>
-      <source>First paragraph of a review of <cite>Primate Visions: Gender, Race, and Nature in the World of Modern Science</cite> by Donna Haraway, in <cite>International Journal ofPrimatology</cite> vol. 12 no. 1.</source>
+      <source>First paragraph of a review of <cite>Primate Visions:
+      Gender, Race, and Nature in the World of Modern Science</cite>
+      by Donna Haraway, in <cite>International Journal of Primatology</cite> vol. 12 no. 1.</source>
   </quotation>
   <quotation id="q936" date="1969">
     <p>
