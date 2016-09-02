@@ -3222,12 +3222,13 @@ like unto thyself.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Ambrose_Bierce">Ambrose Bierce</author>
   </quotation>
-  <quotation id="q357">
+  <quotation id="q357" date="1920">
     <p>
       Human history becomes more and more a race between education and
 catastrophe.
     </p>
-      <author>H.G. Wells</author>
+    <author>H.G. Wells</author>
+    <source><cite>The Outline of History</cite></source>
   </quotation>
   <quotation id="q358">
     <p>
@@ -9625,6 +9626,52 @@ have to make much of a rational case.  It's perfect for the less tethered.
   in the pursuit of liberty and the liberty lost in the pursuit of blood.
 </p><author>Jelani Cobb</author>
 <source>In "In Defense of George Bush", in <cite>The Best African-American Essays 2010</cite></source>
+</quotation>
+
+<quotation date="1998"><p>
+  This isn't life in the fast lane, it's life in the oncoming traffic.
+</p><author>Terry Pratchett</author>
+<source>In "No Worries", in <cite>A Slip of the Keyboard: Collected Nonfiction</cite></source>
+</quotation>
+
+  <quotation date="1932">
+    <p>
+      When he stood up, his face white and dirty and the silk of his
+      breeches opened from waist to knee, it was the dirtiness of the rented
+      breeches, the dirtiness of his slit underwear, and the clean, clean,
+      unbearably clean whiteness of the thigh bone that I had seen, and it
+      was that which was important.
+    </p>
+    <author>Ernest Hemingway</author>
+    <source>In "Bullfighting", from <cite>Death in the Afternoon</cite></source>
+  </quotation>
+
+  <quotation date="1912"><p>
+    We do not consider an individual disciplined only when he has been
+    rendered as artificially silent as a mute and as immovable as a
+    paralytic. He is an individual <em>annihilated</em>, not
+    <em>disciplined</em>.</p><p>
+We call an individual disciplined when he is master of himself, and can, therefore, regulate his own conduct when it shall be necessary to follow some rule of life.
+</p><author>Maria Montessori</author>
+<source><cite>The Montessori Method</cite></source>
+</quotation>
+
+<quotation date="2016-09-01"><p>
+  As a result, I’ve increasingly found myself a supporter of messy
+  public process: the legislation pushed through government slowly, in
+  curtailed form; the interminable, fruitless-seeming town-hall meeting;
+  many of the government’s lumbering, error-prone efforts at
+  regulation. These processes are cumbersome, often wasteful, and
+  inevitably infuriating. But at their best they have the virtue of
+  occurring in a common arena, the place where all parts of a population
+  meet. They force us, if we hope to get anything done, to translate our
+  values and thoughts into language that communicates broadly. The more
+  I observe, the warier I grow of privatized efficiency: in time, it
+  indulges clannish thought. Let’s drive our language out of private
+  circles, back toward the public sphere.
+</p><author>Nathan Heller</author>
+<source>In "Trump, the University of Chicago, and the Collapse of
+Public Language", in <cite>The New Yorker</cite></source>
 </quotation>
 
 <!-- ENDQT
