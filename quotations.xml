@@ -117,6 +117,11 @@ your theory.
     </p>
       <author>John A. Wheeler</author>
   </quotation>
+    <quotation date="1936-03"><p>The eternal mystery of the world is its
+  comprehensibility ... The fact that it is comprehensible is a miracle.
+</p>    <author rdf:resource="http://dbpedia.org/resource/Albert_Einstein">Albert Einstein</author>
+<source>From "Physics and Reality", in <cite>Franklin Institute Journal</cite></source>
+</quotation>
   <quotation id="q13">
     <p>
       A physicist is an atom's way of knowing about atoms.
@@ -9672,6 +9677,22 @@ We call an individual disciplined when he is master of himself, and can, therefo
 </p><author>Nathan Heller</author>
 <source>In "Trump, the University of Chicago, and the Collapse of
 Public Language", in <cite>The New Yorker</cite></source>
+</quotation>
+
+<quotation date="1962"><p>In preparing for battle I have always found
+that
+plans are useless, but planning is indispensable.
+</p><author rdf:resource="http://dbpedia.org/resource/Dwight_D._Eisenhower">Dwight D. Eisenhower</author>
+<source>Quoted in Richard Nixon's <cite>Six Crises</cite></source>
+</quotation>
+
+<quotation date="1928"><p>
+  Only reason can convince us of those three fundamental truths
+  without a recognition of which there can be no effective liberty:
+  that what we believe is not necessarily true; that what we like is
+  not necessarily good; and that all questions are open.
+</p><author>Clive Bell</author>
+<source><cite>Civilization</cite></source>
 </quotation>
 
 <!-- ENDQT
