@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="http://www.amk.ca/qel/qel.css"?>
+<quotations
+  xmlns="http://www.amk.ca/qel/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <title>Quotations from New Doctor Who</title>
+  <editor>A.M. Kuchling</editor>
+
+<!-- ENDQT
+
+  <quotation date=""><p>
+    </p>
+    <source></source>
+  </quotation>
+
+-->
+
+</quotations>
