@@ -4,7 +4,7 @@
   xmlns="http://www.amk.ca/qel/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <title>Quotations from Doctor Who</title>
+  <title>Quotations from Classic Doctor Who</title>
   <editor>A.M. Kuchling</editor>
   <quotation id="q1">
     <p>
