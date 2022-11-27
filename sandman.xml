@@ -4291,7 +4291,7 @@ little, for now I could write a real death, a true loss.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>William Shakespeare, in SANDMAN #75, "The Tempest"</source>
   </quotation>
-  <quotation>
+  <quotation id="q423">
     <p>
       The elephant swam to the island ahead of the Count's own skiff,
 and landed at exactly 3:00 PM.
@@ -4299,7 +4299,7 @@ and landed at exactly 3:00 PM.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q424">
     <p>
       At 3:02 PM a flock of snow-white doves rose into the air and
 flew across the island.
@@ -4307,7 +4307,7 @@ flew across the island.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q425">
     <p>
       "What are you doing?"
     </p>
@@ -4324,7 +4324,7 @@ the same place if I went around it?"
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Sergei and Death, from "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q426">
     <p>
       Each reveller, more resplendent than the last, was a symphony in
 blue, a confection in scarlet, a study in olive or vermilion or white,
@@ -4337,7 +4337,7 @@ island.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q427">
     <p>
       Perhaps I would still be with Patricia, if, at each kiss, at
 every touch, I had not compared her to the woman on the island. Her
@@ -4346,7 +4346,7 @@ eyes were not so dark and sparkling. Her smile was never so haunting.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Sergei, from "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q428">
     <p>
       "Where are we?"
     </p>
@@ -4362,7 +4362,7 @@ eyes were not so dark and sparkling. Her smile was never so haunting.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Sergei and Death, from "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q429">
     <p>
       "My Lord! There are people dying!"
     </p>
@@ -4373,7 +4373,7 @@ them. Do not disturb me."
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>An unnamed servant and the Count, in "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q430">
     <p>
       The people in the city seem paper thin in the mist. They believe
 they are dancing to the music of their lives... But I think, like the
@@ -4383,7 +4383,7 @@ comes and we are put away.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Sergei, from "Death and Venice" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q431">
     <p>
       Most people want things like a candle-flame, flickering,
 shifting. You, on the other hand, want like a forest fire.
@@ -4391,7 +4391,7 @@ shifting. You, on the other hand, want like a forest fire.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Desire, in "What I've Tasted of Desire" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q432">
     <p>
       He's very, very young. He's called Sol. He makes me laugh, and
 he means well.
@@ -4399,7 +4399,7 @@ he means well.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Mizar, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q433">
     <p>
       I shall leave. Decide what you like at your parliament. It is
 all one to me. It won't make a lot of difference in the long run, will
@@ -4408,7 +4408,7 @@ it? One by one, you will all come to me.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Death, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q434">
     <p>
       I should go there. You know what they will be saying? Blah blah
 blah blah. That's what they are going to say. Blah blah blah blah
@@ -4417,7 +4417,7 @@ blah.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Delight, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q435">
     <p>
       "I don't care if you are a dimension or not. If you're too small
 to be perceived, then I don't think you get to address the assembly."
@@ -4429,7 +4429,7 @@ respect."
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Two delegates, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q436">
     <p>
       The way I see it now, Faerie won't be a dimension so much as an
 aspiration.
@@ -4437,7 +4437,7 @@ aspiration.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>A delegate, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q437">
     <p>
       Truly, it would only be perfectly beautiful, a perfect piece of
 art, if one single life-form escaped. To remember, to mourn, to
@@ -4446,7 +4446,7 @@ despair.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Despair, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q438">
     <p>
       "Did I hear you say you planned to have some of your planets
 inhabited?"
@@ -4461,7 +4461,7 @@ themselves. None of them have woken yet."
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Dream and Sol, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q439">
     <p>
       "Poor Dream. And what happened to her? To Killalla of the Glow?"
     </p>
@@ -4477,21 +4477,21 @@ through the long night."
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Sol and one of his planets, in "The Heart of a Star" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q440">
     <p>
       When hope is past, she is there.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q441">
     <p>
       She is on the other side of every mirror.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q442">
     <p>
       She stands and waits, and in her posture the pain no longer
 tells you to live, and in her presence joy is unimaginable.
@@ -4499,7 +4499,7 @@ tells you to live, and in her presence joy is unimaginable.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q443">
     <p>
       She decides to make a list of the things that make her happy.
 She writes "plum-blossom" at the top of a piece of paper. Then she
@@ -4509,7 +4509,7 @@ begins to get dark.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q444">
     <p>
       Despair remembers. It is a peculiar, flat memory, in which
 things become bleak and bounded by the dark.
@@ -4517,7 +4517,7 @@ things become bleak and bounded by the dark.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q445">
     <p>
       Her kiss is the deep ocean. Her kiss is not the deep ocean. Her
 kiss is the grey sky. Her kiss is a blind alley. Her kiss is her touch
@@ -4527,7 +4527,7 @@ over.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q446">
     <p>
       A) If you can't be happy where you are, you can't be happy
 anywhere. Discuss, with examples from your own life.
@@ -4535,14 +4535,14 @@ anywhere. Discuss, with examples from your own life.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q447">
     <p>
       To be Despair. It is a portrait. Only close your eyes and feel.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Fifteen Portraits of Despair" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q448">
     <p>
       The third eye. You spend years doing everything you can to open
 it and then the damn thing opens and your friends laugh at you when
@@ -4556,11 +4556,11 @@ tips of his fingers and everything rainbows at the edges...
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Going Inside" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q449">
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Going Inside" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q450">
     <p>
       It's not from your future, you see. ... No... or maybe it is.
 But just a bit of one of them. I mean, there are so many of them. Like
@@ -4570,7 +4570,7 @@ all wiggling in different ways to get to the same place.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>Delirium, in "On The Peninsula" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q451">
     <p>
       It's a nothing place. And my sister will take my brother's boook
 and say "goodbye," and then it's all done. And that's it for this time
@@ -4583,7 +4583,7 @@ me either.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>"On The Peninsula" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q452">
     <p>
       You will spend time in the realm of each of his siblings -- you
 will dream, despair, desire, destroy, delight and otherwise, and,
@@ -4593,7 +4593,7 @@ he will read how your story comes out, a long time from now.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From "Endless Nights" in ENDLESS NIGHTS</source>
   </quotation>
-  <quotation>
+  <quotation id="q453">
     <p>
       It is all in his book. One day he will lay it down, when the
 book is done, and what comes after that is still unwritten.
