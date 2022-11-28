@@ -4863,6 +4863,19 @@ irony, the worlds are ending and she is there for all of them.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From SANDMAN: OVERTURE #6</source>
   </quotation>
+  <quotation id="q479">
+    <p>I made them toast with piggables on it. Piggables is like pigs and also
+    it is like vegetables.
+    </p>
+      <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
+      <source>Delirium, in SANDMAN: OVERTURE #6</source>
+  </quotation>
+  <quotation id="q480">
+    <p>"Just want to. Just know you are going to. He will do the rest. Want to.  <em>Want</em>."
+    </p><p>"Yes."</p>
+      <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
+      <source>Hope and the Dream of Cats, in SANDMAN: OVERTURE #6</source>
+  </quotation>
   <quotation id="q478">
     <p>
       We have only the slightest chance, but that is enough. ...
@@ -4874,5 +4887,13 @@ will not accept.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>The Dream of Cats, in SANDMAN: OVERTURE #6</source>
+  </quotation>
+  <quotation id="q481">
+    <p>
+      Dreams might be done, but so would Desire: mine is the force that keeps
+      bacteria and galaxies together. Lust and wanting and all the things that drive them, craving, needing... the breath of Desire.
+    </p>
+      <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
+      <source>Desire, in SANDMAN: OVERTURE #6</source>
   </quotation>
 </quotations>
