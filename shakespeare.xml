@@ -1372,7 +1372,7 @@ apples.
       <author rdf:resource="http://dbpedia.org/resource/William_Shakespeare"></author>
       <source><cite>Titus Andronicus</cite>, III, i</source>
   </quotation>
-  <quotation id="q118" date="1593">
+  <quotation id="q118" date="1593" content-warning="amputation">
     <p>
       TITUS: Thou shalt not sigh, nor hold thy stumps to heaven,
       <br />
