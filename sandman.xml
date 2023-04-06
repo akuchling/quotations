@@ -1245,7 +1245,7 @@ your throat with my teeth.
   </quotation>
   <quotation id="q129">
     <p>
-      You shouldn't trust the story-teller; only trust the story
+      You shouldn't trust the story-teller; only trust the story.
     </p>
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>The grandfather in SANDMAN #38: "The Hunt"</source>
@@ -1852,7 +1852,7 @@ and still. Apathy hangs like damp mist in the chill air.
       <author rdf:resource="http://dbpedia.org/resource/Neil_Gaiman"></author>
       <source>From SANDMAN #41: "Brief Lives:1"</source>
   </quotation>
-  <quotation id="q191">
+  <quotation id="q191" content-warning="suicide">
     <p>
       Today he's sitting in their family room. Realizing that his life
 is over, wondering if he has the courage to physically end it. He
